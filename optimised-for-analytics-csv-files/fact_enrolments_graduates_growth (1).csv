@@ -1,0 +1,145 @@
+institution_code,institution_abbreviation,institution_name,metric,year,value
+H01,CPUT,Cape Peninsula University of Technology,Enrolments,2012,33509
+H01,CPUT,Cape Peninsula University of Technology,Graduates,2012,7892
+H01,CPUT,Cape Peninsula University of Technology,Enrolments,2016,34455
+H01,CPUT,Cape Peninsula University of Technology,Graduates,2016,8483
+H01,CPUT,Cape Peninsula University of Technology,Enrolment Growth Rate,2016,0.006984294
+H01,CPUT,Cape Peninsula University of Technology,Graduate Growth Rate,2016,0.018217595
+H02,UCT,University of Cape Town,Enrolments,2012,25805
+H02,UCT,University of Cape Town,Graduates,2012,6737
+H02,UCT,University of Cape Town,Enrolments,2016,29232
+H02,UCT,University of Cape Town,Graduates,2016,7611
+H02,UCT,University of Cape Town,Enrolment Growth Rate,2016,0.031664928
+H02,UCT,University of Cape Town,Graduate Growth Rate,2016,0.030964696
+H03,CUT,Central University of Technology,Enrolments,2012,12724
+H03,CUT,Central University of Technology,Graduates,2012,3159
+H03,CUT,Central University of Technology,Enrolments,2016,15708
+H03,CUT,Central University of Technology,Graduates,2016,3723
+H03,CUT,Central University of Technology,Enrolment Growth Rate,2016,0.054081784
+H03,CUT,Central University of Technology,Graduate Growth Rate,2016,0.041923546
+H04,DUT,Durban University of Technology,Enrolments,2012,24875
+H04,DUT,Durban University of Technology,Graduates,2012,5902
+H04,DUT,Durban University of Technology,Enrolments,2016,28377
+H04,DUT,Durban University of Technology,Graduates,2016,6961
+H04,DUT,Durban University of Technology,Enrolment Growth Rate,2016,0.033477076
+H04,DUT,Durban University of Technology,Graduate Growth Rate,2016,0.042120903
+H05,FH,University of Fort Hare,Enrolments,2012,12044
+H05,FH,University of Fort Hare,Graduates,2012,2578
+H05,FH,University of Fort Hare,Enrolments,2016,13831
+H05,FH,University of Fort Hare,Graduates,2016,3118
+H05,FH,University of Fort Hare,Enrolment Growth Rate,2016,0.035191527
+H05,FH,University of Fort Hare,Graduate Growth Rate,2016,0.048692832
+H06,FS,University of Free State,Enrolments,2012,32375
+H06,FS,University of Free State,Graduates,2012,6473
+H06,FS,University of Free State,Enrolments,2016,36269
+H06,FS,University of Free State,Graduates,2016,6819
+H06,FS,University of Free State,Enrolment Growth Rate,2016,0.028801174
+H06,FS,University of Free State,Graduate Growth Rate,2016,0.013103395
+H07,UJ,University of Johannesburg,Enrolments,2012,48769
+H07,UJ,University of Johannesburg,Graduates,2012,11410
+H07,UJ,University of Johannesburg,Enrolments,2016,51795
+H07,UJ,University of Johannesburg,Graduates,2016,12865
+H07,UJ,University of Johannesburg,Enrolment Growth Rate,2016,0.015163505
+H07,UJ,University of Johannesburg,Graduate Growth Rate,2016,0.030459759
+H08,KZN,University of Kwazulu-Natal,Enrolments,2012,41864
+H08,KZN,University of Kwazulu-Natal,Graduates,2012,9488
+H08,KZN,University of Kwazulu-Natal,Enrolments,2016,46472
+H08,KZN,University of Kwazulu-Natal,Graduates,2016,10165
+H08,KZN,University of Kwazulu-Natal,Enrolment Growth Rate,2016,0.026449672
+H08,KZN,University of Kwazulu-Natal,Graduate Growth Rate,2016,0.017379955
+H09,UL,University of Limpopo,Enrolments,2012,22249
+H09,UL,University of Limpopo,Graduates,2012,4304
+H09,UL,University of Limpopo,Enrolments,2016,19843
+H09,UL,University of Limpopo,Graduates,2016,4399
+H09,UL,University of Limpopo,Enrolment Growth Rate,2016,-0.02820601
+H09,UL,University of Limpopo,Graduate Growth Rate,2016,0.005473027
+H10,NMU,Nelson Mandela University,Enrolments,2012,26597
+H10,NMU,Nelson Mandela University,Graduates,2012,5976
+H10,NMU,Nelson Mandela University,Enrolments,2016,27780
+H10,NMU,Nelson Mandela University,Graduates,2016,6798
+H10,NMU,Nelson Mandela University,Enrolment Growth Rate,2016,0.010938874
+H10,NMU,Nelson Mandela University,Graduate Growth Rate,2016,0.03274391
+H11,NWU,North West University,Enrolments,2012,58752
+H11,NWU,North West University,Graduates,2012,14669
+H11,NWU,North West University,Enrolments,2016,63395
+H11,NWU,North West University,Graduates,2016,17510
+H11,NWU,North West University,Enrolment Growth Rate,2016,0.019196885
+H11,NWU,North West University,Graduate Growth Rate,2016,0.045252968
+H12,UP,University of Pretoria,Enrolments,2012,57508
+H12,UP,University of Pretoria,Graduates,2012,13408
+H12,UP,University of Pretoria,Enrolments,2016,53232
+H12,UP,University of Pretoria,Graduates,2016,13499
+H12,UP,University of Pretoria,Enrolment Growth Rate,2016,-0.019130727
+H12,UP,University of Pretoria,Graduate Growth Rate,2016,0.001692447
+H13,RU,Rhodes University,Enrolments,2012,7395
+H13,RU,Rhodes University,Graduates,2012,2297
+H13,RU,Rhodes University,Enrolments,2016,8136
+H13,RU,Rhodes University,Graduates,2016,2464
+H13,RU,Rhodes University,Enrolment Growth Rate,2016,0.024160897
+H13,RU,Rhodes University,Graduate Growth Rate,2016,0.017700357
+H14,UNISA,University of South Africa,Enrolments,2012,336286
+H14,UNISA,University of South Africa,Graduates,2012,26210
+H14,UNISA,University of South Africa,Enrolments,2016,299324
+H14,UNISA,University of South Africa,Graduates,2016,43287
+H14,UNISA,University of South Africa,Enrolment Growth Rate,2016,-0.028689266
+H14,UNISA,University of South Africa,Graduate Growth Rate,2016,0.133633358
+H15,SU,University of Stellenbosch,Enrolments,2012,27510
+H15,SU,University of Stellenbosch,Graduates,2012,7681
+H15,SU,University of Stellenbosch,Enrolments,2016,30161
+H15,SU,University of Stellenbosch,Graduates,2016,8209
+H15,SU,University of Stellenbosch,Enrolment Growth Rate,2016,0.023266571
+H15,SU,University of Stellenbosch,Graduate Growth Rate,2016,0.016759228
+H16,TUT,Tshwane University of Technology,Enrolments,2012,51711
+H16,TUT,Tshwane University of Technology,Graduates,2012,10757
+H16,TUT,Tshwane University of Technology,Enrolments,2016,58901
+H16,TUT,Tshwane University of Technology,Graduates,2016,13137
+H16,TUT,Tshwane University of Technology,Enrolment Growth Rate,2016,0.033082329
+H16,TUT,Tshwane University of Technology,Graduate Growth Rate,2016,0.0512385
+H17,UNIVEN,University of Venda,Enrolments,2012,10323
+H17,UNIVEN,University of Venda,Graduates,2012,1764
+H17,UNIVEN,University of Venda,Enrolments,2016,15237
+H17,UNIVEN,University of Venda,Graduates,2016,3115
+H17,UNIVEN,University of Venda,Enrolment Growth Rate,2016,0.102232938
+H17,UNIVEN,University of Venda,Graduate Growth Rate,2016,0.152762573
+H18,VUT,Vaal University of Technology,Enrolments,2012,21201
+H18,VUT,Vaal University of Technology,Graduates,2012,3930
+H18,VUT,Vaal University of Technology,Enrolments,2016,19241
+H18,VUT,Vaal University of Technology,Graduates,2016,4101
+H18,VUT,Vaal University of Technology,Enrolment Growth Rate,2016,-0.023959534
+H18,VUT,Vaal University of Technology,Graduate Growth Rate,2016,0.010704745
+H19,WSU,Walter Sisulu University,Enrolments,2012,24613
+H19,WSU,Walter Sisulu University,Graduates,2012,4827
+H19,WSU,Walter Sisulu University,Enrolments,2016,28581
+H19,WSU,Walter Sisulu University,Graduates,2016,5735
+H19,WSU,Walter Sisulu University,Enrolment Growth Rate,2016,0.038073769
+H19,WSU,Walter Sisulu University,Graduate Growth Rate,2016,0.044032531
+H20,UWC,University of the Western Cape,Enrolments,2012,19591
+H20,UWC,University of the Western Cape,Graduates,2012,3705
+H20,UWC,University of the Western Cape,Enrolments,2016,21796
+H20,UWC,University of the Western Cape,Graduates,2016,4718
+H20,UWC,University of the Western Cape,Enrolment Growth Rate,2016,0.027022714
+H20,UWC,University of the Western Cape,Graduate Growth Rate,2016,0.06228838
+H21,WITS,University of Witwatersrand,Enrolments,2012,30436
+H21,WITS,University of Witwatersrand,Graduates,2012,6809
+H21,WITS,University of Witwatersrand,Enrolments,2016,37448
+H21,WITS,University of Witwatersrand,Graduates,2016,8599
+H21,WITS,University of Witwatersrand,Enrolment Growth Rate,2016,0.053198576
+H21,WITS,University of Witwatersrand,Graduate Growth Rate,2016,0.060086133
+H22,UZ,University of Zululand,Enrolments,2012,16434
+H22,UZ,University of Zululand,Graduates,2012,4066
+H22,UZ,University of Zululand,Enrolments,2016,17662
+H22,UZ,University of Zululand,Graduates,2016,4267
+H22,UZ,University of Zululand,Enrolment Growth Rate,2016,0.018179033
+H22,UZ,University of Zululand,Graduate Growth Rate,2016,0.012135872
+H23,SPU,Sol Plaatje University,Enrolments,2016,703
+H23,SPU,Sol Plaatje University,Graduates,2016,67
+H24,UMP,University of Mpumalanga,Enrolments,2016,1268
+H24,UMP,University of Mpumalanga,Graduates,2016,203
+H25,MUT,Mangosuthu University of Technology,Enrolments,2012,10802
+H25,MUT,Mangosuthu University of Technology,Graduates,2012,1951
+H25,MUT,Mangosuthu University of Technology,Enrolments,2016,11588
+H25,MUT,Mangosuthu University of Technology,Graduates,2016,2296
+H25,MUT,Mangosuthu University of Technology,Enrolment Growth Rate,2016,0.017714772
+H25,MUT,Mangosuthu University of Technology,Graduate Growth Rate,2016,0.041546475
+H26,SMHSU,Sefako Makgatho Health Science University,Enrolments,2016,5402
+H26,SMHSU,Sefako Makgatho Health Science University,Graduates,2016,927

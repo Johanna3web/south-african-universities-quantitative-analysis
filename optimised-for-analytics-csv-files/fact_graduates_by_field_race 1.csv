@@ -1,0 +1,769 @@
+field_of_study,year,race,program_type,graduates
+Natural sciences,2009,African,Undergraduate,7329.5
+Natural sciences,2009,African,PG < Masters,1155.75
+Natural sciences,2009,African,Masters,518.92
+Natural sciences,2009,African,Doctorate,170.0
+Natural sciences,2009,Coloured,Undergraduate,620.67
+Natural sciences,2009,Coloured,PG < Masters,157.67
+Natural sciences,2009,Coloured,Masters,61.58
+Natural sciences,2009,Coloured,Doctorate,30.0
+Natural sciences,2009,Indian,Undergraduate,613.83
+Natural sciences,2009,Indian,PG < Masters,208.17
+Natural sciences,2009,Indian,Masters,85.5
+Natural sciences,2009,Indian,Doctorate,27.0
+Natural sciences,2009,White,Undergraduate,3106.92
+Natural sciences,2009,White,PG < Masters,1207.92
+Natural sciences,2009,White,Masters,529.92
+Natural sciences,2009,White,Doctorate,201.5
+Engineering and technology,2009,African,Undergraduate,6409.92
+Engineering and technology,2009,African,PG < Masters,379.67
+Engineering and technology,2009,African,Masters,320.25
+Engineering and technology,2009,African,Doctorate,28.0
+Engineering and technology,2009,Coloured,Undergraduate,657.25
+Engineering and technology,2009,Coloured,PG < Masters,37.5
+Engineering and technology,2009,Coloured,Masters,41.0
+Engineering and technology,2009,Coloured,Doctorate,3.0
+Engineering and technology,2009,Indian,Undergraduate,784.42
+Engineering and technology,2009,Indian,PG < Masters,90.33
+Engineering and technology,2009,Indian,Masters,78.0
+Engineering and technology,2009,Indian,Doctorate,7.0
+Engineering and technology,2009,White,Undergraduate,3563.17
+Engineering and technology,2009,White,PG < Masters,603.83
+Engineering and technology,2009,White,Masters,570.17
+Engineering and technology,2009,White,Doctorate,68.0
+Health sciences,2009,African,Undergraduate,3957.67
+Health sciences,2009,African,PG < Masters,1346.75
+Health sciences,2009,African,Masters,404.75
+Health sciences,2009,African,Doctorate,55.5
+Health sciences,2009,Coloured,Undergraduate,815.75
+Health sciences,2009,Coloured,PG < Masters,414.0
+Health sciences,2009,Coloured,Masters,65.0
+Health sciences,2009,Coloured,Doctorate,9.0
+Health sciences,2009,Indian,Undergraduate,745.5
+Health sciences,2009,Indian,PG < Masters,160.17
+Health sciences,2009,Indian,Masters,110.0
+Health sciences,2009,Indian,Doctorate,15.0
+Health sciences,2009,White,Undergraduate,2491.92
+Health sciences,2009,White,PG < Masters,927.75
+Health sciences,2009,White,Masters,507.0
+Health sciences,2009,White,Doctorate,91.5
+"Business, economic and management sciences",2009,African,Undergraduate,17289.83
+"Business, economic and management sciences",2009,African,PG < Masters,1705.17
+"Business, economic and management sciences",2009,African,Masters,572.75
+"Business, economic and management sciences",2009,African,Doctorate,20.5
+"Business, economic and management sciences",2009,Coloured,Undergraduate,2019.5
+"Business, economic and management sciences",2009,Coloured,PG < Masters,377.17
+"Business, economic and management sciences",2009,Coloured,Masters,97.08
+"Business, economic and management sciences",2009,Coloured,Doctorate,3.0
+"Business, economic and management sciences",2009,Indian,Undergraduate,1888.17
+"Business, economic and management sciences",2009,Indian,PG < Masters,643.67
+"Business, economic and management sciences",2009,Indian,Masters,147.5
+"Business, economic and management sciences",2009,Indian,Doctorate,5.0
+"Business, economic and management sciences",2009,White,Undergraduate,5861.75
+"Business, economic and management sciences",2009,White,PG < Masters,2491.0
+"Business, economic and management sciences",2009,White,Masters,715.17
+"Business, economic and management sciences",2009,White,Doctorate,34.0
+Education,2009,African,Undergraduate,22003.58
+Education,2009,African,PG < Masters,5280.58
+Education,2009,African,Masters,285.5
+Education,2009,African,Doctorate,66.0
+Education,2009,Coloured,Undergraduate,1234.0
+Education,2009,Coloured,PG < Masters,830.83
+Education,2009,Coloured,Masters,40.0
+Education,2009,Coloured,Doctorate,9.0
+Education,2009,Indian,Undergraduate,521.83
+Education,2009,Indian,PG < Masters,372.17
+Education,2009,Indian,Masters,41.0
+Education,2009,Indian,Doctorate,14.0
+Education,2009,White,Undergraduate,2720.83
+Education,2009,White,PG < Masters,1850.58
+Education,2009,White,Masters,170.5
+Education,2009,White,Doctorate,58.0
+Humanities and social sciences,2009,African,Undergraduate,13375.5
+Humanities and social sciences,2009,African,PG < Masters,2820.08
+Humanities and social sciences,2009,African,Masters,1147.83
+Humanities and social sciences,2009,African,Doctorate,176.0
+Humanities and social sciences,2009,Coloured,Undergraduate,1831.83
+Humanities and social sciences,2009,Coloured,PG < Masters,395.83
+Humanities and social sciences,2009,Coloured,Masters,156.33
+Humanities and social sciences,2009,Coloured,Doctorate,21.0
+Humanities and social sciences,2009,Indian,Undergraduate,1428.25
+Humanities and social sciences,2009,Indian,PG < Masters,361.5
+Humanities and social sciences,2009,Indian,Masters,144.0
+Humanities and social sciences,2009,Indian,Doctorate,16.0
+Humanities and social sciences,2009,White,Undergraduate,7309.42
+Humanities and social sciences,2009,White,PG < Masters,2640.92
+Humanities and social sciences,2009,White,Masters,1264.25
+Humanities and social sciences,2009,White,Doctorate,244.0
+Natural sciences,2010,African,Undergraduate,8471.67
+Natural sciences,2010,African,PG < Masters,1565.66
+Natural sciences,2010,African,Masters,610.92
+Natural sciences,2010,African,Doctorate,198.25
+Natural sciences,2010,Coloured,Undergraduate,706.67
+Natural sciences,2010,Coloured,PG < Masters,194.67
+Natural sciences,2010,Coloured,Masters,76.0
+Natural sciences,2010,Coloured,Doctorate,29.0
+Natural sciences,2010,Indian,Undergraduate,599.5
+Natural sciences,2010,Indian,PG < Masters,238.08
+Natural sciences,2010,Indian,Masters,108.0
+Natural sciences,2010,Indian,Doctorate,39.0
+Natural sciences,2010,White,Undergraduate,3077.83
+Natural sciences,2010,White,PG < Masters,1420.16
+Natural sciences,2010,White,Masters,659.17
+Natural sciences,2010,White,Doctorate,234.0
+Engineering and technology,2010,African,Undergraduate,6529.92
+Engineering and technology,2010,African,PG < Masters,332.0
+Engineering and technology,2010,African,Masters,327.0
+Engineering and technology,2010,African,Doctorate,39.0
+Engineering and technology,2010,Coloured,Undergraduate,561.33
+Engineering and technology,2010,Coloured,PG < Masters,45.5
+Engineering and technology,2010,Coloured,Masters,38.5
+Engineering and technology,2010,Coloured,Doctorate,3.0
+Engineering and technology,2010,Indian,Undergraduate,709.42
+Engineering and technology,2010,Indian,PG < Masters,60.5
+Engineering and technology,2010,Indian,Masters,73.5
+Engineering and technology,2010,Indian,Doctorate,5.0
+Engineering and technology,2010,White,Undergraduate,3139.42
+Engineering and technology,2010,White,PG < Masters,601.17
+Engineering and technology,2010,White,Masters,528.33
+Engineering and technology,2010,White,Doctorate,63.0
+Health sciences,2010,African,Undergraduate,3895.42
+Health sciences,2010,African,PG < Masters,1525.25
+Health sciences,2010,African,Masters,429.0
+Health sciences,2010,African,Doctorate,35.25
+Health sciences,2010,Coloured,Undergraduate,686.92
+Health sciences,2010,Coloured,PG < Masters,394.5
+Health sciences,2010,Coloured,Masters,61.5
+Health sciences,2010,Coloured,Doctorate,9.0
+Health sciences,2010,Indian,Undergraduate,708.83
+Health sciences,2010,Indian,PG < Masters,120.92
+Health sciences,2010,Indian,Masters,128.5
+Health sciences,2010,Indian,Doctorate,11.0
+Health sciences,2010,White,Undergraduate,1981.75
+Health sciences,2010,White,PG < Masters,642.92
+Health sciences,2010,White,Masters,451.08
+Health sciences,2010,White,Doctorate,54.5
+"Business, economic and management sciences",2010,African,Undergraduate,20186.16
+"Business, economic and management sciences",2010,African,PG < Masters,2626.17
+"Business, economic and management sciences",2010,African,Masters,914.0
+"Business, economic and management sciences",2010,African,Doctorate,42.5
+"Business, economic and management sciences",2010,Coloured,Undergraduate,2301.42
+"Business, economic and management sciences",2010,Coloured,PG < Masters,507.83
+"Business, economic and management sciences",2010,Coloured,Masters,116.0
+"Business, economic and management sciences",2010,Coloured,Doctorate,2.0
+"Business, economic and management sciences",2010,Indian,Undergraduate,2147.83
+"Business, economic and management sciences",2010,Indian,PG < Masters,850.08
+"Business, economic and management sciences",2010,Indian,Masters,206.0
+"Business, economic and management sciences",2010,Indian,Doctorate,14.0
+"Business, economic and management sciences",2010,White,Undergraduate,7100.92
+"Business, economic and management sciences",2010,White,PG < Masters,3600.92
+"Business, economic and management sciences",2010,White,Masters,803.33
+"Business, economic and management sciences",2010,White,Doctorate,44.5
+Education,2010,African,Undergraduate,22905.0
+Education,2010,African,PG < Masters,6521.25
+Education,2010,African,Masters,233.5
+Education,2010,African,Doctorate,63.5
+Education,2010,Coloured,Undergraduate,1299.92
+Education,2010,Coloured,PG < Masters,894.5
+Education,2010,Coloured,Masters,46.0
+Education,2010,Coloured,Doctorate,17.0
+Education,2010,Indian,Undergraduate,460.33
+Education,2010,Indian,PG < Masters,430.33
+Education,2010,Indian,Masters,39.5
+Education,2010,Indian,Doctorate,10.0
+Education,2010,White,Undergraduate,1995.75
+Education,2010,White,PG < Masters,2002.92
+Education,2010,White,Masters,118.5
+Education,2010,White,Doctorate,46.5
+Humanities and social sciences,2010,African,Undergraduate,12733.83
+Humanities and social sciences,2010,African,PG < Masters,2476.67
+Humanities and social sciences,2010,African,Masters,1045.58
+Humanities and social sciences,2010,African,Doctorate,164.5
+Humanities and social sciences,2010,Coloured,Undergraduate,1936.75
+Humanities and social sciences,2010,Coloured,PG < Masters,465.0
+Humanities and social sciences,2010,Coloured,Masters,158.0
+Humanities and social sciences,2010,Coloured,Doctorate,21.0
+Humanities and social sciences,2010,Indian,Undergraduate,1199.08
+Humanities and social sciences,2010,Indian,PG < Masters,264.08
+Humanities and social sciences,2010,Indian,Masters,157.5
+Humanities and social sciences,2010,Indian,Doctorate,27.0
+Humanities and social sciences,2010,White,Undergraduate,6625.33
+Humanities and social sciences,2010,White,PG < Masters,2029.92
+Humanities and social sciences,2010,White,Masters,1179.58
+Humanities and social sciences,2010,White,Doctorate,238.5
+Natural sciences,2011,African,Undergraduate,9504.67
+Natural sciences,2011,African,PG < Masters,1733.83
+Natural sciences,2011,African,Masters,749.17
+Natural sciences,2011,African,Doctorate,239.5
+Natural sciences,2011,Coloured,Undergraduate,734.0
+Natural sciences,2011,Coloured,PG < Masters,195.58
+Natural sciences,2011,Coloured,Masters,86.75
+Natural sciences,2011,Coloured,Doctorate,31.0
+Natural sciences,2011,Indian,Undergraduate,735.92
+Natural sciences,2011,Indian,PG < Masters,266.83
+Natural sciences,2011,Indian,Masters,105.17
+Natural sciences,2011,Indian,Doctorate,37.0
+Natural sciences,2011,White,Undergraduate,3140.17
+Natural sciences,2011,White,PG < Masters,1382.42
+Natural sciences,2011,White,Masters,733.5
+Natural sciences,2011,White,Doctorate,251.5
+Engineering and technology,2011,African,Undergraduate,6868.08
+Engineering and technology,2011,African,PG < Masters,421.25
+Engineering and technology,2011,African,Masters,400.0
+Engineering and technology,2011,African,Doctorate,47.0
+Engineering and technology,2011,Coloured,Undergraduate,636.17
+Engineering and technology,2011,Coloured,PG < Masters,31.17
+Engineering and technology,2011,Coloured,Masters,45.0
+Engineering and technology,2011,Coloured,Doctorate,4.0
+Engineering and technology,2011,Indian,Undergraduate,802.58
+Engineering and technology,2011,Indian,PG < Masters,102.08
+Engineering and technology,2011,Indian,Masters,97.0
+Engineering and technology,2011,Indian,Doctorate,13.0
+Engineering and technology,2011,White,Undergraduate,3279.75
+Engineering and technology,2011,White,PG < Masters,643.25
+Engineering and technology,2011,White,Masters,641.92
+Engineering and technology,2011,White,Doctorate,69.0
+Health sciences,2011,African,Undergraduate,4233.75
+Health sciences,2011,African,PG < Masters,1547.0
+Health sciences,2011,African,Masters,439.08
+Health sciences,2011,African,Doctorate,39.5
+Health sciences,2011,Coloured,Undergraduate,738.58
+Health sciences,2011,Coloured,PG < Masters,361.67
+Health sciences,2011,Coloured,Masters,68.33
+Health sciences,2011,Coloured,Doctorate,6.0
+Health sciences,2011,Indian,Undergraduate,714.58
+Health sciences,2011,Indian,PG < Masters,104.75
+Health sciences,2011,Indian,Masters,129.83
+Health sciences,2011,Indian,Doctorate,22.0
+Health sciences,2011,White,Undergraduate,2049.33
+Health sciences,2011,White,PG < Masters,605.92
+Health sciences,2011,White,Masters,507.83
+Health sciences,2011,White,Doctorate,87.5
+"Business, economic and management sciences",2011,African,Undergraduate,22397.92
+"Business, economic and management sciences",2011,African,PG < Masters,2874.5
+"Business, economic and management sciences",2011,African,Masters,1071.42
+"Business, economic and management sciences",2011,African,Doctorate,61.0
+"Business, economic and management sciences",2011,Coloured,Undergraduate,2304.0
+"Business, economic and management sciences",2011,Coloured,PG < Masters,490.75
+"Business, economic and management sciences",2011,Coloured,Masters,142.17
+"Business, economic and management sciences",2011,Coloured,Doctorate,4.0
+"Business, economic and management sciences",2011,Indian,Undergraduate,2291.83
+"Business, economic and management sciences",2011,Indian,PG < Masters,847.58
+"Business, economic and management sciences",2011,Indian,Masters,255.67
+"Business, economic and management sciences",2011,Indian,Doctorate,7.0
+"Business, economic and management sciences",2011,White,Undergraduate,6766.83
+"Business, economic and management sciences",2011,White,PG < Masters,3412.08
+"Business, economic and management sciences",2011,White,Masters,947.92
+"Business, economic and management sciences",2011,White,Doctorate,55.33
+Education,2011,African,Undergraduate,21528.58
+Education,2011,African,PG < Masters,7459.25
+Education,2011,African,Masters,288.33
+Education,2011,African,Doctorate,67.0
+Education,2011,Coloured,Undergraduate,1265.08
+Education,2011,Coloured,PG < Masters,946.5
+Education,2011,Coloured,Masters,48.5
+Education,2011,Coloured,Doctorate,12.0
+Education,2011,Indian,Undergraduate,465.75
+Education,2011,Indian,PG < Masters,396.17
+Education,2011,Indian,Masters,71.67
+Education,2011,Indian,Doctorate,17.0
+Education,2011,White,Undergraduate,2125.83
+Education,2011,White,PG < Masters,2190.0
+Education,2011,White,Masters,161.67
+Education,2011,White,Doctorate,56.0
+Humanities and social sciences,2011,African,Undergraduate,14294.0
+Humanities and social sciences,2011,African,PG < Masters,2758.17
+Humanities and social sciences,2011,African,Masters,1046.0
+Humanities and social sciences,2011,African,Doctorate,176.0
+Humanities and social sciences,2011,Coloured,Undergraduate,1757.17
+Humanities and social sciences,2011,Coloured,PG < Masters,464.33
+Humanities and social sciences,2011,Coloured,Masters,154.25
+Humanities and social sciences,2011,Coloured,Doctorate,23.0
+Humanities and social sciences,2011,Indian,Undergraduate,1260.33
+Humanities and social sciences,2011,Indian,PG < Masters,267.58
+Humanities and social sciences,2011,Indian,Masters,141.67
+Humanities and social sciences,2011,Indian,Doctorate,31.0
+Humanities and social sciences,2011,White,Undergraduate,6347.08
+Humanities and social sciences,2011,White,PG < Masters,1885.33
+Humanities and social sciences,2011,White,Masters,1192.17
+Humanities and social sciences,2011,White,Doctorate,205.67
+Natural sciences,2012,African,Undergraduate,10873.33
+Natural sciences,2012,African,PG < Masters,2013.92
+Natural sciences,2012,African,Masters,774.75
+Natural sciences,2012,African,Doctorate,290.0
+Natural sciences,2012,Coloured,Undergraduate,832.83
+Natural sciences,2012,Coloured,PG < Masters,199.67
+Natural sciences,2012,Coloured,Masters,100.17
+Natural sciences,2012,Coloured,Doctorate,35.0
+Natural sciences,2012,Indian,Undergraduate,714.83
+Natural sciences,2012,Indian,PG < Masters,265.0
+Natural sciences,2012,Indian,Masters,105.83
+Natural sciences,2012,Indian,Doctorate,46.0
+Natural sciences,2012,White,Undergraduate,3203.16
+Natural sciences,2012,White,PG < Masters,1324.0
+Natural sciences,2012,White,Masters,754.25
+Natural sciences,2012,White,Doctorate,273.0
+Engineering and technology,2012,African,Undergraduate,7239.08
+Engineering and technology,2012,African,PG < Masters,459.42
+Engineering and technology,2012,African,Masters,418.0
+Engineering and technology,2012,African,Doctorate,57.0
+Engineering and technology,2012,Coloured,Undergraduate,644.92
+Engineering and technology,2012,Coloured,PG < Masters,27.08
+Engineering and technology,2012,Coloured,Masters,44.0
+Engineering and technology,2012,Coloured,Doctorate,4.0
+Engineering and technology,2012,Indian,Undergraduate,849.83
+Engineering and technology,2012,Indian,PG < Masters,95.0
+Engineering and technology,2012,Indian,Masters,105.0
+Engineering and technology,2012,Indian,Doctorate,15.0
+Engineering and technology,2012,White,Undergraduate,3328.75
+Engineering and technology,2012,White,PG < Masters,593.58
+Engineering and technology,2012,White,Masters,650.92
+Engineering and technology,2012,White,Doctorate,70.0
+Health sciences,2012,African,Undergraduate,4354.5
+Health sciences,2012,African,PG < Masters,1707.33
+Health sciences,2012,African,Masters,526.25
+Health sciences,2012,African,Doctorate,62.0
+Health sciences,2012,Coloured,Undergraduate,612.75
+Health sciences,2012,Coloured,PG < Masters,378.58
+Health sciences,2012,Coloured,Masters,73.75
+Health sciences,2012,Coloured,Doctorate,9.0
+Health sciences,2012,Indian,Undergraduate,693.5
+Health sciences,2012,Indian,PG < Masters,126.33
+Health sciences,2012,Indian,Masters,163.92
+Health sciences,2012,Indian,Doctorate,19.0
+Health sciences,2012,White,Undergraduate,1941.58
+Health sciences,2012,White,PG < Masters,578.42
+Health sciences,2012,White,Masters,533.42
+Health sciences,2012,White,Doctorate,93.5
+"Business, economic and management sciences",2012,African,Undergraduate,24092.92
+"Business, economic and management sciences",2012,African,PG < Masters,3262.75
+"Business, economic and management sciences",2012,African,Masters,1190.67
+"Business, economic and management sciences",2012,African,Doctorate,70.0
+"Business, economic and management sciences",2012,Coloured,Undergraduate,2316.83
+"Business, economic and management sciences",2012,Coloured,PG < Masters,545.33
+"Business, economic and management sciences",2012,Coloured,Masters,133.83
+"Business, economic and management sciences",2012,Coloured,Doctorate,6.0
+"Business, economic and management sciences",2012,Indian,Undergraduate,2200.58
+"Business, economic and management sciences",2012,Indian,PG < Masters,850.75
+"Business, economic and management sciences",2012,Indian,Masters,264.5
+"Business, economic and management sciences",2012,Indian,Doctorate,9.0
+"Business, economic and management sciences",2012,White,Undergraduate,6308.25
+"Business, economic and management sciences",2012,White,PG < Masters,3508.5
+"Business, economic and management sciences",2012,White,Masters,935.08
+"Business, economic and management sciences",2012,White,Doctorate,74.33
+Education,2012,African,Undergraduate,18283.67
+Education,2012,African,PG < Masters,7788.75
+Education,2012,African,Masters,330.5
+Education,2012,African,Doctorate,98.5
+Education,2012,Coloured,Undergraduate,1143.58
+Education,2012,Coloured,PG < Masters,716.67
+Education,2012,Coloured,Masters,60.5
+Education,2012,Coloured,Doctorate,13.0
+Education,2012,Indian,Undergraduate,597.17
+Education,2012,Indian,PG < Masters,444.0
+Education,2012,Indian,Masters,60.67
+Education,2012,Indian,Doctorate,17.0
+Education,2012,White,Undergraduate,2444.0
+Education,2012,White,PG < Masters,2412.0
+Education,2012,White,Masters,159.67
+Education,2012,White,Doctorate,70.5
+Humanities and social sciences,2012,African,Undergraduate,16700.5
+Humanities and social sciences,2012,African,PG < Masters,2907.83
+Humanities and social sciences,2012,African,Masters,1199.83
+Humanities and social sciences,2012,African,Doctorate,226.5
+Humanities and social sciences,2012,Coloured,Undergraduate,2036.08
+Humanities and social sciences,2012,Coloured,PG < Masters,476.67
+Humanities and social sciences,2012,Coloured,Masters,183.75
+Humanities and social sciences,2012,Coloured,Doctorate,31.0
+Humanities and social sciences,2012,Indian,Undergraduate,1228.08
+Humanities and social sciences,2012,Indian,PG < Masters,299.91
+Humanities and social sciences,2012,Indian,Masters,140.08
+Humanities and social sciences,2012,Indian,Doctorate,35.0
+Humanities and social sciences,2012,White,Undergraduate,6307.25
+Humanities and social sciences,2012,White,PG < Masters,1893.5
+Humanities and social sciences,2012,White,Masters,1178.67
+Humanities and social sciences,2012,White,Doctorate,235.67
+Natural sciences,2013,African,Undergraduate,11865.5
+Natural sciences,2013,African,PG < Masters,2268.58
+Natural sciences,2013,African,Masters,925.08
+Natural sciences,2013,African,Doctorate,331.5
+Natural sciences,2013,Coloured,Undergraduate,888.66
+Natural sciences,2013,Coloured,PG < Masters,270.5
+Natural sciences,2013,Coloured,Masters,96.33
+Natural sciences,2013,Coloured,Doctorate,34.75
+Natural sciences,2013,Indian,Undergraduate,825.17
+Natural sciences,2013,Indian,PG < Masters,274.08
+Natural sciences,2013,Indian,Masters,114.5
+Natural sciences,2013,Indian,Doctorate,57.25
+Natural sciences,2013,White,Undergraduate,3606.58
+Natural sciences,2013,White,PG < Masters,1423.5
+Natural sciences,2013,White,Masters,799.42
+Natural sciences,2013,White,Doctorate,271.25
+Engineering and technology,2013,African,Undergraduate,8715.16
+Engineering and technology,2013,African,PG < Masters,490.25
+Engineering and technology,2013,African,Masters,460.5
+Engineering and technology,2013,African,Doctorate,53.0
+Engineering and technology,2013,Coloured,Undergraduate,648.42
+Engineering and technology,2013,Coloured,PG < Masters,36.75
+Engineering and technology,2013,Coloured,Masters,41.0
+Engineering and technology,2013,Coloured,Doctorate,7.25
+Engineering and technology,2013,Indian,Undergraduate,900.92
+Engineering and technology,2013,Indian,PG < Masters,96.25
+Engineering and technology,2013,Indian,Masters,97.0
+Engineering and technology,2013,Indian,Doctorate,12.75
+Engineering and technology,2013,White,Undergraduate,3318.83
+Engineering and technology,2013,White,PG < Masters,613.17
+Engineering and technology,2013,White,Masters,679.08
+Engineering and technology,2013,White,Doctorate,75.75
+Health sciences,2013,African,Undergraduate,4733.83
+Health sciences,2013,African,PG < Masters,1503.92
+Health sciences,2013,African,Masters,582.58
+Health sciences,2013,African,Doctorate,76.5
+Health sciences,2013,Coloured,Undergraduate,740.33
+Health sciences,2013,Coloured,PG < Masters,351.17
+Health sciences,2013,Coloured,Masters,59.0
+Health sciences,2013,Coloured,Doctorate,11.0
+Health sciences,2013,Indian,Undergraduate,792.83
+Health sciences,2013,Indian,PG < Masters,137.0
+Health sciences,2013,Indian,Masters,172.5
+Health sciences,2013,Indian,Doctorate,18.0
+Health sciences,2013,White,Undergraduate,1849.92
+Health sciences,2013,White,PG < Masters,610.08
+Health sciences,2013,White,Masters,525.5
+Health sciences,2013,White,Doctorate,105.0
+"Business, economic and management sciences",2013,African,Undergraduate,25818.42
+"Business, economic and management sciences",2013,African,PG < Masters,4162.58
+"Business, economic and management sciences",2013,African,Masters,1094.92
+"Business, economic and management sciences",2013,African,Doctorate,62.33
+"Business, economic and management sciences",2013,Coloured,Undergraduate,2311.25
+"Business, economic and management sciences",2013,Coloured,PG < Masters,575.08
+"Business, economic and management sciences",2013,Coloured,Masters,125.25
+"Business, economic and management sciences",2013,Coloured,Doctorate,6.0
+"Business, economic and management sciences",2013,Indian,Undergraduate,2434.67
+"Business, economic and management sciences",2013,Indian,PG < Masters,985.58
+"Business, economic and management sciences",2013,Indian,Masters,243.0
+"Business, economic and management sciences",2013,Indian,Doctorate,10.0
+"Business, economic and management sciences",2013,White,Undergraduate,6439.58
+"Business, economic and management sciences",2013,White,PG < Masters,3388.5
+"Business, economic and management sciences",2013,White,Masters,977.17
+"Business, economic and management sciences",2013,White,Doctorate,80.0
+Education,2013,African,Undergraduate,18762.17
+Education,2013,African,PG < Masters,9693.33
+Education,2013,African,Masters,291.0
+Education,2013,African,Doctorate,115.0
+Education,2013,Coloured,Undergraduate,1275.33
+Education,2013,Coloured,PG < Masters,712.25
+Education,2013,Coloured,Masters,46.17
+Education,2013,Coloured,Doctorate,18.5
+Education,2013,Indian,Undergraduate,595.83
+Education,2013,Indian,PG < Masters,535.42
+Education,2013,Indian,Masters,56.0
+Education,2013,Indian,Doctorate,16.5
+Education,2013,White,Undergraduate,2765.75
+Education,2013,White,PG < Masters,2542.0
+Education,2013,White,Masters,175.83
+Education,2013,White,Doctorate,63.5
+Humanities and social sciences,2013,African,Undergraduate,19507.92
+Humanities and social sciences,2013,African,PG < Masters,3772.33
+Humanities and social sciences,2013,African,Masters,1322.92
+Humanities and social sciences,2013,African,Doctorate,257.67
+Humanities and social sciences,2013,Coloured,Undergraduate,2112.0
+Humanities and social sciences,2013,Coloured,PG < Masters,536.25
+Humanities and social sciences,2013,Coloured,Masters,198.25
+Humanities and social sciences,2013,Coloured,Doctorate,33.5
+Humanities and social sciences,2013,Indian,Undergraduate,1330.58
+Humanities and social sciences,2013,Indian,PG < Masters,342.67
+Humanities and social sciences,2013,Indian,Masters,144.0
+Humanities and social sciences,2013,Indian,Doctorate,25.5
+Humanities and social sciences,2013,White,Undergraduate,6691.33
+Humanities and social sciences,2013,White,PG < Masters,2022.75
+Humanities and social sciences,2013,White,Masters,1226.0
+Humanities and social sciences,2013,White,Doctorate,273.5
+Natural sciences,2014,African,Undergraduate,12718.42
+Natural sciences,2014,African,PG < Masters,2501.58
+Natural sciences,2014,African,Masters,1099.33
+Natural sciences,2014,African,Doctorate,336.0
+Natural sciences,2014,Coloured,Undergraduate,883.16
+Natural sciences,2014,Coloured,PG < Masters,289.17
+Natural sciences,2014,Coloured,Masters,110.33
+Natural sciences,2014,Coloured,Doctorate,34.0
+Natural sciences,2014,Indian,Undergraduate,758.92
+Natural sciences,2014,Indian,PG < Masters,292.08
+Natural sciences,2014,Indian,Masters,104.25
+Natural sciences,2014,Indian,Doctorate,55.5
+Natural sciences,2014,White,Undergraduate,3667.92
+Natural sciences,2014,White,PG < Masters,1503.67
+Natural sciences,2014,White,Masters,796.17
+Natural sciences,2014,White,Doctorate,260.0
+Engineering and technology,2014,African,Undergraduate,9416.92
+Engineering and technology,2014,African,PG < Masters,568.75
+Engineering and technology,2014,African,Masters,558.92
+Engineering and technology,2014,African,Doctorate,79.5
+Engineering and technology,2014,Coloured,Undergraduate,683.25
+Engineering and technology,2014,Coloured,PG < Masters,47.58
+Engineering and technology,2014,Coloured,Masters,52.75
+Engineering and technology,2014,Coloured,Doctorate,3.0
+Engineering and technology,2014,Indian,Undergraduate,1018.08
+Engineering and technology,2014,Indian,PG < Masters,91.92
+Engineering and technology,2014,Indian,Masters,122.17
+Engineering and technology,2014,Indian,Doctorate,8.5
+Engineering and technology,2014,White,Undergraduate,3083.83
+Engineering and technology,2014,White,PG < Masters,618.58
+Engineering and technology,2014,White,Masters,682.42
+Engineering and technology,2014,White,Doctorate,78.5
+Health sciences,2014,African,Undergraduate,4996.67
+Health sciences,2014,African,PG < Masters,1481.75
+Health sciences,2014,African,Masters,615.25
+Health sciences,2014,African,Doctorate,108.5
+Health sciences,2014,Coloured,Undergraduate,769.0
+Health sciences,2014,Coloured,PG < Masters,307.33
+Health sciences,2014,Coloured,Masters,73.17
+Health sciences,2014,Coloured,Doctorate,14.0
+Health sciences,2014,Indian,Undergraduate,678.33
+Health sciences,2014,Indian,PG < Masters,122.5
+Health sciences,2014,Indian,Masters,158.25
+Health sciences,2014,Indian,Doctorate,21.0
+Health sciences,2014,White,Undergraduate,1954.08
+Health sciences,2014,White,PG < Masters,543.0
+Health sciences,2014,White,Masters,481.42
+Health sciences,2014,White,Doctorate,98.0
+"Business, economic and management sciences",2014,African,Undergraduate,26427.25
+"Business, economic and management sciences",2014,African,PG < Masters,4941.83
+"Business, economic and management sciences",2014,African,Masters,1239.75
+"Business, economic and management sciences",2014,African,Doctorate,87.0
+"Business, economic and management sciences",2014,Coloured,Undergraduate,2392.58
+"Business, economic and management sciences",2014,Coloured,PG < Masters,617.83
+"Business, economic and management sciences",2014,Coloured,Masters,140.25
+"Business, economic and management sciences",2014,Coloured,Doctorate,9.0
+"Business, economic and management sciences",2014,Indian,Undergraduate,2367.0
+"Business, economic and management sciences",2014,Indian,PG < Masters,1129.75
+"Business, economic and management sciences",2014,Indian,Masters,236.08
+"Business, economic and management sciences",2014,Indian,Doctorate,17.0
+"Business, economic and management sciences",2014,White,Undergraduate,6070.33
+"Business, economic and management sciences",2014,White,PG < Masters,3400.67
+"Business, economic and management sciences",2014,White,Masters,900.08
+"Business, economic and management sciences",2014,White,Doctorate,77.33
+Education,2014,African,Undergraduate,18123.5
+Education,2014,African,PG < Masters,9155.08
+Education,2014,African,Masters,378.33
+Education,2014,African,Doctorate,141.0
+Education,2014,Coloured,Undergraduate,1353.67
+Education,2014,Coloured,PG < Masters,745.25
+Education,2014,Coloured,Masters,63.0
+Education,2014,Coloured,Doctorate,17.5
+Education,2014,Indian,Undergraduate,728.33
+Education,2014,Indian,PG < Masters,531.17
+Education,2014,Indian,Masters,46.0
+Education,2014,Indian,Doctorate,22.0
+Education,2014,White,Undergraduate,2841.58
+Education,2014,White,PG < Masters,2370.75
+Education,2014,White,Masters,197.33
+Education,2014,White,Doctorate,46.0
+Humanities and social sciences,2014,African,Undergraduate,21603.25
+Humanities and social sciences,2014,African,PG < Masters,3648.0
+Humanities and social sciences,2014,African,Masters,1579.42
+Humanities and social sciences,2014,African,Doctorate,339.0
+Humanities and social sciences,2014,Coloured,Undergraduate,2293.33
+Humanities and social sciences,2014,Coloured,PG < Masters,520.83
+Humanities and social sciences,2014,Coloured,Masters,180.5
+Humanities and social sciences,2014,Coloured,Doctorate,27.5
+Humanities and social sciences,2014,Indian,Undergraduate,1286.33
+Humanities and social sciences,2014,Indian,PG < Masters,267.58
+Humanities and social sciences,2014,Indian,Masters,155.25
+Humanities and social sciences,2014,Indian,Doctorate,37.0
+Humanities and social sciences,2014,White,Undergraduate,6519.25
+Humanities and social sciences,2014,White,PG < Masters,1835.33
+Humanities and social sciences,2014,White,Masters,1228.58
+Humanities and social sciences,2014,White,Doctorate,288.17
+Natural sciences,2015,African,Undergraduate,13345.66
+Natural sciences,2015,African,PG < Masters,2446.75
+Natural sciences,2015,African,Masters,1142.0
+Natural sciences,2015,African,Doctorate,377.5
+Natural sciences,2015,Coloured,Undergraduate,981.42
+Natural sciences,2015,Coloured,PG < Masters,269.42
+Natural sciences,2015,Coloured,Masters,108.75
+Natural sciences,2015,Coloured,Doctorate,39.0
+Natural sciences,2015,Indian,Undergraduate,753.58
+Natural sciences,2015,Indian,PG < Masters,269.92
+Natural sciences,2015,Indian,Masters,117.25
+Natural sciences,2015,Indian,Doctorate,67.5
+Natural sciences,2015,White,Undergraduate,3647.0
+Natural sciences,2015,White,PG < Masters,1464.17
+Natural sciences,2015,White,Masters,790.33
+Natural sciences,2015,White,Doctorate,278.75
+Engineering and technology,2015,African,Undergraduate,9985.5
+Engineering and technology,2015,African,PG < Masters,531.83
+Engineering and technology,2015,African,Masters,575.25
+Engineering and technology,2015,African,Doctorate,84.0
+Engineering and technology,2015,Coloured,Undergraduate,687.42
+Engineering and technology,2015,Coloured,PG < Masters,44.08
+Engineering and technology,2015,Coloured,Masters,66.33
+Engineering and technology,2015,Coloured,Doctorate,4.0
+Engineering and technology,2015,Indian,Undergraduate,914.58
+Engineering and technology,2015,Indian,PG < Masters,74.33
+Engineering and technology,2015,Indian,Masters,133.08
+Engineering and technology,2015,Indian,Doctorate,16.0
+Engineering and technology,2015,White,Undergraduate,3164.92
+Engineering and technology,2015,White,PG < Masters,600.58
+Engineering and technology,2015,White,Masters,750.42
+Engineering and technology,2015,White,Doctorate,107.0
+Health sciences,2015,African,Undergraduate,5353.67
+Health sciences,2015,African,PG < Masters,1437.58
+Health sciences,2015,African,Masters,694.5
+Health sciences,2015,African,Doctorate,106.5
+Health sciences,2015,Coloured,Undergraduate,772.58
+Health sciences,2015,Coloured,PG < Masters,306.75
+Health sciences,2015,Coloured,Masters,86.0
+Health sciences,2015,Coloured,Doctorate,13.0
+Health sciences,2015,Indian,Undergraduate,810.0
+Health sciences,2015,Indian,PG < Masters,140.08
+Health sciences,2015,Indian,Masters,191.5
+Health sciences,2015,Indian,Doctorate,30.0
+Health sciences,2015,White,Undergraduate,2275.75
+Health sciences,2015,White,PG < Masters,533.08
+Health sciences,2015,White,Masters,564.08
+Health sciences,2015,White,Doctorate,94.75
+"Business, economic and management sciences",2015,African,Undergraduate,29220.5
+"Business, economic and management sciences",2015,African,PG < Masters,4949.08
+"Business, economic and management sciences",2015,African,Masters,1338.83
+"Business, economic and management sciences",2015,African,Doctorate,130.83
+"Business, economic and management sciences",2015,Coloured,Undergraduate,2511.83
+"Business, economic and management sciences",2015,Coloured,PG < Masters,568.17
+"Business, economic and management sciences",2015,Coloured,Masters,122.67
+"Business, economic and management sciences",2015,Coloured,Doctorate,6.0
+"Business, economic and management sciences",2015,Indian,Undergraduate,2427.17
+"Business, economic and management sciences",2015,Indian,PG < Masters,1105.25
+"Business, economic and management sciences",2015,Indian,Masters,279.5
+"Business, economic and management sciences",2015,Indian,Doctorate,25.5
+"Business, economic and management sciences",2015,White,Undergraduate,6357.0
+"Business, economic and management sciences",2015,White,PG < Masters,3186.33
+"Business, economic and management sciences",2015,White,Masters,915.58
+"Business, economic and management sciences",2015,White,Doctorate,87.83
+Education,2015,African,Undergraduate,18611.0
+Education,2015,African,PG < Masters,8193.0
+Education,2015,African,Masters,343.75
+Education,2015,African,Doctorate,189.0
+Education,2015,Coloured,Undergraduate,1333.33
+Education,2015,Coloured,PG < Masters,712.75
+Education,2015,Coloured,Masters,46.0
+Education,2015,Coloured,Doctorate,19.0
+Education,2015,Indian,Undergraduate,800.5
+Education,2015,Indian,PG < Masters,461.33
+Education,2015,Indian,Masters,57.0
+Education,2015,Indian,Doctorate,23.0
+Education,2015,White,Undergraduate,2919.75
+Education,2015,White,PG < Masters,2232.17
+Education,2015,White,Masters,154.33
+Education,2015,White,Doctorate,68.0
+Humanities and social sciences,2015,African,Undergraduate,22361.67
+Humanities and social sciences,2015,African,PG < Masters,3932.75
+Humanities and social sciences,2015,African,Masters,1540.67
+Humanities and social sciences,2015,African,Doctorate,345.17
+Humanities and social sciences,2015,Coloured,Undergraduate,2447.42
+Humanities and social sciences,2015,Coloured,PG < Masters,491.83
+Humanities and social sciences,2015,Coloured,Masters,205.25
+Humanities and social sciences,2015,Coloured,Doctorate,40.0
+Humanities and social sciences,2015,Indian,Undergraduate,1251.17
+Humanities and social sciences,2015,Indian,PG < Masters,282.08
+Humanities and social sciences,2015,Indian,Masters,139.67
+Humanities and social sciences,2015,Indian,Doctorate,35.0
+Humanities and social sciences,2015,White,Undergraduate,5942.58
+Humanities and social sciences,2015,White,PG < Masters,1836.67
+Humanities and social sciences,2015,White,Masters,1100.25
+Humanities and social sciences,2015,White,Doctorate,272.67
+Natural sciences,2016,African,Undergraduate,13452.16
+Natural sciences,2016,African,PG < Masters,2693.75
+Natural sciences,2016,African,Masters,1298.84
+Natural sciences,2016,African,Doctorate,429.0
+Natural sciences,2016,Coloured,Undergraduate,1022.25
+Natural sciences,2016,Coloured,PG < Masters,291.17
+Natural sciences,2016,Coloured,Masters,104.33
+Natural sciences,2016,Coloured,Doctorate,36.5
+Natural sciences,2016,Indian,Undergraduate,954.58
+Natural sciences,2016,Indian,PG < Masters,310.58
+Natural sciences,2016,Indian,Masters,139.0
+Natural sciences,2016,Indian,Doctorate,62.5
+Natural sciences,2016,White,Undergraduate,3547.0
+Natural sciences,2016,White,PG < Masters,1446.17
+Natural sciences,2016,White,Masters,755.58
+Natural sciences,2016,White,Doctorate,261.5
+Engineering and technology,2016,African,Undergraduate,10193.92
+Engineering and technology,2016,African,PG < Masters,569.83
+Engineering and technology,2016,African,Masters,621.17
+Engineering and technology,2016,African,Doctorate,122.0
+Engineering and technology,2016,Coloured,Undergraduate,654.33
+Engineering and technology,2016,Coloured,PG < Masters,53.17
+Engineering and technology,2016,Coloured,Masters,65.33
+Engineering and technology,2016,Coloured,Doctorate,9.0
+Engineering and technology,2016,Indian,Undergraduate,983.0
+Engineering and technology,2016,Indian,PG < Masters,73.58
+Engineering and technology,2016,Indian,Masters,134.0
+Engineering and technology,2016,Indian,Doctorate,23.0
+Engineering and technology,2016,White,Undergraduate,3012.67
+Engineering and technology,2016,White,PG < Masters,532.92
+Engineering and technology,2016,White,Masters,723.0
+Engineering and technology,2016,White,Doctorate,82.0
+Health sciences,2016,African,Undergraduate,5591.75
+Health sciences,2016,African,PG < Masters,1379.42
+Health sciences,2016,African,Masters,742.92
+Health sciences,2016,African,Doctorate,141.0
+Health sciences,2016,Coloured,Undergraduate,841.92
+Health sciences,2016,Coloured,PG < Masters,233.17
+Health sciences,2016,Coloured,Masters,96.5
+Health sciences,2016,Coloured,Doctorate,13.0
+Health sciences,2016,Indian,Undergraduate,825.58
+Health sciences,2016,Indian,PG < Masters,125.5
+Health sciences,2016,Indian,Masters,240.25
+Health sciences,2016,Indian,Doctorate,46.5
+Health sciences,2016,White,Undergraduate,2298.92
+Health sciences,2016,White,PG < Masters,414.5
+Health sciences,2016,White,Masters,588.5
+Health sciences,2016,White,Doctorate,100.0
+"Business, economic and management sciences",2016,African,Undergraduate,31071.67
+"Business, economic and management sciences",2016,African,PG < Masters,5322.5
+"Business, economic and management sciences",2016,African,Masters,1625.92
+"Business, economic and management sciences",2016,African,Doctorate,184.5
+"Business, economic and management sciences",2016,Coloured,Undergraduate,2591.0
+"Business, economic and management sciences",2016,Coloured,PG < Masters,601.08
+"Business, economic and management sciences",2016,Coloured,Masters,177.5
+"Business, economic and management sciences",2016,Coloured,Doctorate,4.0
+"Business, economic and management sciences",2016,Indian,Undergraduate,2303.42
+"Business, economic and management sciences",2016,Indian,PG < Masters,931.58
+"Business, economic and management sciences",2016,Indian,Masters,298.08
+"Business, economic and management sciences",2016,Indian,Doctorate,16.0
+"Business, economic and management sciences",2016,White,Undergraduate,6255.33
+"Business, economic and management sciences",2016,White,PG < Masters,3223.42
+"Business, economic and management sciences",2016,White,Masters,854.0
+"Business, economic and management sciences",2016,White,Doctorate,97.17
+Education,2016,African,Undergraduate,21919.75
+Education,2016,African,PG < Masters,9753.83
+Education,2016,African,Masters,384.0
+Education,2016,African,Doctorate,202.0
+Education,2016,Coloured,Undergraduate,1635.75
+Education,2016,Coloured,PG < Masters,792.08
+Education,2016,Coloured,Masters,39.0
+Education,2016,Coloured,Doctorate,17.5
+Education,2016,Indian,Undergraduate,885.75
+Education,2016,Indian,PG < Masters,483.0
+Education,2016,Indian,Masters,32.0
+Education,2016,Indian,Doctorate,19.0
+Education,2016,White,Undergraduate,3290.92
+Education,2016,White,PG < Masters,2277.58
+Education,2016,White,Masters,153.67
+Education,2016,White,Doctorate,52.0
+Humanities and social sciences,2016,African,Undergraduate,25036.75
+Humanities and social sciences,2016,African,PG < Masters,3804.66
+Humanities and social sciences,2016,African,Masters,1646.17
+Humanities and social sciences,2016,African,Doctorate,442.5
+Humanities and social sciences,2016,Coloured,Undergraduate,2640.75
+Humanities and social sciences,2016,Coloured,PG < Masters,521.33
+Humanities and social sciences,2016,Coloured,Masters,246.34
+Humanities and social sciences,2016,Coloured,Doctorate,36.0
+Humanities and social sciences,2016,Indian,Undergraduate,1318.67
+Humanities and social sciences,2016,Indian,PG < Masters,295.75
+Humanities and social sciences,2016,Indian,Masters,164.67
+Humanities and social sciences,2016,Indian,Doctorate,44.0
+Humanities and social sciences,2016,White,Undergraduate,5580.17
+Humanities and social sciences,2016,White,PG < Masters,1763.42
+Humanities and social sciences,2016,White,Masters,1159.25
+Humanities and social sciences,2016,White,Doctorate,269.33

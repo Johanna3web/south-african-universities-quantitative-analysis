@@ -1,0 +1,1070 @@
+institution_code,institution_abbreviation,institution_name,metric,year,value
+H01,CPUT,Cape Peninsula University of Technology,African,2009,15118
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2009,10373
+H01,CPUT,Cape Peninsula University of Technology,Indian,2009,386
+H01,CPUT,Cape Peninsula University of Technology,White,2009,5081
+H01,CPUT,Cape Peninsula University of Technology,Total,2009,30958
+H01,CPUT,Cape Peninsula University of Technology,African,2010,16320
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2010,10573
+H01,CPUT,Cape Peninsula University of Technology,Indian,2010,398
+H01,CPUT,Cape Peninsula University of Technology,White,2010,4876
+H01,CPUT,Cape Peninsula University of Technology,Total,2010,32167
+H01,CPUT,Cape Peninsula University of Technology,African,2011,17041
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2011,10252
+H01,CPUT,Cape Peninsula University of Technology,Indian,2011,373
+H01,CPUT,Cape Peninsula University of Technology,White,2011,4840
+H01,CPUT,Cape Peninsula University of Technology,Total,2011,32506
+H01,CPUT,Cape Peninsula University of Technology,African,2012,18749
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2012,9640
+H01,CPUT,Cape Peninsula University of Technology,Indian,2012,399
+H01,CPUT,Cape Peninsula University of Technology,White,2012,4721
+H01,CPUT,Cape Peninsula University of Technology,Total,2012,33509
+H01,CPUT,Cape Peninsula University of Technology,African,2013,19279
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2013,9374
+H01,CPUT,Cape Peninsula University of Technology,Indian,2013,399
+H01,CPUT,Cape Peninsula University of Technology,White,2013,4425
+H01,CPUT,Cape Peninsula University of Technology,Total,2013,33477
+H01,CPUT,Cape Peninsula University of Technology,African,2014,19599
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2014,9026
+H01,CPUT,Cape Peninsula University of Technology,Indian,2014,399
+H01,CPUT,Cape Peninsula University of Technology,White,2014,4162
+H01,CPUT,Cape Peninsula University of Technology,Total,2014,33186
+H01,CPUT,Cape Peninsula University of Technology,African,2015,19738
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2015,8754
+H01,CPUT,Cape Peninsula University of Technology,Indian,2015,348
+H01,CPUT,Cape Peninsula University of Technology,White,2015,3834
+H01,CPUT,Cape Peninsula University of Technology,Total,2015,32674
+H01,CPUT,Cape Peninsula University of Technology,African,2016,21610
+H01,CPUT,Cape Peninsula University of Technology,Coloured,2016,9033
+H01,CPUT,Cape Peninsula University of Technology,Indian,2016,350
+H01,CPUT,Cape Peninsula University of Technology,White,2016,3462
+H01,CPUT,Cape Peninsula University of Technology,Other,2016,0
+H01,CPUT,Cape Peninsula University of Technology,Total,2016,34455
+H02,UCT,University of Cape Town,African,2009,7234
+H02,UCT,University of Cape Town,Coloured,2009,3750
+H02,UCT,University of Cape Town,Indian,2009,1896
+H02,UCT,University of Cape Town,White,2009,9484
+H02,UCT,University of Cape Town,Other,2009,1423
+H02,UCT,University of Cape Town,Total,2009,23787
+H02,UCT,University of Cape Town,African,2010,7052
+H02,UCT,University of Cape Town,Coloured,2010,3696
+H02,UCT,University of Cape Town,Indian,2010,1854
+H02,UCT,University of Cape Town,White,2010,9475
+H02,UCT,University of Cape Town,Other,2010,2695
+H02,UCT,University of Cape Town,Total,2010,24772
+H02,UCT,University of Cape Town,African,2011,7262
+H02,UCT,University of Cape Town,Coloured,2011,3748
+H02,UCT,University of Cape Town,Indian,2011,1859
+H02,UCT,University of Cape Town,White,2011,9306
+H02,UCT,University of Cape Town,Other,2011,3126
+H02,UCT,University of Cape Town,Total,2011,25301
+H02,UCT,University of Cape Town,African,2012,6997
+H02,UCT,University of Cape Town,Coloured,2012,3522
+H02,UCT,University of Cape Town,Indian,2012,1806
+H02,UCT,University of Cape Town,White,2012,8919
+H02,UCT,University of Cape Town,Other,2012,4561
+H02,UCT,University of Cape Town,Total,2012,25805
+H02,UCT,University of Cape Town,African,2013,6979
+H02,UCT,University of Cape Town,Coloured,2013,3628
+H02,UCT,University of Cape Town,Indian,2013,1802
+H02,UCT,University of Cape Town,White,2013,8589
+H02,UCT,University of Cape Town,Other,2013,5120
+H02,UCT,University of Cape Town,Total,2013,26118
+H02,UCT,University of Cape Town,African,2014,6834
+H02,UCT,University of Cape Town,Coloured,2014,3657
+H02,UCT,University of Cape Town,Indian,2014,1877
+H02,UCT,University of Cape Town,White,2014,8237
+H02,UCT,University of Cape Town,Other,2014,5752
+H02,UCT,University of Cape Town,Total,2014,26357
+H02,UCT,University of Cape Town,African,2015,6921
+H02,UCT,University of Cape Town,Coloured,2015,3653
+H02,UCT,University of Cape Town,Indian,2015,1904
+H02,UCT,University of Cape Town,White,2015,8271
+H02,UCT,University of Cape Town,Other,2015,7060
+H02,UCT,University of Cape Town,Total,2015,27809
+H02,UCT,University of Cape Town,African,2016,7517
+H02,UCT,University of Cape Town,Coloured,2016,3872
+H02,UCT,University of Cape Town,Indian,2016,2008
+H02,UCT,University of Cape Town,White,2016,8112
+H02,UCT,University of Cape Town,Other,2016,7723
+H02,UCT,University of Cape Town,Total,2016,29232
+H03,CUT,Central University of Technology,African,2009,10129
+H03,CUT,Central University of Technology,Coloured,2009,457
+H03,CUT,Central University of Technology,Indian,2009,41
+H03,CUT,Central University of Technology,White,2009,1578
+H03,CUT,Central University of Technology,Total,2009,12205
+H03,CUT,Central University of Technology,African,2010,10592
+H03,CUT,Central University of Technology,Coloured,2010,482
+H03,CUT,Central University of Technology,Indian,2010,38
+H03,CUT,Central University of Technology,White,2010,1471
+H03,CUT,Central University of Technology,Total,2010,12583
+H03,CUT,Central University of Technology,African,2011,10723
+H03,CUT,Central University of Technology,Coloured,2011,489
+H03,CUT,Central University of Technology,Indian,2011,45
+H03,CUT,Central University of Technology,White,2011,1387
+H03,CUT,Central University of Technology,Total,2011,12644
+H03,CUT,Central University of Technology,African,2012,10902
+H03,CUT,Central University of Technology,Coloured,2012,480
+H03,CUT,Central University of Technology,Indian,2012,44
+H03,CUT,Central University of Technology,White,2012,1298
+H03,CUT,Central University of Technology,Total,2012,12724
+H03,CUT,Central University of Technology,African,2013,11588
+H03,CUT,Central University of Technology,Coloured,2013,502
+H03,CUT,Central University of Technology,Indian,2013,44
+H03,CUT,Central University of Technology,White,2013,1169
+H03,CUT,Central University of Technology,Total,2013,13303
+H03,CUT,Central University of Technology,African,2014,12751
+H03,CUT,Central University of Technology,Coloured,2014,490
+H03,CUT,Central University of Technology,Indian,2014,46
+H03,CUT,Central University of Technology,White,2014,1065
+H03,CUT,Central University of Technology,Total,2014,14352
+H03,CUT,Central University of Technology,African,2015,12705
+H03,CUT,Central University of Technology,Coloured,2015,451
+H03,CUT,Central University of Technology,Indian,2015,46
+H03,CUT,Central University of Technology,White,2015,991
+H03,CUT,Central University of Technology,Total,2015,14193
+H03,CUT,Central University of Technology,African,2016,14300
+H03,CUT,Central University of Technology,Coloured,2016,441
+H03,CUT,Central University of Technology,Indian,2016,38
+H03,CUT,Central University of Technology,White,2016,929
+H03,CUT,Central University of Technology,Other,2016,0
+H03,CUT,Central University of Technology,Total,2016,15708
+H04,DUT,Durban University of Technology,African,2009,18194
+H04,DUT,Durban University of Technology,Coloured,2009,380
+H04,DUT,Durban University of Technology,Indian,2009,4235
+H04,DUT,Durban University of Technology,White,2009,1139
+H04,DUT,Durban University of Technology,Other,2009,78
+H04,DUT,Durban University of Technology,Total,2009,24026
+H04,DUT,Durban University of Technology,African,2010,19239
+H04,DUT,Durban University of Technology,Coloured,2010,425
+H04,DUT,Durban University of Technology,Indian,2010,4272
+H04,DUT,Durban University of Technology,White,2010,1089
+H04,DUT,Durban University of Technology,Other,2010,159
+H04,DUT,Durban University of Technology,Total,2010,25184
+H04,DUT,Durban University of Technology,African,2011,19334
+H04,DUT,Durban University of Technology,Coloured,2011,396
+H04,DUT,Durban University of Technology,Indian,2011,4125
+H04,DUT,Durban University of Technology,White,2011,962
+H04,DUT,Durban University of Technology,Other,2011,23
+H04,DUT,Durban University of Technology,Total,2011,24840
+H04,DUT,Durban University of Technology,African,2012,19806
+H04,DUT,Durban University of Technology,Coloured,2012,379
+H04,DUT,Durban University of Technology,Indian,2012,3754
+H04,DUT,Durban University of Technology,White,2012,906
+H04,DUT,Durban University of Technology,Other,2012,30
+H04,DUT,Durban University of Technology,Total,2012,24875
+H04,DUT,Durban University of Technology,African,2013,21053
+H04,DUT,Durban University of Technology,Coloured,2013,415
+H04,DUT,Durban University of Technology,Indian,2013,3732
+H04,DUT,Durban University of Technology,White,2013,827
+H04,DUT,Durban University of Technology,Other,2013,32
+H04,DUT,Durban University of Technology,Total,2013,26059
+H04,DUT,Durban University of Technology,African,2014,21325
+H04,DUT,Durban University of Technology,Coloured,2014,386
+H04,DUT,Durban University of Technology,Indian,2014,3941
+H04,DUT,Durban University of Technology,White,2014,765
+H04,DUT,Durban University of Technology,Other,2014,55
+H04,DUT,Durban University of Technology,Total,2014,26472
+H04,DUT,Durban University of Technology,African,2015,21880
+H04,DUT,Durban University of Technology,Coloured,2015,384
+H04,DUT,Durban University of Technology,Indian,2015,4036
+H04,DUT,Durban University of Technology,White,2015,715
+H04,DUT,Durban University of Technology,Other,2015,8
+H04,DUT,Durban University of Technology,Total,2015,27023
+H04,DUT,Durban University of Technology,African,2016,23269
+H04,DUT,Durban University of Technology,Coloured,2016,392
+H04,DUT,Durban University of Technology,Indian,2016,4042
+H04,DUT,Durban University of Technology,White,2016,643
+H04,DUT,Durban University of Technology,Other,2016,31
+H04,DUT,Durban University of Technology,Total,2016,28377
+H05,FH,University of Fort Hare,African,2009,9348
+H05,FH,University of Fort Hare,Coloured,2009,206
+H05,FH,University of Fort Hare,Indian,2009,61
+H05,FH,University of Fort Hare,White,2009,401
+H05,FH,University of Fort Hare,Total,2009,10016
+H05,FH,University of Fort Hare,African,2010,10068
+H05,FH,University of Fort Hare,Coloured,2010,226
+H05,FH,University of Fort Hare,Indian,2010,63
+H05,FH,University of Fort Hare,White,2010,384
+H05,FH,University of Fort Hare,Total,2010,10741
+H05,FH,University of Fort Hare,African,2011,10516
+H05,FH,University of Fort Hare,Coloured,2011,211
+H05,FH,University of Fort Hare,Indian,2011,58
+H05,FH,University of Fort Hare,White,2011,359
+H05,FH,University of Fort Hare,Total,2011,11144
+H05,FH,University of Fort Hare,African,2012,11440
+H05,FH,University of Fort Hare,Coloured,2012,220
+H05,FH,University of Fort Hare,Indian,2012,54
+H05,FH,University of Fort Hare,White,2012,330
+H05,FH,University of Fort Hare,Total,2012,12044
+H05,FH,University of Fort Hare,African,2013,11714
+H05,FH,University of Fort Hare,Coloured,2013,229
+H05,FH,University of Fort Hare,Indian,2013,45
+H05,FH,University of Fort Hare,White,2013,327
+H05,FH,University of Fort Hare,Total,2013,12315
+H05,FH,University of Fort Hare,African,2014,12488
+H05,FH,University of Fort Hare,Coloured,2014,236
+H05,FH,University of Fort Hare,Indian,2014,46
+H05,FH,University of Fort Hare,White,2014,293
+H05,FH,University of Fort Hare,Total,2014,13063
+H05,FH,University of Fort Hare,African,2015,12937
+H05,FH,University of Fort Hare,Coloured,2015,240
+H05,FH,University of Fort Hare,Indian,2015,34
+H05,FH,University of Fort Hare,White,2015,247
+H05,FH,University of Fort Hare,Total,2015,13458
+H05,FH,University of Fort Hare,African,2016,13324
+H05,FH,University of Fort Hare,Coloured,2016,259
+H05,FH,University of Fort Hare,Indian,2016,30
+H05,FH,University of Fort Hare,White,2016,213
+H05,FH,University of Fort Hare,Other,2016,5
+H05,FH,University of Fort Hare,Total,2016,13831
+H06,FS,University of Free State,African,2009,15840
+H06,FS,University of Free State,Coloured,2009,1536
+H06,FS,University of Free State,Indian,2009,493
+H06,FS,University of Free State,White,2009,9372
+H06,FS,University of Free State,Total,2009,27241
+H06,FS,University of Free State,African,2010,18407
+H06,FS,University of Free State,Coloured,2010,1561
+H06,FS,University of Free State,Indian,2010,464
+H06,FS,University of Free State,White,2010,9469
+H06,FS,University of Free State,Total,2010,29901
+H06,FS,University of Free State,African,2011,20321
+H06,FS,University of Free State,Coloured,2011,1569
+H06,FS,University of Free State,Indian,2011,443
+H06,FS,University of Free State,White,2011,9250
+H06,FS,University of Free State,Other,2011,3
+H06,FS,University of Free State,Total,2011,31586
+H06,FS,University of Free State,African,2012,21321
+H06,FS,University of Free State,Coloured,2012,1523
+H06,FS,University of Free State,Indian,2012,458
+H06,FS,University of Free State,White,2012,9073
+H06,FS,University of Free State,Total,2012,32375
+H06,FS,University of Free State,African,2013,20680
+H06,FS,University of Free State,Coloured,2013,1651
+H06,FS,University of Free State,Indian,2013,578
+H06,FS,University of Free State,White,2013,8968
+H06,FS,University of Free State,Total,2013,31877
+H06,FS,University of Free State,African,2014,19763
+H06,FS,University of Free State,Coloured,2014,1653
+H06,FS,University of Free State,Indian,2014,624
+H06,FS,University of Free State,White,2014,8992
+H06,FS,University of Free State,Total,2014,31032
+H06,FS,University of Free State,African,2015,19409
+H06,FS,University of Free State,Coloured,2015,1747
+H06,FS,University of Free State,Indian,2015,684
+H06,FS,University of Free State,White,2015,8578
+H06,FS,University of Free State,Total,2015,30418
+H06,FS,University of Free State,African,2016,24897
+H06,FS,University of Free State,Coloured,2016,2008
+H06,FS,University of Free State,Indian,2016,763
+H06,FS,University of Free State,White,2016,8578
+H06,FS,University of Free State,Other,2016,23
+H06,FS,University of Free State,Total,2016,36269
+H07,UJ,University of Johannesburg,African,2009,35924
+H07,UJ,University of Johannesburg,Coloured,2009,1556
+H07,UJ,University of Johannesburg,Indian,2009,2377
+H07,UJ,University of Johannesburg,White,2009,9458
+H07,UJ,University of Johannesburg,Total,2009,49315
+H07,UJ,University of Johannesburg,African,2010,35894
+H07,UJ,University of Johannesburg,Coloured,2010,1562
+H07,UJ,University of Johannesburg,Indian,2010,2319
+H07,UJ,University of Johannesburg,White,2010,8540
+H07,UJ,University of Johannesburg,Total,2010,48315
+H07,UJ,University of Johannesburg,African,2011,38945
+H07,UJ,University of Johannesburg,Coloured,2011,1609
+H07,UJ,University of Johannesburg,Indian,2011,2299
+H07,UJ,University of Johannesburg,White,2011,7675
+H07,UJ,University of Johannesburg,Total,2011,50528
+H07,UJ,University of Johannesburg,African,2012,38390
+H07,UJ,University of Johannesburg,Coloured,2012,1475
+H07,UJ,University of Johannesburg,Indian,2012,2163
+H07,UJ,University of Johannesburg,White,2012,6741
+H07,UJ,University of Johannesburg,Total,2012,48769
+H07,UJ,University of Johannesburg,African,2013,38648
+H07,UJ,University of Johannesburg,Coloured,2013,1500
+H07,UJ,University of Johannesburg,Indian,2013,2195
+H07,UJ,University of Johannesburg,White,2013,6043
+H07,UJ,University of Johannesburg,Total,2013,48386
+H07,UJ,University of Johannesburg,African,2014,40681
+H07,UJ,University of Johannesburg,Coloured,2014,1542
+H07,UJ,University of Johannesburg,Indian,2014,2203
+H07,UJ,University of Johannesburg,White,2014,5362
+H07,UJ,University of Johannesburg,Other,2014,1
+H07,UJ,University of Johannesburg,Total,2014,49789
+H07,UJ,University of Johannesburg,African,2015,40943
+H07,UJ,University of Johannesburg,Coloured,2015,1562
+H07,UJ,University of Johannesburg,Indian,2015,2237
+H07,UJ,University of Johannesburg,White,2015,4710
+H07,UJ,University of Johannesburg,Total,2015,49452
+H07,UJ,University of Johannesburg,African,2016,43618
+H07,UJ,University of Johannesburg,Coloured,2016,1630
+H07,UJ,University of Johannesburg,Indian,2016,2216
+H07,UJ,University of Johannesburg,White,2016,4331
+H07,UJ,University of Johannesburg,Other,2016,0
+H07,UJ,University of Johannesburg,Total,2016,51795
+H08,KZN,University of Kwazulu-Natal,African,2009,22782
+H08,KZN,University of Kwazulu-Natal,Coloured,2009,995
+H08,KZN,University of Kwazulu-Natal,Indian,2009,11075
+H08,KZN,University of Kwazulu-Natal,White,2009,3911
+H08,KZN,University of Kwazulu-Natal,Other,2009,101
+H08,KZN,University of Kwazulu-Natal,Total,2009,38864
+H08,KZN,University of Kwazulu-Natal,African,2010,25048
+H08,KZN,University of Kwazulu-Natal,Coloured,2010,1041
+H08,KZN,University of Kwazulu-Natal,Indian,2010,11305
+H08,KZN,University of Kwazulu-Natal,White,2010,3668
+H08,KZN,University of Kwazulu-Natal,Other,2010,162
+H08,KZN,University of Kwazulu-Natal,Total,2010,41224
+H08,KZN,University of Kwazulu-Natal,African,2011,25981
+H08,KZN,University of Kwazulu-Natal,Coloured,2011,918
+H08,KZN,University of Kwazulu-Natal,Indian,2011,11406
+H08,KZN,University of Kwazulu-Natal,White,2011,3323
+H08,KZN,University of Kwazulu-Natal,Other,2011,134
+H08,KZN,University of Kwazulu-Natal,Total,2011,41762
+H08,KZN,University of Kwazulu-Natal,African,2012,26872
+H08,KZN,University of Kwazulu-Natal,Coloured,2012,941
+H08,KZN,University of Kwazulu-Natal,Indian,2012,10829
+H08,KZN,University of Kwazulu-Natal,White,2012,3095
+H08,KZN,University of Kwazulu-Natal,Other,2012,127
+H08,KZN,University of Kwazulu-Natal,Total,2012,41864
+H08,KZN,University of Kwazulu-Natal,African,2013,29280
+H08,KZN,University of Kwazulu-Natal,Coloured,2013,938
+H08,KZN,University of Kwazulu-Natal,Indian,2013,10803
+H08,KZN,University of Kwazulu-Natal,White,2013,2832
+H08,KZN,University of Kwazulu-Natal,Other,2013,149
+H08,KZN,University of Kwazulu-Natal,Total,2013,44002
+H08,KZN,University of Kwazulu-Natal,African,2014,30486
+H08,KZN,University of Kwazulu-Natal,Coloured,2014,979
+H08,KZN,University of Kwazulu-Natal,Indian,2014,11411
+H08,KZN,University of Kwazulu-Natal,White,2014,2460
+H08,KZN,University of Kwazulu-Natal,Other,2014,129
+H08,KZN,University of Kwazulu-Natal,Total,2014,45465
+H08,KZN,University of Kwazulu-Natal,African,2015,31347
+H08,KZN,University of Kwazulu-Natal,Coloured,2015,1010
+H08,KZN,University of Kwazulu-Natal,Indian,2015,10763
+H08,KZN,University of Kwazulu-Natal,White,2015,2140
+H08,KZN,University of Kwazulu-Natal,Other,2015,246
+H08,KZN,University of Kwazulu-Natal,Total,2015,45506
+H08,KZN,University of Kwazulu-Natal,African,2016,33250
+H08,KZN,University of Kwazulu-Natal,Coloured,2016,967
+H08,KZN,University of Kwazulu-Natal,Indian,2016,10176
+H08,KZN,University of Kwazulu-Natal,White,2016,1880
+H08,KZN,University of Kwazulu-Natal,Other,2016,199
+H08,KZN,University of Kwazulu-Natal,Total,2016,46472
+H09,UL,University of Limpopo,African,2009,15940
+H09,UL,University of Limpopo,Coloured,2009,27
+H09,UL,University of Limpopo,Indian,2009,141
+H09,UL,University of Limpopo,White,2009,191
+H09,UL,University of Limpopo,Total,2009,16299
+H09,UL,University of Limpopo,African,2010,17780
+H09,UL,University of Limpopo,Coloured,2010,34
+H09,UL,University of Limpopo,Indian,2010,155
+H09,UL,University of Limpopo,White,2010,235
+H09,UL,University of Limpopo,Other,2010,1
+H09,UL,University of Limpopo,Total,2010,18205
+H09,UL,University of Limpopo,African,2011,20063
+H09,UL,University of Limpopo,Coloured,2011,35
+H09,UL,University of Limpopo,Indian,2011,143
+H09,UL,University of Limpopo,White,2011,263
+H09,UL,University of Limpopo,Total,2011,20504
+H09,UL,University of Limpopo,African,2012,21787
+H09,UL,University of Limpopo,Coloured,2012,36
+H09,UL,University of Limpopo,Indian,2012,149
+H09,UL,University of Limpopo,White,2012,277
+H09,UL,University of Limpopo,Total,2012,22249
+H09,UL,University of Limpopo,African,2013,22478
+H09,UL,University of Limpopo,Coloured,2013,26
+H09,UL,University of Limpopo,Indian,2013,132
+H09,UL,University of Limpopo,White,2013,278
+H09,UL,University of Limpopo,Total,2013,22914
+H09,UL,University of Limpopo,African,2014,22959
+H09,UL,University of Limpopo,Coloured,2014,18
+H09,UL,University of Limpopo,Indian,2014,139
+H09,UL,University of Limpopo,White,2014,268
+H09,UL,University of Limpopo,Total,2014,23384
+H09,UL,University of Limpopo,African,2015,18894
+H09,UL,University of Limpopo,Coloured,2015,3
+H09,UL,University of Limpopo,Indian,2015,5
+H09,UL,University of Limpopo,White,2015,5
+H09,UL,University of Limpopo,Total,2015,18907
+H09,UL,University of Limpopo,African,2016,19820
+H09,UL,University of Limpopo,Coloured,2016,7
+H09,UL,University of Limpopo,Indian,2016,3
+H09,UL,University of Limpopo,White,2016,6
+H09,UL,University of Limpopo,Other,2016,7
+H09,UL,University of Limpopo,Total,2016,19843
+H10,NMU,Nelson Mandela University,African,2009,15446
+H10,NMU,Nelson Mandela University,Coloured,2009,3467
+H10,NMU,Nelson Mandela University,Indian,2009,631
+H10,NMU,Nelson Mandela University,White,2009,5953
+H10,NMU,Nelson Mandela University,Total,2009,25497
+H10,NMU,Nelson Mandela University,African,2010,15602
+H10,NMU,Nelson Mandela University,Coloured,2010,3594
+H10,NMU,Nelson Mandela University,Indian,2010,585
+H10,NMU,Nelson Mandela University,White,2010,6338
+H10,NMU,Nelson Mandela University,Total,2010,26119
+H10,NMU,Nelson Mandela University,African,2011,15627
+H10,NMU,Nelson Mandela University,Coloured,2011,3672
+H10,NMU,Nelson Mandela University,Indian,2011,377
+H10,NMU,Nelson Mandela University,White,2011,6562
+H10,NMU,Nelson Mandela University,Other,2011,18
+H10,NMU,Nelson Mandela University,Total,2011,26256
+H10,NMU,Nelson Mandela University,African,2012,16096
+H10,NMU,Nelson Mandela University,Coloured,2012,3675
+H10,NMU,Nelson Mandela University,Indian,2012,361
+H10,NMU,Nelson Mandela University,White,2012,6463
+H10,NMU,Nelson Mandela University,Other,2012,2
+H10,NMU,Nelson Mandela University,Total,2012,26597
+H10,NMU,Nelson Mandela University,African,2013,15933
+H10,NMU,Nelson Mandela University,Coloured,2013,3690
+H10,NMU,Nelson Mandela University,Indian,2013,319
+H10,NMU,Nelson Mandela University,White,2013,6419
+H10,NMU,Nelson Mandela University,Total,2013,26361
+H10,NMU,Nelson Mandela University,African,2014,15984
+H10,NMU,Nelson Mandela University,Coloured,2014,3711
+H10,NMU,Nelson Mandela University,Indian,2014,467
+H10,NMU,Nelson Mandela University,White,2014,6348
+H10,NMU,Nelson Mandela University,Total,2014,26510
+H10,NMU,Nelson Mandela University,African,2015,15899
+H10,NMU,Nelson Mandela University,Coloured,2015,3705
+H10,NMU,Nelson Mandela University,Indian,2015,486
+H10,NMU,Nelson Mandela University,White,2015,6215
+H10,NMU,Nelson Mandela University,Total,2015,26305
+H10,NMU,Nelson Mandela University,African,2016,17265
+H10,NMU,Nelson Mandela University,Coloured,2016,3939
+H10,NMU,Nelson Mandela University,Indian,2016,519
+H10,NMU,Nelson Mandela University,White,2016,6057
+H10,NMU,Nelson Mandela University,Other,2016,0
+H10,NMU,Nelson Mandela University,Total,2016,27780
+H11,NWU,North West University,African,2009,30095
+H11,NWU,North West University,Coloured,2009,1921
+H11,NWU,North West University,Indian,2009,408
+H11,NWU,North West University,White,2009,18160
+H11,NWU,North West University,Other,2009,5
+H11,NWU,North West University,Total,2009,50589
+H11,NWU,North West University,African,2010,34356
+H11,NWU,North West University,Coloured,2010,2199
+H11,NWU,North West University,Indian,2010,423
+H11,NWU,North West University,White,2010,16066
+H11,NWU,North West University,Other,2010,2688
+H11,NWU,North West University,Total,2010,55732
+H11,NWU,North West University,African,2011,34860
+H11,NWU,North West University,Coloured,2011,2360
+H11,NWU,North West University,Indian,2011,425
+H11,NWU,North West University,White,2011,16656
+H11,NWU,North West University,Other,2011,2340
+H11,NWU,North West University,Total,2011,56641
+H11,NWU,North West University,African,2012,36488
+H11,NWU,North West University,Coloured,2012,2568
+H11,NWU,North West University,Indian,2012,448
+H11,NWU,North West University,White,2012,17063
+H11,NWU,North West University,Other,2012,2185
+H11,NWU,North West University,Total,2012,58752
+H11,NWU,North West University,African,2013,39523
+H11,NWU,North West University,Coloured,2013,2684
+H11,NWU,North West University,Indian,2013,485
+H11,NWU,North West University,White,2013,17242
+H11,NWU,North West University,Other,2013,1041
+H11,NWU,North West University,Total,2013,60975
+H11,NWU,North West University,African,2014,40563
+H11,NWU,North West University,Coloured,2014,2686
+H11,NWU,North West University,Indian,2014,489
+H11,NWU,North West University,White,2014,17781
+H11,NWU,North West University,Other,2014,1616
+H11,NWU,North West University,Total,2014,63135
+H11,NWU,North West University,African,2015,40772
+H11,NWU,North West University,Coloured,2015,2897
+H11,NWU,North West University,Indian,2015,528
+H11,NWU,North West University,White,2015,17370
+H11,NWU,North West University,Other,2015,2503
+H11,NWU,North West University,Total,2015,64070
+H11,NWU,North West University,African,2016,42354
+H11,NWU,North West University,Coloured,2016,2799
+H11,NWU,North West University,Indian,2016,552
+H11,NWU,North West University,White,2016,17682
+H11,NWU,North West University,Other,2016,8
+H11,NWU,North West University,Total,2016,63395
+H12,UP,University of Pretoria,African,2009,29316
+H12,UP,University of Pretoria,Coloured,2009,965
+H12,UP,University of Pretoria,Indian,2009,1835
+H12,UP,University of Pretoria,White,2009,23618
+H12,UP,University of Pretoria,Total,2009,55734
+H12,UP,University of Pretoria,African,2010,29666
+H12,UP,University of Pretoria,Coloured,2010,1023
+H12,UP,University of Pretoria,Indian,2010,1944
+H12,UP,University of Pretoria,White,2010,24481
+H12,UP,University of Pretoria,Total,2010,57114
+H12,UP,University of Pretoria,African,2011,30739
+H12,UP,University of Pretoria,Coloured,2011,1046
+H12,UP,University of Pretoria,Indian,2011,2071
+H12,UP,University of Pretoria,White,2011,24270
+H12,UP,University of Pretoria,Other,2011,2
+H12,UP,University of Pretoria,Total,2011,58128
+H12,UP,University of Pretoria,African,2012,30311
+H12,UP,University of Pretoria,Coloured,2012,1038
+H12,UP,University of Pretoria,Indian,2012,2179
+H12,UP,University of Pretoria,White,2012,23979
+H12,UP,University of Pretoria,Other,2012,1
+H12,UP,University of Pretoria,Total,2012,57508
+H12,UP,University of Pretoria,African,2013,29938
+H12,UP,University of Pretoria,Coloured,2013,1128
+H12,UP,University of Pretoria,Indian,2013,2313
+H12,UP,University of Pretoria,White,2013,24171
+H12,UP,University of Pretoria,Other,2013,3
+H12,UP,University of Pretoria,Total,2013,57553
+H12,UP,University of Pretoria,African,2014,28421
+H12,UP,University of Pretoria,Coloured,2014,1192
+H12,UP,University of Pretoria,Indian,2014,2601
+H12,UP,University of Pretoria,White,2014,24161
+H12,UP,University of Pretoria,Other,2014,1
+H12,UP,University of Pretoria,Total,2014,56376
+H12,UP,University of Pretoria,African,2015,28050
+H12,UP,University of Pretoria,Coloured,2015,1264
+H12,UP,University of Pretoria,Indian,2015,2735
+H12,UP,University of Pretoria,White,2015,23858
+H12,UP,University of Pretoria,Other,2015,77
+H12,UP,University of Pretoria,Total,2015,55984
+H12,UP,University of Pretoria,African,2016,26340
+H12,UP,University of Pretoria,Coloured,2016,1365
+H12,UP,University of Pretoria,Indian,2016,2746
+H12,UP,University of Pretoria,White,2016,22747
+H12,UP,University of Pretoria,Other,2016,34
+H12,UP,University of Pretoria,Total,2016,53232
+H13,RU,Rhodes University,African,2009,3489
+H13,RU,Rhodes University,Coloured,2009,241
+H13,RU,Rhodes University,Indian,2009,299
+H13,RU,Rhodes University,White,2009,2983
+H13,RU,Rhodes University,Total,2009,7012
+H13,RU,Rhodes University,African,2010,3615
+H13,RU,Rhodes University,Coloured,2010,255
+H13,RU,Rhodes University,Indian,2010,275
+H13,RU,Rhodes University,White,2010,3024
+H13,RU,Rhodes University,Total,2010,7169
+H13,RU,Rhodes University,African,2011,3750
+H13,RU,Rhodes University,Coloured,2011,256
+H13,RU,Rhodes University,Indian,2011,279
+H13,RU,Rhodes University,White,2011,2993
+H13,RU,Rhodes University,Total,2011,7278
+H13,RU,Rhodes University,African,2012,3877
+H13,RU,Rhodes University,Coloured,2012,284
+H13,RU,Rhodes University,Indian,2012,289
+H13,RU,Rhodes University,White,2012,2945
+H13,RU,Rhodes University,Total,2012,7395
+H13,RU,Rhodes University,African,2013,4046
+H13,RU,Rhodes University,Coloured,2013,280
+H13,RU,Rhodes University,Indian,2013,303
+H13,RU,Rhodes University,White,2013,2856
+H13,RU,Rhodes University,Total,2013,7485
+H13,RU,Rhodes University,African,2014,4169
+H13,RU,Rhodes University,Coloured,2014,296
+H13,RU,Rhodes University,Indian,2014,365
+H13,RU,Rhodes University,White,2014,2689
+H13,RU,Rhodes University,Total,2014,7519
+H13,RU,Rhodes University,African,2015,4685
+H13,RU,Rhodes University,Coloured,2015,339
+H13,RU,Rhodes University,Indian,2015,420
+H13,RU,Rhodes University,White,2015,2563
+H13,RU,Rhodes University,Total,2015,8007
+H13,RU,Rhodes University,African,2016,5011
+H13,RU,Rhodes University,Coloured,2016,338
+H13,RU,Rhodes University,Indian,2016,434
+H13,RU,Rhodes University,White,2016,2353
+H13,RU,Rhodes University,Other,2016,0
+H13,RU,Rhodes University,Total,2016,8136
+H14,UNISA,University of South Africa,African,2009,168614
+H14,UNISA,University of South Africa,Coloured,2009,15338
+H14,UNISA,University of South Africa,Indian,2009,23418
+H14,UNISA,University of South Africa,White,2009,56117
+H14,UNISA,University of South Africa,Other,2009,72
+H14,UNISA,University of South Africa,Total,2009,263559
+H14,UNISA,University of South Africa,African,2010,195553
+H14,UNISA,University of South Africa,Coloured,2010,16610
+H14,UNISA,University of South Africa,Indian,2010,24113
+H14,UNISA,University of South Africa,White,2010,56965
+H14,UNISA,University of South Africa,Other,2010,196
+H14,UNISA,University of South Africa,Total,2010,293437
+H14,UNISA,University of South Africa,African,2011,228159
+H14,UNISA,University of South Africa,Coloured,2011,17643
+H14,UNISA,University of South Africa,Indian,2011,24571
+H14,UNISA,University of South Africa,White,2011,58094
+H14,UNISA,University of South Africa,Other,2011,397
+H14,UNISA,University of South Africa,Total,2011,328864
+H14,UNISA,University of South Africa,African,2012,239577
+H14,UNISA,University of South Africa,Coloured,2012,17595
+H14,UNISA,University of South Africa,Indian,2012,23162
+H14,UNISA,University of South Africa,White,2012,55350
+H14,UNISA,University of South Africa,Other,2012,602
+H14,UNISA,University of South Africa,Total,2012,336286
+H14,UNISA,University of South Africa,African,2013,253613
+H14,UNISA,University of South Africa,Coloured,2013,19105
+H14,UNISA,University of South Africa,Indian,2013,24401
+H14,UNISA,University of South Africa,White,2013,57268
+H14,UNISA,University of South Africa,Other,2013,853
+H14,UNISA,University of South Africa,Total,2013,355240
+H14,UNISA,University of South Africa,African,2014,233653
+H14,UNISA,University of South Africa,Coloured,2014,18139
+H14,UNISA,University of South Africa,Indian,2014,22433
+H14,UNISA,University of South Africa,White,2014,53186
+H14,UNISA,University of South Africa,Other,2014,1080
+H14,UNISA,University of South Africa,Total,2014,328491
+H14,UNISA,University of South Africa,African,2015,243137
+H14,UNISA,University of South Africa,Coloured,2015,19345
+H14,UNISA,University of South Africa,Indian,2015,22298
+H14,UNISA,University of South Africa,White,2015,51690
+H14,UNISA,University of South Africa,Other,2015,1474
+H14,UNISA,University of South Africa,Total,2015,337944
+H14,UNISA,University of South Africa,African,2016,216751
+H14,UNISA,University of South Africa,Coloured,2016,16894
+H14,UNISA,University of South Africa,Indian,2016,19382
+H14,UNISA,University of South Africa,White,2016,45102
+H14,UNISA,University of South Africa,Other,2016,1195
+H14,UNISA,University of South Africa,Total,2016,299324
+H15,SU,University of Stellenbosch,African,2009,3362
+H15,SU,University of Stellenbosch,Coloured,2009,4245
+H15,SU,University of Stellenbosch,Indian,2009,511
+H15,SU,University of Stellenbosch,White,2009,17575
+H15,SU,University of Stellenbosch,Total,2009,25693
+H15,SU,University of Stellenbosch,African,2010,3811
+H15,SU,University of Stellenbosch,Coloured,2010,4463
+H15,SU,University of Stellenbosch,Indian,2010,546
+H15,SU,University of Stellenbosch,White,2010,18524
+H15,SU,University of Stellenbosch,Total,2010,27344
+H15,SU,University of Stellenbosch,African,2011,3885
+H15,SU,University of Stellenbosch,Coloured,2011,4362
+H15,SU,University of Stellenbosch,Indian,2011,566
+H15,SU,University of Stellenbosch,White,2011,18453
+H15,SU,University of Stellenbosch,Total,2011,27266
+H15,SU,University of Stellenbosch,African,2012,4027
+H15,SU,University of Stellenbosch,Coloured,2012,4253
+H15,SU,University of Stellenbosch,Indian,2012,572
+H15,SU,University of Stellenbosch,White,2012,18658
+H15,SU,University of Stellenbosch,Total,2012,27510
+H15,SU,University of Stellenbosch,African,2013,4231
+H15,SU,University of Stellenbosch,Coloured,2013,4421
+H15,SU,University of Stellenbosch,Indian,2013,636
+H15,SU,University of Stellenbosch,White,2013,18130
+H15,SU,University of Stellenbosch,Total,2013,27418
+H15,SU,University of Stellenbosch,African,2014,4654
+H15,SU,University of Stellenbosch,Coloured,2014,5000
+H15,SU,University of Stellenbosch,Indian,2014,739
+H15,SU,University of Stellenbosch,White,2014,18476
+H15,SU,University of Stellenbosch,Total,2014,28869
+H15,SU,University of Stellenbosch,African,2015,4970
+H15,SU,University of Stellenbosch,Coloured,2015,5201
+H15,SU,University of Stellenbosch,Indian,2015,787
+H15,SU,University of Stellenbosch,White,2015,18655
+H15,SU,University of Stellenbosch,Total,2015,29613
+H15,SU,University of Stellenbosch,African,2016,5185
+H15,SU,University of Stellenbosch,Coloured,2016,5385
+H15,SU,University of Stellenbosch,Indian,2016,866
+H15,SU,University of Stellenbosch,White,2016,18714
+H15,SU,University of Stellenbosch,Other,2016,11
+H15,SU,University of Stellenbosch,Total,2016,30161
+H16,TUT,Tshwane University of Technology,African,2009,47043
+H16,TUT,Tshwane University of Technology,Coloured,2009,673
+H16,TUT,Tshwane University of Technology,Indian,2009,308
+H16,TUT,Tshwane University of Technology,White,2009,4664
+H16,TUT,Tshwane University of Technology,Total,2009,52688
+H16,TUT,Tshwane University of Technology,African,2010,46636
+H16,TUT,Tshwane University of Technology,Coloured,2010,618
+H16,TUT,Tshwane University of Technology,Indian,2010,281
+H16,TUT,Tshwane University of Technology,White,2010,4250
+H16,TUT,Tshwane University of Technology,Total,2010,51785
+H16,TUT,Tshwane University of Technology,African,2011,45466
+H16,TUT,Tshwane University of Technology,Coloured,2011,522
+H16,TUT,Tshwane University of Technology,Indian,2011,250
+H16,TUT,Tshwane University of Technology,White,2011,3837
+H16,TUT,Tshwane University of Technology,Total,2011,50075
+H16,TUT,Tshwane University of Technology,African,2012,47487
+H16,TUT,Tshwane University of Technology,Coloured,2012,519
+H16,TUT,Tshwane University of Technology,Indian,2012,242
+H16,TUT,Tshwane University of Technology,White,2012,3463
+H16,TUT,Tshwane University of Technology,Total,2012,51711
+H16,TUT,Tshwane University of Technology,African,2013,50299
+H16,TUT,Tshwane University of Technology,Coloured,2013,525
+H16,TUT,Tshwane University of Technology,Indian,2013,249
+H16,TUT,Tshwane University of Technology,White,2013,3086
+H16,TUT,Tshwane University of Technology,Total,2013,54159
+H16,TUT,Tshwane University of Technology,African,2014,53238
+H16,TUT,Tshwane University of Technology,Coloured,2014,560
+H16,TUT,Tshwane University of Technology,Indian,2014,229
+H16,TUT,Tshwane University of Technology,White,2014,2758
+H16,TUT,Tshwane University of Technology,Total,2014,56785
+H16,TUT,Tshwane University of Technology,African,2015,54063
+H16,TUT,Tshwane University of Technology,Coloured,2015,515
+H16,TUT,Tshwane University of Technology,Indian,2015,238
+H16,TUT,Tshwane University of Technology,White,2015,2430
+H16,TUT,Tshwane University of Technology,Total,2015,57246
+H16,TUT,Tshwane University of Technology,African,2016,55957
+H16,TUT,Tshwane University of Technology,Coloured,2016,539
+H16,TUT,Tshwane University of Technology,Indian,2016,238
+H16,TUT,Tshwane University of Technology,White,2016,2167
+H16,TUT,Tshwane University of Technology,Other,2016,0
+H16,TUT,Tshwane University of Technology,Total,2016,58901
+H17,UNIVEN,University of Venda,African,2009,11118
+H17,UNIVEN,University of Venda,Coloured,2009,1
+H17,UNIVEN,University of Venda,Indian,2009,1
+H17,UNIVEN,University of Venda,White,2009,5
+H17,UNIVEN,University of Venda,Total,2009,11125
+H17,UNIVEN,University of Venda,African,2010,10676
+H17,UNIVEN,University of Venda,Coloured,2010,2
+H17,UNIVEN,University of Venda,Indian,2010,0
+H17,UNIVEN,University of Venda,White,2010,1
+H17,UNIVEN,University of Venda,Total,2010,10679
+H17,UNIVEN,University of Venda,African,2011,10335
+H17,UNIVEN,University of Venda,Coloured,2011,1
+H17,UNIVEN,University of Venda,Indian,2011,3
+H17,UNIVEN,University of Venda,White,2011,3
+H17,UNIVEN,University of Venda,Total,2011,10342
+H17,UNIVEN,University of Venda,African,2012,10308
+H17,UNIVEN,University of Venda,Coloured,2012,3
+H17,UNIVEN,University of Venda,Indian,2012,7
+H17,UNIVEN,University of Venda,White,2012,5
+H17,UNIVEN,University of Venda,Total,2012,10323
+H17,UNIVEN,University of Venda,African,2013,11797
+H17,UNIVEN,University of Venda,Coloured,2013,3
+H17,UNIVEN,University of Venda,Indian,2013,11
+H17,UNIVEN,University of Venda,White,2013,7
+H17,UNIVEN,University of Venda,Total,2013,11818
+H17,UNIVEN,University of Venda,African,2014,13477
+H17,UNIVEN,University of Venda,Coloured,2014,3
+H17,UNIVEN,University of Venda,Indian,2014,9
+H17,UNIVEN,University of Venda,White,2014,8
+H17,UNIVEN,University of Venda,Total,2014,13497
+H17,UNIVEN,University of Venda,African,2015,14121
+H17,UNIVEN,University of Venda,Coloured,2015,3
+H17,UNIVEN,University of Venda,Indian,2015,10
+H17,UNIVEN,University of Venda,White,2015,12
+H17,UNIVEN,University of Venda,Total,2015,14146
+H17,UNIVEN,University of Venda,African,2016,15217
+H17,UNIVEN,University of Venda,Coloured,2016,3
+H17,UNIVEN,University of Venda,Indian,2016,9
+H17,UNIVEN,University of Venda,White,2016,8
+H17,UNIVEN,University of Venda,Other,2016,0
+H17,UNIVEN,University of Venda,Total,2016,15237
+H18,VUT,Vaal University of Technology,African,2009,18247
+H18,VUT,Vaal University of Technology,Coloured,2009,292
+H18,VUT,Vaal University of Technology,Indian,2009,119
+H18,VUT,Vaal University of Technology,White,2009,749
+H18,VUT,Vaal University of Technology,Total,2009,19407
+H18,VUT,Vaal University of Technology,African,2010,20287
+H18,VUT,Vaal University of Technology,Coloured,2010,319
+H18,VUT,Vaal University of Technology,Indian,2010,116
+H18,VUT,Vaal University of Technology,White,2010,694
+H18,VUT,Vaal University of Technology,Total,2010,21416
+H18,VUT,Vaal University of Technology,African,2011,20762
+H18,VUT,Vaal University of Technology,Coloured,2011,352
+H18,VUT,Vaal University of Technology,Indian,2011,86
+H18,VUT,Vaal University of Technology,White,2011,661
+H18,VUT,Vaal University of Technology,Total,2011,21861
+H18,VUT,Vaal University of Technology,African,2012,20262
+H18,VUT,Vaal University of Technology,Coloured,2012,308
+H18,VUT,Vaal University of Technology,Indian,2012,74
+H18,VUT,Vaal University of Technology,White,2012,556
+H18,VUT,Vaal University of Technology,Other,2012,1
+H18,VUT,Vaal University of Technology,Total,2012,21201
+H18,VUT,Vaal University of Technology,African,2013,19785
+H18,VUT,Vaal University of Technology,Coloured,2013,268
+H18,VUT,Vaal University of Technology,Indian,2013,72
+H18,VUT,Vaal University of Technology,White,2013,508
+H18,VUT,Vaal University of Technology,Total,2013,20633
+H18,VUT,Vaal University of Technology,African,2014,18650
+H18,VUT,Vaal University of Technology,Coloured,2014,225
+H18,VUT,Vaal University of Technology,Indian,2014,62
+H18,VUT,Vaal University of Technology,White,2014,382
+H18,VUT,Vaal University of Technology,Total,2014,19319
+H18,VUT,Vaal University of Technology,African,2015,17160
+H18,VUT,Vaal University of Technology,Coloured,2015,145
+H18,VUT,Vaal University of Technology,Indian,2015,44
+H18,VUT,Vaal University of Technology,White,2015,329
+H18,VUT,Vaal University of Technology,Total,2015,17678
+H18,VUT,Vaal University of Technology,African,2016,18790
+H18,VUT,Vaal University of Technology,Coloured,2016,132
+H18,VUT,Vaal University of Technology,Indian,2016,40
+H18,VUT,Vaal University of Technology,White,2016,278
+H18,VUT,Vaal University of Technology,Other,2016,1
+H18,VUT,Vaal University of Technology,Total,2016,19241
+H19,WSU,Walter Sisulu University,African,2009,25095
+H19,WSU,Walter Sisulu University,Coloured,2009,50
+H19,WSU,Walter Sisulu University,Indian,2009,109
+H19,WSU,Walter Sisulu University,White,2009,73
+H19,WSU,Walter Sisulu University,Other,2009,29
+H19,WSU,Walter Sisulu University,Total,2009,25356
+H19,WSU,Walter Sisulu University,African,2010,26505
+H19,WSU,Walter Sisulu University,Coloured,2010,41
+H19,WSU,Walter Sisulu University,Indian,2010,105
+H19,WSU,Walter Sisulu University,White,2010,60
+H19,WSU,Walter Sisulu University,Other,2010,23
+H19,WSU,Walter Sisulu University,Total,2010,26734
+H19,WSU,Walter Sisulu University,African,2011,26813
+H19,WSU,Walter Sisulu University,Coloured,2011,44
+H19,WSU,Walter Sisulu University,Indian,2011,109
+H19,WSU,Walter Sisulu University,White,2011,63
+H19,WSU,Walter Sisulu University,Total,2011,27029
+H19,WSU,Walter Sisulu University,African,2012,24443
+H19,WSU,Walter Sisulu University,Coloured,2012,37
+H19,WSU,Walter Sisulu University,Indian,2012,82
+H19,WSU,Walter Sisulu University,White,2012,51
+H19,WSU,Walter Sisulu University,Total,2012,24613
+H19,WSU,Walter Sisulu University,African,2013,23970
+H19,WSU,Walter Sisulu University,Coloured,2013,37
+H19,WSU,Walter Sisulu University,Indian,2013,72
+H19,WSU,Walter Sisulu University,White,2013,43
+H19,WSU,Walter Sisulu University,Total,2013,24122
+H19,WSU,Walter Sisulu University,African,2014,23783
+H19,WSU,Walter Sisulu University,Coloured,2014,35
+H19,WSU,Walter Sisulu University,Indian,2014,79
+H19,WSU,Walter Sisulu University,White,2014,49
+H19,WSU,Walter Sisulu University,Total,2014,23946
+H19,WSU,Walter Sisulu University,African,2015,25793
+H19,WSU,Walter Sisulu University,Coloured,2015,46
+H19,WSU,Walter Sisulu University,Indian,2015,94
+H19,WSU,Walter Sisulu University,White,2015,60
+H19,WSU,Walter Sisulu University,Total,2015,25993
+H19,WSU,Walter Sisulu University,African,2016,28370
+H19,WSU,Walter Sisulu University,Coloured,2016,47
+H19,WSU,Walter Sisulu University,Indian,2016,98
+H19,WSU,Walter Sisulu University,White,2016,66
+H19,WSU,Walter Sisulu University,Other,2016,0
+H19,WSU,Walter Sisulu University,Total,2016,28581
+H20,UWC,University of the Western Cape,African,2009,6382
+H20,UWC,University of the Western Cape,Coloured,2009,7647
+H20,UWC,University of the Western Cape,Indian,2009,1093
+H20,UWC,University of the Western Cape,White,2009,666
+H20,UWC,University of the Western Cape,Other,2009,415
+H20,UWC,University of the Western Cape,Total,2009,16203
+H20,UWC,University of the Western Cape,African,2010,7431
+H20,UWC,University of the Western Cape,Coloured,2010,8400
+H20,UWC,University of the Western Cape,Indian,2010,1095
+H20,UWC,University of the Western Cape,White,2010,762
+H20,UWC,University of the Western Cape,Other,2010,371
+H20,UWC,University of the Western Cape,Total,2010,18059
+H20,UWC,University of the Western Cape,African,2011,7776
+H20,UWC,University of the Western Cape,Coloured,2011,8777
+H20,UWC,University of the Western Cape,Indian,2011,1073
+H20,UWC,University of the Western Cape,White,2011,813
+H20,UWC,University of the Western Cape,Other,2011,325
+H20,UWC,University of the Western Cape,Total,2011,18764
+H20,UWC,University of the Western Cape,African,2012,8328
+H20,UWC,University of the Western Cape,Coloured,2012,9067
+H20,UWC,University of the Western Cape,Indian,2012,1044
+H20,UWC,University of the Western Cape,White,2012,924
+H20,UWC,University of the Western Cape,Other,2012,228
+H20,UWC,University of the Western Cape,Total,2012,19591
+H20,UWC,University of the Western Cape,African,2013,8653
+H20,UWC,University of the Western Cape,Coloured,2013,9431
+H20,UWC,University of the Western Cape,Indian,2013,1051
+H20,UWC,University of the Western Cape,White,2013,1021
+H20,UWC,University of the Western Cape,Other,2013,227
+H20,UWC,University of the Western Cape,Total,2013,20383
+H20,UWC,University of the Western Cape,African,2014,8710
+H20,UWC,University of the Western Cape,Coloured,2014,9546
+H20,UWC,University of the Western Cape,Indian,2014,1002
+H20,UWC,University of the Western Cape,White,2014,1109
+H20,UWC,University of the Western Cape,Other,2014,215
+H20,UWC,University of the Western Cape,Total,2014,20582
+H20,UWC,University of the Western Cape,African,2015,8667
+H20,UWC,University of the Western Cape,Coloured,2015,9408
+H20,UWC,University of the Western Cape,Indian,2015,960
+H20,UWC,University of the Western Cape,White,2015,1135
+H20,UWC,University of the Western Cape,Other,2015,212
+H20,UWC,University of the Western Cape,Total,2015,20382
+H20,UWC,University of the Western Cape,African,2016,9372
+H20,UWC,University of the Western Cape,Coloured,2016,10143
+H20,UWC,University of the Western Cape,Indian,2016,913
+H20,UWC,University of the Western Cape,White,2016,1159
+H20,UWC,University of the Western Cape,Other,2016,209
+H20,UWC,University of the Western Cape,Total,2016,21796
+H21,WITS,University of Witwatersrand,African,2009,16185
+H21,WITS,University of Witwatersrand,Coloured,2009,962
+H21,WITS,University of Witwatersrand,Indian,2009,4078
+H21,WITS,University of Witwatersrand,White,2009,8001
+H21,WITS,University of Witwatersrand,Other,2009,8
+H21,WITS,University of Witwatersrand,Total,2009,29234
+H21,WITS,University of Witwatersrand,African,2010,16670
+H21,WITS,University of Witwatersrand,Coloured,2010,1034
+H21,WITS,University of Witwatersrand,Indian,2010,4038
+H21,WITS,University of Witwatersrand,White,2010,7756
+H21,WITS,University of Witwatersrand,Total,2010,29498
+H21,WITS,University of Witwatersrand,African,2011,16389
+H21,WITS,University of Witwatersrand,Coloured,2011,1027
+H21,WITS,University of Witwatersrand,Indian,2011,4050
+H21,WITS,University of Witwatersrand,White,2011,7530
+H21,WITS,University of Witwatersrand,Other,2011,8
+H21,WITS,University of Witwatersrand,Total,2011,29004
+H21,WITS,University of Witwatersrand,African,2012,17499
+H21,WITS,University of Witwatersrand,Coloured,2012,1084
+H21,WITS,University of Witwatersrand,Indian,2012,4106
+H21,WITS,University of Witwatersrand,White,2012,7745
+H21,WITS,University of Witwatersrand,Other,2012,2
+H21,WITS,University of Witwatersrand,Total,2012,30436
+H21,WITS,University of Witwatersrand,African,2013,18210
+H21,WITS,University of Witwatersrand,Coloured,2013,1157
+H21,WITS,University of Witwatersrand,Indian,2013,4076
+H21,WITS,University of Witwatersrand,White,2013,7669
+H21,WITS,University of Witwatersrand,Other,2013,22
+H21,WITS,University of Witwatersrand,Total,2013,31134
+H21,WITS,University of Witwatersrand,African,2014,19533
+H21,WITS,University of Witwatersrand,Coloured,2014,1256
+H21,WITS,University of Witwatersrand,Indian,2014,4362
+H21,WITS,University of Witwatersrand,White,2014,7569
+H21,WITS,University of Witwatersrand,Other,2014,1
+H21,WITS,University of Witwatersrand,Total,2014,32721
+H21,WITS,University of Witwatersrand,African,2015,20340
+H21,WITS,University of Witwatersrand,Coloured,2015,1367
+H21,WITS,University of Witwatersrand,Indian,2015,4470
+H21,WITS,University of Witwatersrand,White,2015,7597
+H21,WITS,University of Witwatersrand,Other,2015,3
+H21,WITS,University of Witwatersrand,Total,2015,33777
+H21,WITS,University of Witwatersrand,African,2016,23522
+H21,WITS,University of Witwatersrand,Coloured,2016,1540
+H21,WITS,University of Witwatersrand,Indian,2016,4761
+H21,WITS,University of Witwatersrand,White,2016,7625
+H21,WITS,University of Witwatersrand,Other,2016,0
+H21,WITS,University of Witwatersrand,Total,2016,37448
+H22,UZ,University of Zululand,African,2009,13120
+H22,UZ,University of Zululand,Coloured,2009,13
+H22,UZ,University of Zululand,Indian,2009,106
+H22,UZ,University of Zululand,White,2009,52
+H22,UZ,University of Zululand,Total,2009,13291
+H22,UZ,University of Zululand,African,2010,14560
+H22,UZ,University of Zululand,Coloured,2010,10
+H22,UZ,University of Zululand,Indian,2010,94
+H22,UZ,University of Zululand,White,2010,61
+H22,UZ,University of Zululand,Total,2010,14725
+H22,UZ,University of Zululand,African,2011,15435
+H22,UZ,University of Zululand,Coloured,2011,13
+H22,UZ,University of Zululand,Indian,2011,78
+H22,UZ,University of Zululand,White,2011,59
+H22,UZ,University of Zululand,Other,2011,7
+H22,UZ,University of Zululand,Total,2011,15592
+H22,UZ,University of Zululand,African,2012,16323
+H22,UZ,University of Zululand,Coloured,2012,14
+H22,UZ,University of Zululand,Indian,2012,50
+H22,UZ,University of Zululand,White,2012,45
+H22,UZ,University of Zululand,Other,2012,2
+H22,UZ,University of Zululand,Total,2012,16434
+H22,UZ,University of Zululand,African,2013,16466
+H22,UZ,University of Zululand,Coloured,2013,26
+H22,UZ,University of Zululand,Indian,2013,55
+H22,UZ,University of Zululand,White,2013,44
+H22,UZ,University of Zululand,Total,2013,16591
+H22,UZ,University of Zululand,African,2014,16517
+H22,UZ,University of Zululand,Coloured,2014,33
+H22,UZ,University of Zululand,Indian,2014,62
+H22,UZ,University of Zululand,White,2014,46
+H22,UZ,University of Zululand,Other,2014,5
+H22,UZ,University of Zululand,Total,2014,16663
+H22,UZ,University of Zululand,African,2015,16755
+H22,UZ,University of Zululand,Coloured,2015,33
+H22,UZ,University of Zululand,Indian,2015,66
+H22,UZ,University of Zululand,White,2015,31
+H22,UZ,University of Zululand,Other,2015,6
+H22,UZ,University of Zululand,Total,2015,16891
+H22,UZ,University of Zululand,African,2016,17531
+H22,UZ,University of Zululand,Coloured,2016,27
+H22,UZ,University of Zululand,Indian,2016,65
+H22,UZ,University of Zululand,White,2016,32
+H22,UZ,University of Zululand,Other,2016,7
+H22,UZ,University of Zululand,Total,2016,17662
+H23,SPU,Sol Plaatje University,Total,2009,0
+H23,SPU,Sol Plaatje University,Total,2010,0
+H23,SPU,Sol Plaatje University,Total,2011,0
+H23,SPU,Sol Plaatje University,Total,2012,0
+H23,SPU,Sol Plaatje University,Total,2013,0
+H23,SPU,Sol Plaatje University,African,2014,90
+H23,SPU,Sol Plaatje University,Coloured,2014,30
+H23,SPU,Sol Plaatje University,Indian,2014,1
+H23,SPU,Sol Plaatje University,White,2014,3
+H23,SPU,Sol Plaatje University,Other,2014,0
+H23,SPU,Sol Plaatje University,Total,2014,124
+H23,SPU,Sol Plaatje University,African,2015,219
+H23,SPU,Sol Plaatje University,Coloured,2015,83
+H23,SPU,Sol Plaatje University,Indian,2015,6
+H23,SPU,Sol Plaatje University,White,2015,20
+H23,SPU,Sol Plaatje University,Total,2015,328
+H23,SPU,Sol Plaatje University,African,2016,484
+H23,SPU,Sol Plaatje University,Coloured,2016,170
+H23,SPU,Sol Plaatje University,Indian,2016,11
+H23,SPU,Sol Plaatje University,White,2016,38
+H23,SPU,Sol Plaatje University,Other,2016,0
+H23,SPU,Sol Plaatje University,Total,2016,703
+H24,UMP,University of Mpumalanga,Total,2009,0
+H24,UMP,University of Mpumalanga,Total,2010,0
+H24,UMP,University of Mpumalanga,Total,2011,0
+H24,UMP,University of Mpumalanga,Total,2012,0
+H24,UMP,University of Mpumalanga,Total,2013,0
+H24,UMP,University of Mpumalanga,African,2014,138
+H24,UMP,University of Mpumalanga,Coloured,2014,1
+H24,UMP,University of Mpumalanga,Indian,2014,1
+H24,UMP,University of Mpumalanga,White,2014,0
+H24,UMP,University of Mpumalanga,Other,2014,0
+H24,UMP,University of Mpumalanga,Total,2014,140
+H24,UMP,University of Mpumalanga,African,2015,808
+H24,UMP,University of Mpumalanga,Coloured,2015,1
+H24,UMP,University of Mpumalanga,Indian,2015,1
+H24,UMP,University of Mpumalanga,White,2015,6
+H24,UMP,University of Mpumalanga,Total,2015,816
+H24,UMP,University of Mpumalanga,African,2016,1258
+H24,UMP,University of Mpumalanga,Coloured,2016,3
+H24,UMP,University of Mpumalanga,Indian,2016,1
+H24,UMP,University of Mpumalanga,White,2016,6
+H24,UMP,University of Mpumalanga,Other,2016,0
+H24,UMP,University of Mpumalanga,Total,2016,1268
+H25,MUT,Mangosuthu University of Technology,African,2009,9665
+H25,MUT,Mangosuthu University of Technology,Coloured,2009,5
+H25,MUT,Mangosuthu University of Technology,Indian,2009,7
+H25,MUT,Mangosuthu University of Technology,White,2009,0
+H25,MUT,Mangosuthu University of Technology,Total,2009,9677
+H25,MUT,Mangosuthu University of Technology,African,2010,10015
+H25,MUT,Mangosuthu University of Technology,Coloured,2010,8
+H25,MUT,Mangosuthu University of Technology,Indian,2010,9
+H25,MUT,Mangosuthu University of Technology,White,2010,1
+H25,MUT,Mangosuthu University of Technology,Total,2010,10033
+H25,MUT,Mangosuthu University of Technology,African,2011,10261
+H25,MUT,Mangosuthu University of Technology,Coloured,2011,10
+H25,MUT,Mangosuthu University of Technology,Indian,2011,9
+H25,MUT,Mangosuthu University of Technology,White,2011,6
+H25,MUT,Mangosuthu University of Technology,Total,2011,10286
+H25,MUT,Mangosuthu University of Technology,African,2012,10776
+H25,MUT,Mangosuthu University of Technology,Coloured,2012,10
+H25,MUT,Mangosuthu University of Technology,Indian,2012,12
+H25,MUT,Mangosuthu University of Technology,White,2012,4
+H25,MUT,Mangosuthu University of Technology,Total,2012,10802
+H25,MUT,Mangosuthu University of Technology,African,2013,11340
+H25,MUT,Mangosuthu University of Technology,Coloured,2013,16
+H25,MUT,Mangosuthu University of Technology,Indian,2013,14
+H25,MUT,Mangosuthu University of Technology,White,2013,5
+H25,MUT,Mangosuthu University of Technology,Total,2013,11375
+H25,MUT,Mangosuthu University of Technology,African,2014,11334
+H25,MUT,Mangosuthu University of Technology,Coloured,2014,16
+H25,MUT,Mangosuthu University of Technology,Indian,2014,24
+H25,MUT,Mangosuthu University of Technology,White,2014,3
+H25,MUT,Mangosuthu University of Technology,Total,2014,11377
+H25,MUT,Mangosuthu University of Technology,African,2015,11469
+H25,MUT,Mangosuthu University of Technology,Coloured,2015,15
+H25,MUT,Mangosuthu University of Technology,Indian,2015,27
+H25,MUT,Mangosuthu University of Technology,White,2015,7
+H25,MUT,Mangosuthu University of Technology,Total,2015,11518
+H25,MUT,Mangosuthu University of Technology,African,2016,11529
+H25,MUT,Mangosuthu University of Technology,Coloured,2016,15
+H25,MUT,Mangosuthu University of Technology,Indian,2016,35
+H25,MUT,Mangosuthu University of Technology,White,2016,9
+H25,MUT,Mangosuthu University of Technology,Other,2016,0
+H25,MUT,Mangosuthu University of Technology,Total,2016,11588
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2009,0
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2010,0
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2011,0
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2012,0
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2013,0
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2014,0
+H26,SMHSU,Sefako Makgatho Health Science University,African,2015,4638
+H26,SMHSU,Sefako Makgatho Health Science University,Coloured,2015,15
+H26,SMHSU,Sefako Makgatho Health Science University,Indian,2015,151
+H26,SMHSU,Sefako Makgatho Health Science University,White,2015,270
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2015,5074
+H26,SMHSU,Sefako Makgatho Health Science University,African,2016,4941
+H26,SMHSU,Sefako Makgatho Health Science University,Coloured,2016,15
+H26,SMHSU,Sefako Makgatho Health Science University,Indian,2016,154
+H26,SMHSU,Sefako Makgatho Health Science University,White,2016,292
+H26,SMHSU,Sefako Makgatho Health Science University,Other,2016,0
+H26,SMHSU,Sefako Makgatho Health Science University,Total,2016,5402

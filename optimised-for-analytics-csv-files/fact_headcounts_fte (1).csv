@@ -1,0 +1,385 @@
+institution_code,institution_abbreviation,institution_name,metric,year,value
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2009,30958
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2009,22690.136
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2010,32167
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2010,23853.884
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2011,32506
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2011,24161.077
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2012,33509
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2012,24848.444
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2013,33477
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2013,24903.348
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2014,33186
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2014,24493.715
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2015,32674
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2015,24353.918
+H01,CPUT,Cape Peninsula University of Technology,Headcounts,2016,34455
+H01,CPUT,Cape Peninsula University of Technology,FTEs,2016,25745.868
+H02,UCT,University of Cape Town,Headcounts,2009,23787
+H02,UCT,University of Cape Town,FTEs,2009,18853.74549
+H02,UCT,University of Cape Town,Headcounts,2010,24772
+H02,UCT,University of Cape Town,FTEs,2010,19651.611
+H02,UCT,University of Cape Town,Headcounts,2011,25301
+H02,UCT,University of Cape Town,FTEs,2011,19843.08
+H02,UCT,University of Cape Town,Headcounts,2012,25805
+H02,UCT,University of Cape Town,FTEs,2012,20172.9
+H02,UCT,University of Cape Town,Headcounts,2013,26118
+H02,UCT,University of Cape Town,FTEs,2013,20041.624
+H02,UCT,University of Cape Town,Headcounts,2014,26357
+H02,UCT,University of Cape Town,FTEs,2014,20055.492
+H02,UCT,University of Cape Town,Headcounts,2015,27809
+H02,UCT,University of Cape Town,FTEs,2015,20776.103
+H02,UCT,University of Cape Town,Headcounts,2016,29232
+H02,UCT,University of Cape Town,FTEs,2016,22136.681
+H03,CUT,Central University of Technology,Headcounts,2009,12205
+H03,CUT,Central University of Technology,FTEs,2009,9697.434
+H03,CUT,Central University of Technology,Headcounts,2010,12583
+H03,CUT,Central University of Technology,FTEs,2010,9862.644
+H03,CUT,Central University of Technology,Headcounts,2011,12644
+H03,CUT,Central University of Technology,FTEs,2011,9764.14
+H03,CUT,Central University of Technology,Headcounts,2012,12724
+H03,CUT,Central University of Technology,FTEs,2012,9744.812
+H03,CUT,Central University of Technology,Headcounts,2013,13303
+H03,CUT,Central University of Technology,FTEs,2013,9962.73
+H03,CUT,Central University of Technology,Headcounts,2014,14352
+H03,CUT,Central University of Technology,FTEs,2014,10823.661
+H03,CUT,Central University of Technology,Headcounts,2015,14193
+H03,CUT,Central University of Technology,FTEs,2015,10010.151
+H03,CUT,Central University of Technology,Headcounts,2016,15708
+H03,CUT,Central University of Technology,FTEs,2016,12377.487
+H04,DUT,Durban University of Technology,Headcounts,2009,24026
+H04,DUT,Durban University of Technology,FTEs,2009,17335.437
+H04,DUT,Durban University of Technology,Headcounts,2010,25184
+H04,DUT,Durban University of Technology,FTEs,2010,18902.555
+H04,DUT,Durban University of Technology,Headcounts,2011,24840
+H04,DUT,Durban University of Technology,FTEs,2011,18534.362
+H04,DUT,Durban University of Technology,Headcounts,2012,24875
+H04,DUT,Durban University of Technology,FTEs,2012,18159
+H04,DUT,Durban University of Technology,Headcounts,2013,26059
+H04,DUT,Durban University of Technology,FTEs,2013,19237.26
+H04,DUT,Durban University of Technology,Headcounts,2014,26472
+H04,DUT,Durban University of Technology,FTEs,2014,19371.273
+H04,DUT,Durban University of Technology,Headcounts,2015,27023
+H04,DUT,Durban University of Technology,FTEs,2015,19585.741
+H04,DUT,Durban University of Technology,Headcounts,2016,28377
+H04,DUT,Durban University of Technology,FTEs,2016,20700.294
+H05,FH,University of Fort Hare,Headcounts,2009,10016
+H05,FH,University of Fort Hare,FTEs,2009,8810.456
+H05,FH,University of Fort Hare,Headcounts,2010,10741
+H05,FH,University of Fort Hare,FTEs,2010,9158.993
+H05,FH,University of Fort Hare,Headcounts,2011,11144
+H05,FH,University of Fort Hare,FTEs,2011,9438.403
+H05,FH,University of Fort Hare,Headcounts,2012,12044
+H05,FH,University of Fort Hare,FTEs,2012,9966.524
+H05,FH,University of Fort Hare,Headcounts,2013,12315
+H05,FH,University of Fort Hare,FTEs,2013,10304.595
+H05,FH,University of Fort Hare,Headcounts,2014,13063
+H05,FH,University of Fort Hare,FTEs,2014,10601.326
+H05,FH,University of Fort Hare,Headcounts,2015,13458
+H05,FH,University of Fort Hare,FTEs,2015,10986.741
+H05,FH,University of Fort Hare,Headcounts,2016,13831
+H05,FH,University of Fort Hare,FTEs,2016,11321.863
+H06,FS,University of Free State,Headcounts,2009,27241
+H06,FS,University of Free State,FTEs,2009,20337.33646
+H06,FS,University of Free State,Headcounts,2010,29901
+H06,FS,University of Free State,FTEs,2010,21706.206
+H06,FS,University of Free State,Headcounts,2011,31586
+H06,FS,University of Free State,FTEs,2011,23509.292
+H06,FS,University of Free State,Headcounts,2012,32375
+H06,FS,University of Free State,FTEs,2012,23319
+H06,FS,University of Free State,Headcounts,2013,31877
+H06,FS,University of Free State,FTEs,2013,23461.703
+H06,FS,University of Free State,Headcounts,2014,31032
+H06,FS,University of Free State,FTEs,2014,22896.763
+H06,FS,University of Free State,Headcounts,2015,30418
+H06,FS,University of Free State,FTEs,2015,22887.58
+H06,FS,University of Free State,Headcounts,2016,36269
+H06,FS,University of Free State,FTEs,2016,27178.575
+H07,UJ,University of Johannesburg,Headcounts,2009,49315
+H07,UJ,University of Johannesburg,FTEs,2009,38077.709
+H07,UJ,University of Johannesburg,Headcounts,2010,48315
+H07,UJ,University of Johannesburg,FTEs,2010,37270.58
+H07,UJ,University of Johannesburg,Headcounts,2011,50528
+H07,UJ,University of Johannesburg,FTEs,2011,38556.638
+H07,UJ,University of Johannesburg,Headcounts,2012,48769
+H07,UJ,University of Johannesburg,FTEs,2012,37349
+H07,UJ,University of Johannesburg,Headcounts,2013,48386
+H07,UJ,University of Johannesburg,FTEs,2013,36746.76
+H07,UJ,University of Johannesburg,Headcounts,2014,49789
+H07,UJ,University of Johannesburg,FTEs,2014,38263.668
+H07,UJ,University of Johannesburg,Headcounts,2015,49452
+H07,UJ,University of Johannesburg,FTEs,2015,38083.133
+H07,UJ,University of Johannesburg,Headcounts,2016,51795
+H07,UJ,University of Johannesburg,FTEs,2016,39947.687
+H08,KZN,University of Kwazulu-Natal,Headcounts,2009,38864
+H08,KZN,University of Kwazulu-Natal,FTEs,2009,28813.592
+H08,KZN,University of Kwazulu-Natal,Headcounts,2010,41224
+H08,KZN,University of Kwazulu-Natal,FTEs,2010,30633.542
+H08,KZN,University of Kwazulu-Natal,Headcounts,2011,41762
+H08,KZN,University of Kwazulu-Natal,FTEs,2011,31257.416
+H08,KZN,University of Kwazulu-Natal,Headcounts,2012,41864
+H08,KZN,University of Kwazulu-Natal,FTEs,2012,31707.864
+H08,KZN,University of Kwazulu-Natal,Headcounts,2013,44002
+H08,KZN,University of Kwazulu-Natal,FTEs,2013,33296.49
+H08,KZN,University of Kwazulu-Natal,Headcounts,2014,45465
+H08,KZN,University of Kwazulu-Natal,FTEs,2014,34227.194
+H08,KZN,University of Kwazulu-Natal,Headcounts,2015,45506
+H08,KZN,University of Kwazulu-Natal,FTEs,2015,34211.864
+H08,KZN,University of Kwazulu-Natal,Headcounts,2016,46472
+H08,KZN,University of Kwazulu-Natal,FTEs,2016,35390.769
+H09,UL,University of Limpopo,Headcounts,2009,16299
+H09,UL,University of Limpopo,FTEs,2009,13723.315
+H09,UL,University of Limpopo,Headcounts,2010,18205
+H09,UL,University of Limpopo,FTEs,2010,15725.473
+H09,UL,University of Limpopo,Headcounts,2011,20504
+H09,UL,University of Limpopo,FTEs,2011,17620.71
+H09,UL,University of Limpopo,Headcounts,2012,22249
+H09,UL,University of Limpopo,FTEs,2012,18678.458
+H09,UL,University of Limpopo,Headcounts,2013,22914
+H09,UL,University of Limpopo,FTEs,2013,19148.958
+H09,UL,University of Limpopo,Headcounts,2014,23384
+H09,UL,University of Limpopo,FTEs,2014,19746.748
+H09,UL,University of Limpopo,Headcounts,2015,18907
+H09,UL,University of Limpopo,FTEs,2015,16724.07
+H09,UL,University of Limpopo,Headcounts,2016,19843
+H09,UL,University of Limpopo,FTEs,2016,17185.771
+H10,NMU,Nelson Mandela University,Headcounts,2009,25497
+H10,NMU,Nelson Mandela University,FTEs,2009,18256.083
+H10,NMU,Nelson Mandela University,Headcounts,2010,26119
+H10,NMU,Nelson Mandela University,FTEs,2010,18839.516
+H10,NMU,Nelson Mandela University,Headcounts,2011,26256
+H10,NMU,Nelson Mandela University,FTEs,2011,19389.573
+H10,NMU,Nelson Mandela University,Headcounts,2012,26597
+H10,NMU,Nelson Mandela University,FTEs,2012,19445.127
+H10,NMU,Nelson Mandela University,Headcounts,2013,26361
+H10,NMU,Nelson Mandela University,FTEs,2013,19664.483
+H10,NMU,Nelson Mandela University,Headcounts,2014,26510
+H10,NMU,Nelson Mandela University,FTEs,2014,19803.348
+H10,NMU,Nelson Mandela University,Headcounts,2015,26305
+H10,NMU,Nelson Mandela University,FTEs,2015,20001.561
+H10,NMU,Nelson Mandela University,Headcounts,2016,27780
+H10,NMU,Nelson Mandela University,FTEs,2016,21567.959
+H11,NWU,North West University,Headcounts,2009,50589
+H11,NWU,North West University,FTEs,2009,33050.4431
+H11,NWU,North West University,Headcounts,2010,55732
+H11,NWU,North West University,FTEs,2010,36453.349
+H11,NWU,North West University,Headcounts,2011,56641
+H11,NWU,North West University,FTEs,2011,39278.889
+H11,NWU,North West University,Headcounts,2012,58752
+H11,NWU,North West University,FTEs,2012,39610.9893
+H11,NWU,North West University,Headcounts,2013,60975
+H11,NWU,North West University,FTEs,2013,41033.38
+H11,NWU,North West University,Headcounts,2014,63135
+H11,NWU,North West University,FTEs,2014,42382.809
+H11,NWU,North West University,Headcounts,2015,64070
+H11,NWU,North West University,FTEs,2015,42555.557
+H11,NWU,North West University,Headcounts,2016,63395
+H11,NWU,North West University,FTEs,2016,43919.859
+H12,UP,University of Pretoria,Headcounts,2009,55734
+H12,UP,University of Pretoria,FTEs,2009,38818.239
+H12,UP,University of Pretoria,Headcounts,2010,57114
+H12,UP,University of Pretoria,FTEs,2010,39681.393
+H12,UP,University of Pretoria,Headcounts,2011,58128
+H12,UP,University of Pretoria,FTEs,2011,40473.402
+H12,UP,University of Pretoria,Headcounts,2012,57508
+H12,UP,University of Pretoria,FTEs,2012,40143.204
+H12,UP,University of Pretoria,Headcounts,2013,57553
+H12,UP,University of Pretoria,FTEs,2013,41001.473
+H12,UP,University of Pretoria,Headcounts,2014,56376
+H12,UP,University of Pretoria,FTEs,2014,40979.546
+H12,UP,University of Pretoria,Headcounts,2015,55984
+H12,UP,University of Pretoria,FTEs,2015,41794.026
+H12,UP,University of Pretoria,Headcounts,2016,53232
+H12,UP,University of Pretoria,FTEs,2016,40821.969
+H13,RU,Rhodes University,Headcounts,2009,7012
+H13,RU,Rhodes University,FTEs,2009,5880.501309
+H13,RU,Rhodes University,Headcounts,2010,7169
+H13,RU,Rhodes University,FTEs,2010,6026.442
+H13,RU,Rhodes University,Headcounts,2011,7278
+H13,RU,Rhodes University,FTEs,2011,6059.622
+H13,RU,Rhodes University,Headcounts,2012,7395
+H13,RU,Rhodes University,FTEs,2012,6114
+H13,RU,Rhodes University,Headcounts,2013,7485
+H13,RU,Rhodes University,FTEs,2013,6163.498
+H13,RU,Rhodes University,Headcounts,2014,7519
+H13,RU,Rhodes University,FTEs,2014,6136.401
+H13,RU,Rhodes University,Headcounts,2015,8007
+H13,RU,Rhodes University,FTEs,2015,6479.444
+H13,RU,Rhodes University,Headcounts,2016,8136
+H13,RU,Rhodes University,FTEs,2016,6630.33
+H14,UNISA,University of South Africa,Headcounts,2009,263559
+H14,UNISA,University of South Africa,FTEs,2009,136107.592
+H14,UNISA,University of South Africa,Headcounts,2010,293437
+H14,UNISA,University of South Africa,FTEs,2010,148275.024
+H14,UNISA,University of South Africa,Headcounts,2011,328864
+H14,UNISA,University of South Africa,FTEs,2011,168678.996
+H14,UNISA,University of South Africa,Headcounts,2012,336286
+H14,UNISA,University of South Africa,FTEs,2012,172303.9614
+H14,UNISA,University of South Africa,Headcounts,2013,355240
+H14,UNISA,University of South Africa,FTEs,2013,197101.836
+H14,UNISA,University of South Africa,Headcounts,2014,328491
+H14,UNISA,University of South Africa,FTEs,2014,187042.754
+H14,UNISA,University of South Africa,Headcounts,2015,337944
+H14,UNISA,University of South Africa,FTEs,2015,190877.838
+H14,UNISA,University of South Africa,Headcounts,2016,299324
+H14,UNISA,University of South Africa,FTEs,2016,167621.796
+H15,SU,University of Stellenbosch,Headcounts,2009,25693
+H15,SU,University of Stellenbosch,FTEs,2009,20668.4132
+H15,SU,University of Stellenbosch,Headcounts,2010,27344
+H15,SU,University of Stellenbosch,FTEs,2010,22055.677
+H15,SU,University of Stellenbosch,Headcounts,2011,27266
+H15,SU,University of Stellenbosch,FTEs,2011,22187.917
+H15,SU,University of Stellenbosch,Headcounts,2012,27510
+H15,SU,University of Stellenbosch,FTEs,2012,22193
+H15,SU,University of Stellenbosch,Headcounts,2013,27418
+H15,SU,University of Stellenbosch,FTEs,2013,21803.472
+H15,SU,University of Stellenbosch,Headcounts,2014,28869
+H15,SU,University of Stellenbosch,FTEs,2014,22476.179
+H15,SU,University of Stellenbosch,Headcounts,2015,29613
+H15,SU,University of Stellenbosch,FTEs,2015,23202.682
+H15,SU,University of Stellenbosch,Headcounts,2016,30161
+H15,SU,University of Stellenbosch,FTEs,2016,23750.239
+H16,TUT,Tshwane University of Technology,Headcounts,2009,52688
+H16,TUT,Tshwane University of Technology,FTEs,2009,40190.299
+H16,TUT,Tshwane University of Technology,Headcounts,2010,51785
+H16,TUT,Tshwane University of Technology,FTEs,2010,37381.443
+H16,TUT,Tshwane University of Technology,Headcounts,2011,50075
+H16,TUT,Tshwane University of Technology,FTEs,2011,36437.967
+H16,TUT,Tshwane University of Technology,Headcounts,2012,51711
+H16,TUT,Tshwane University of Technology,FTEs,2012,36849.981
+H16,TUT,Tshwane University of Technology,Headcounts,2013,54159
+H16,TUT,Tshwane University of Technology,FTEs,2013,37903.368
+H16,TUT,Tshwane University of Technology,Headcounts,2014,56785
+H16,TUT,Tshwane University of Technology,FTEs,2014,40744.783
+H16,TUT,Tshwane University of Technology,Headcounts,2015,57246
+H16,TUT,Tshwane University of Technology,FTEs,2015,41419.485
+H16,TUT,Tshwane University of Technology,Headcounts,2016,58901
+H16,TUT,Tshwane University of Technology,FTEs,2016,42846.211
+H17,UNIVEN,University of Venda,Headcounts,2009,11125
+H17,UNIVEN,University of Venda,FTEs,2009,9892.659
+H17,UNIVEN,University of Venda,Headcounts,2010,10679
+H17,UNIVEN,University of Venda,FTEs,2010,9090.946
+H17,UNIVEN,University of Venda,Headcounts,2011,10342
+H17,UNIVEN,University of Venda,FTEs,2011,8398.697
+H17,UNIVEN,University of Venda,Headcounts,2012,10323
+H17,UNIVEN,University of Venda,FTEs,2012,8122.043
+H17,UNIVEN,University of Venda,Headcounts,2013,11818
+H17,UNIVEN,University of Venda,FTEs,2013,9682.024
+H17,UNIVEN,University of Venda,Headcounts,2014,13497
+H17,UNIVEN,University of Venda,FTEs,2014,11161.354
+H17,UNIVEN,University of Venda,Headcounts,2015,14146
+H17,UNIVEN,University of Venda,FTEs,2015,11820.646
+H17,UNIVEN,University of Venda,Headcounts,2016,15237
+H17,UNIVEN,University of Venda,FTEs,2016,13034.488
+H18,VUT,Vaal University of Technology,Headcounts,2009,19407
+H18,VUT,Vaal University of Technology,FTEs,2009,14551.14
+H18,VUT,Vaal University of Technology,Headcounts,2010,21416
+H18,VUT,Vaal University of Technology,FTEs,2010,15897.267
+H18,VUT,Vaal University of Technology,Headcounts,2011,21861
+H18,VUT,Vaal University of Technology,FTEs,2011,15766.028
+H18,VUT,Vaal University of Technology,Headcounts,2012,21201
+H18,VUT,Vaal University of Technology,FTEs,2012,14507.247
+H18,VUT,Vaal University of Technology,Headcounts,2013,20633
+H18,VUT,Vaal University of Technology,FTEs,2013,13744.186
+H18,VUT,Vaal University of Technology,Headcounts,2014,19319
+H18,VUT,Vaal University of Technology,FTEs,2014,12850.616
+H18,VUT,Vaal University of Technology,Headcounts,2015,17678
+H18,VUT,Vaal University of Technology,FTEs,2015,11649.428
+H18,VUT,Vaal University of Technology,Headcounts,2016,19241
+H18,VUT,Vaal University of Technology,FTEs,2016,12598.42
+H19,WSU,Walter Sisulu University,Headcounts,2009,25356
+H19,WSU,Walter Sisulu University,FTEs,2009,21360.172
+H19,WSU,Walter Sisulu University,Headcounts,2010,26734
+H19,WSU,Walter Sisulu University,FTEs,2010,22883.288
+H19,WSU,Walter Sisulu University,Headcounts,2011,27029
+H19,WSU,Walter Sisulu University,FTEs,2011,21614.771
+H19,WSU,Walter Sisulu University,Headcounts,2012,24613
+H19,WSU,Walter Sisulu University,FTEs,2012,20346.56
+H19,WSU,Walter Sisulu University,Headcounts,2013,24122
+H19,WSU,Walter Sisulu University,FTEs,2013,19662.209
+H19,WSU,Walter Sisulu University,Headcounts,2014,23946
+H19,WSU,Walter Sisulu University,FTEs,2014,19607.862
+H19,WSU,Walter Sisulu University,Headcounts,2015,25993
+H19,WSU,Walter Sisulu University,FTEs,2015,21987.251
+H19,WSU,Walter Sisulu University,Headcounts,2016,28581
+H19,WSU,Walter Sisulu University,FTEs,2016,24427.637
+H20,UWC,University of the Western Cape,Headcounts,2009,16203
+H20,UWC,University of the Western Cape,FTEs,2009,12052.8952
+H20,UWC,University of the Western Cape,Headcounts,2010,18059
+H20,UWC,University of the Western Cape,FTEs,2010,14512.447
+H20,UWC,University of the Western Cape,Headcounts,2011,18764
+H20,UWC,University of the Western Cape,FTEs,2011,14874.432
+H20,UWC,University of the Western Cape,Headcounts,2012,19591
+H20,UWC,University of the Western Cape,FTEs,2012,15367
+H20,UWC,University of the Western Cape,Headcounts,2013,20383
+H20,UWC,University of the Western Cape,FTEs,2013,15977.38
+H20,UWC,University of the Western Cape,Headcounts,2014,20582
+H20,UWC,University of the Western Cape,FTEs,2014,15708.216
+H20,UWC,University of the Western Cape,Headcounts,2015,20382
+H20,UWC,University of the Western Cape,FTEs,2015,15512.693
+H20,UWC,University of the Western Cape,Headcounts,2016,21796
+H20,UWC,University of the Western Cape,FTEs,2016,16934.315
+H21,WITS,University of Witwatersrand,Headcounts,2009,29234
+H21,WITS,University of Witwatersrand,FTEs,2009,21278.07617
+H21,WITS,University of Witwatersrand,Headcounts,2010,29498
+H21,WITS,University of Witwatersrand,FTEs,2010,21549.4
+H21,WITS,University of Witwatersrand,Headcounts,2011,29004
+H21,WITS,University of Witwatersrand,FTEs,2011,21228.151
+H21,WITS,University of Witwatersrand,Headcounts,2012,30436
+H21,WITS,University of Witwatersrand,FTEs,2012,22644.183
+H21,WITS,University of Witwatersrand,Headcounts,2013,31134
+H21,WITS,University of Witwatersrand,FTEs,2013,23506.989
+H21,WITS,University of Witwatersrand,Headcounts,2014,32721
+H21,WITS,University of Witwatersrand,FTEs,2014,24779.447
+H21,WITS,University of Witwatersrand,Headcounts,2015,33777
+H21,WITS,University of Witwatersrand,FTEs,2015,25522.736
+H21,WITS,University of Witwatersrand,Headcounts,2016,37448
+H21,WITS,University of Witwatersrand,FTEs,2016,28499.002
+H22,UZ,University of Zululand,Headcounts,2009,13291
+H22,UZ,University of Zululand,FTEs,2009,11943.059
+H22,UZ,University of Zululand,Headcounts,2010,14725
+H22,UZ,University of Zululand,FTEs,2010,13164.334
+H22,UZ,University of Zululand,Headcounts,2011,15592
+H22,UZ,University of Zululand,FTEs,2011,14205.846
+H22,UZ,University of Zululand,Headcounts,2012,16434
+H22,UZ,University of Zululand,FTEs,2012,15583.232
+H22,UZ,University of Zululand,Headcounts,2013,16591
+H22,UZ,University of Zululand,FTEs,2013,13763.908
+H22,UZ,University of Zululand,Headcounts,2014,16663
+H22,UZ,University of Zululand,FTEs,2014,14862.597
+H22,UZ,University of Zululand,Headcounts,2015,16891
+H22,UZ,University of Zululand,FTEs,2015,16059.568
+H22,UZ,University of Zululand,Headcounts,2016,17662
+H22,UZ,University of Zululand,FTEs,2016,16615.179
+H23,SPU,Sol Plaatje University,Headcounts,2014,124
+H23,SPU,Sol Plaatje University,FTEs,2014,125
+H23,SPU,Sol Plaatje University,Headcounts,2015,328
+H23,SPU,Sol Plaatje University,FTEs,2015,335.41
+H23,SPU,Sol Plaatje University,Headcounts,2016,703
+H23,SPU,Sol Plaatje University,FTEs,2016,677.238
+H24,UMP,University of Mpumalanga,Headcounts,2014,140
+H24,UMP,University of Mpumalanga,FTEs,2014,136
+H24,UMP,University of Mpumalanga,Headcounts,2015,816
+H24,UMP,University of Mpumalanga,FTEs,2015,646.527
+H24,UMP,University of Mpumalanga,Headcounts,2016,1268
+H24,UMP,University of Mpumalanga,FTEs,2016,1077.04
+H25,MUT,Mangosuthu University of Technology,Headcounts,2009,9677
+H25,MUT,Mangosuthu University of Technology,FTEs,2009,7317.721
+H25,MUT,Mangosuthu University of Technology,Headcounts,2010,10033
+H25,MUT,Mangosuthu University of Technology,FTEs,2010,7426.152
+H25,MUT,Mangosuthu University of Technology,Headcounts,2011,10286
+H25,MUT,Mangosuthu University of Technology,FTEs,2011,7130.294
+H25,MUT,Mangosuthu University of Technology,Headcounts,2012,10802
+H25,MUT,Mangosuthu University of Technology,FTEs,2012,7372
+H25,MUT,Mangosuthu University of Technology,Headcounts,2013,11375
+H25,MUT,Mangosuthu University of Technology,FTEs,2013,7744.861
+H25,MUT,Mangosuthu University of Technology,Headcounts,2014,11377
+H25,MUT,Mangosuthu University of Technology,FTEs,2014,7669
+H25,MUT,Mangosuthu University of Technology,Headcounts,2015,11518
+H25,MUT,Mangosuthu University of Technology,FTEs,2015,7602.637
+H25,MUT,Mangosuthu University of Technology,Headcounts,2016,11588
+H25,MUT,Mangosuthu University of Technology,FTEs,2016,8078.368
+H26,SMHSU,Sefako Makgatho Health Science University,Headcounts,2015,5074
+H26,SMHSU,Sefako Makgatho Health Science University,FTEs,2015,3755.42
+H26,SMHSU,Sefako Makgatho Health Science University,Headcounts,2016,5402
+H26,SMHSU,Sefako Makgatho Health Science University,FTEs,2016,4212.316

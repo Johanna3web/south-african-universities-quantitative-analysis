@@ -1,0 +1,833 @@
+institution_code,institution_abbreviation,institution_name,year,gender,value
+H01,CPUT,Cape Peninsula University of Technology,2009,Female,16540
+H01,CPUT,Cape Peninsula University of Technology,2009,Male,14418
+H01,CPUT,Cape Peninsula University of Technology,2009,Other,
+H01,CPUT,Cape Peninsula University of Technology,2009,Total,30958
+H01,CPUT,Cape Peninsula University of Technology,2010,Female,17226
+H01,CPUT,Cape Peninsula University of Technology,2010,Male,14941
+H01,CPUT,Cape Peninsula University of Technology,2010,Other,
+H01,CPUT,Cape Peninsula University of Technology,2010,Total,32167
+H01,CPUT,Cape Peninsula University of Technology,2011,Female,17314
+H01,CPUT,Cape Peninsula University of Technology,2011,Male,15192
+H01,CPUT,Cape Peninsula University of Technology,2011,Other,
+H01,CPUT,Cape Peninsula University of Technology,2011,Total,32506
+H01,CPUT,Cape Peninsula University of Technology,2012,Female,17993.99999999702
+H01,CPUT,Cape Peninsula University of Technology,2012,Male,15514.999999997866
+H01,CPUT,Cape Peninsula University of Technology,2012,Other,
+H01,CPUT,Cape Peninsula University of Technology,2012,Total,33508.999999994885
+H01,CPUT,Cape Peninsula University of Technology,2013,Female,17978
+H01,CPUT,Cape Peninsula University of Technology,2013,Male,15499
+H01,CPUT,Cape Peninsula University of Technology,2013,Other,
+H01,CPUT,Cape Peninsula University of Technology,2013,Total,33477
+H01,CPUT,Cape Peninsula University of Technology,2014,Female,17985
+H01,CPUT,Cape Peninsula University of Technology,2014,Male,15201
+H01,CPUT,Cape Peninsula University of Technology,2014,Other,
+H01,CPUT,Cape Peninsula University of Technology,2014,Total,33186
+H01,CPUT,Cape Peninsula University of Technology,2015,Female,17685
+H01,CPUT,Cape Peninsula University of Technology,2015,Male,14989
+H01,CPUT,Cape Peninsula University of Technology,2015,Other,
+H01,CPUT,Cape Peninsula University of Technology,2015,Total,32674
+H01,CPUT,Cape Peninsula University of Technology,2016,Female,18797
+H01,CPUT,Cape Peninsula University of Technology,2016,Male,15658
+H01,CPUT,Cape Peninsula University of Technology,2016,Other,
+H01,CPUT,Cape Peninsula University of Technology,2016,Total,34455
+H02,UCT,University of Cape Town,2009,Female,11970
+H02,UCT,University of Cape Town,2009,Male,11794
+H02,UCT,University of Cape Town,2009,Other,23
+H02,UCT,University of Cape Town,2009,Total,23787
+H02,UCT,University of Cape Town,2010,Female,12790
+H02,UCT,University of Cape Town,2010,Male,11970
+H02,UCT,University of Cape Town,2010,Other,12
+H02,UCT,University of Cape Town,2010,Total,24772
+H02,UCT,University of Cape Town,2011,Female,13127
+H02,UCT,University of Cape Town,2011,Male,12152
+H02,UCT,University of Cape Town,2011,Other,22
+H02,UCT,University of Cape Town,2011,Total,25301
+H02,UCT,University of Cape Town,2012,Female,13452
+H02,UCT,University of Cape Town,2012,Male,12336
+H02,UCT,University of Cape Town,2012,Other,17
+H02,UCT,University of Cape Town,2012,Total,25805
+H02,UCT,University of Cape Town,2013,Female,13709
+H02,UCT,University of Cape Town,2013,Male,12400
+H02,UCT,University of Cape Town,2013,Other,9
+H02,UCT,University of Cape Town,2013,Total,26118
+H02,UCT,University of Cape Town,2014,Female,13864
+H02,UCT,University of Cape Town,2014,Male,12489
+H02,UCT,University of Cape Town,2014,Other,4
+H02,UCT,University of Cape Town,2014,Total,26357
+H02,UCT,University of Cape Town,2015,Female,14589
+H02,UCT,University of Cape Town,2015,Male,13208
+H02,UCT,University of Cape Town,2015,Other,12
+H02,UCT,University of Cape Town,2015,Total,27809
+H02,UCT,University of Cape Town,2016,Female,15338
+H02,UCT,University of Cape Town,2016,Male,13881
+H02,UCT,University of Cape Town,2016,Other,13
+H02,UCT,University of Cape Town,2016,Total,29232
+H03,CUT,Central University of Technology,2009,Female,5873
+H03,CUT,Central University of Technology,2009,Male,6332
+H03,CUT,Central University of Technology,2009,Other,
+H03,CUT,Central University of Technology,2009,Total,12205
+H03,CUT,Central University of Technology,2010,Female,6042
+H03,CUT,Central University of Technology,2010,Male,6541
+H03,CUT,Central University of Technology,2010,Other,
+H03,CUT,Central University of Technology,2010,Total,12583
+H03,CUT,Central University of Technology,2011,Female,6013
+H03,CUT,Central University of Technology,2011,Male,6631
+H03,CUT,Central University of Technology,2011,Other,
+H03,CUT,Central University of Technology,2011,Total,12644
+H03,CUT,Central University of Technology,2012,Female,6078.999999999734
+H03,CUT,Central University of Technology,2012,Male,6644.999999999621
+H03,CUT,Central University of Technology,2012,Other,
+H03,CUT,Central University of Technology,2012,Total,12723.999999999356
+H03,CUT,Central University of Technology,2013,Female,6307
+H03,CUT,Central University of Technology,2013,Male,6996
+H03,CUT,Central University of Technology,2013,Other,
+H03,CUT,Central University of Technology,2013,Total,13303
+H03,CUT,Central University of Technology,2014,Female,6781
+H03,CUT,Central University of Technology,2014,Male,7571
+H03,CUT,Central University of Technology,2014,Other,
+H03,CUT,Central University of Technology,2014,Total,14352
+H03,CUT,Central University of Technology,2015,Female,6810
+H03,CUT,Central University of Technology,2015,Male,7383
+H03,CUT,Central University of Technology,2015,Other,
+H03,CUT,Central University of Technology,2015,Total,14193
+H03,CUT,Central University of Technology,2016,Female,7802
+H03,CUT,Central University of Technology,2016,Male,7906
+H03,CUT,Central University of Technology,2016,Other,
+H03,CUT,Central University of Technology,2016,Total,15708
+H04,DUT,Durban University of Technology,2009,Female,12030
+H04,DUT,Durban University of Technology,2009,Male,11996
+H04,DUT,Durban University of Technology,2009,Other,
+H04,DUT,Durban University of Technology,2009,Total,24026
+H04,DUT,Durban University of Technology,2010,Female,12537
+H04,DUT,Durban University of Technology,2010,Male,12647
+H04,DUT,Durban University of Technology,2010,Other,
+H04,DUT,Durban University of Technology,2010,Total,25184
+H04,DUT,Durban University of Technology,2011,Female,12333
+H04,DUT,Durban University of Technology,2011,Male,12507
+H04,DUT,Durban University of Technology,2011,Other,
+H04,DUT,Durban University of Technology,2011,Total,24840
+H04,DUT,Durban University of Technology,2012,Female,12149
+H04,DUT,Durban University of Technology,2012,Male,12726
+H04,DUT,Durban University of Technology,2012,Other,
+H04,DUT,Durban University of Technology,2012,Total,24875
+H04,DUT,Durban University of Technology,2013,Female,12658
+H04,DUT,Durban University of Technology,2013,Male,13401
+H04,DUT,Durban University of Technology,2013,Other,
+H04,DUT,Durban University of Technology,2013,Total,26059
+H04,DUT,Durban University of Technology,2014,Female,12746
+H04,DUT,Durban University of Technology,2014,Male,13726
+H04,DUT,Durban University of Technology,2014,Other,
+H04,DUT,Durban University of Technology,2014,Total,26472
+H04,DUT,Durban University of Technology,2015,Female,13181
+H04,DUT,Durban University of Technology,2015,Male,13842
+H04,DUT,Durban University of Technology,2015,Other,
+H04,DUT,Durban University of Technology,2015,Total,27023
+H04,DUT,Durban University of Technology,2016,Female,13941
+H04,DUT,Durban University of Technology,2016,Male,14436
+H04,DUT,Durban University of Technology,2016,Other,
+H04,DUT,Durban University of Technology,2016,Total,28377
+H05,FH,University of Fort Hare,2009,Female,5483
+H05,FH,University of Fort Hare,2009,Male,4533
+H05,FH,University of Fort Hare,2009,Other,
+H05,FH,University of Fort Hare,2009,Total,10016
+H05,FH,University of Fort Hare,2010,Female,6030
+H05,FH,University of Fort Hare,2010,Male,4711
+H05,FH,University of Fort Hare,2010,Other,
+H05,FH,University of Fort Hare,2010,Total,10741
+H05,FH,University of Fort Hare,2011,Female,6404
+H05,FH,University of Fort Hare,2011,Male,4740
+H05,FH,University of Fort Hare,2011,Other,
+H05,FH,University of Fort Hare,2011,Total,11144
+H05,FH,University of Fort Hare,2012,Female,6943
+H05,FH,University of Fort Hare,2012,Male,5101
+H05,FH,University of Fort Hare,2012,Other,
+H05,FH,University of Fort Hare,2012,Total,12044
+H05,FH,University of Fort Hare,2013,Female,7004
+H05,FH,University of Fort Hare,2013,Male,5311
+H05,FH,University of Fort Hare,2013,Other,
+H05,FH,University of Fort Hare,2013,Total,12315
+H05,FH,University of Fort Hare,2014,Female,7266
+H05,FH,University of Fort Hare,2014,Male,5797
+H05,FH,University of Fort Hare,2014,Other,
+H05,FH,University of Fort Hare,2014,Total,13063
+H05,FH,University of Fort Hare,2015,Female,7412
+H05,FH,University of Fort Hare,2015,Male,6046
+H05,FH,University of Fort Hare,2015,Other,
+H05,FH,University of Fort Hare,2015,Total,13458
+H05,FH,University of Fort Hare,2016,Female,7617
+H05,FH,University of Fort Hare,2016,Male,6214
+H05,FH,University of Fort Hare,2016,Other,
+H05,FH,University of Fort Hare,2016,Total,13831
+H06,FS,University of Free State,2009,Female,15809
+H06,FS,University of Free State,2009,Male,11432
+H06,FS,University of Free State,2009,Other,
+H06,FS,University of Free State,2009,Total,27241
+H06,FS,University of Free State,2010,Female,17522
+H06,FS,University of Free State,2010,Male,12379
+H06,FS,University of Free State,2010,Other,
+H06,FS,University of Free State,2010,Total,29901
+H06,FS,University of Free State,2011,Female,18870
+H06,FS,University of Free State,2011,Male,12716
+H06,FS,University of Free State,2011,Other,
+H06,FS,University of Free State,2011,Total,31586
+H06,FS,University of Free State,2012,Female,19969
+H06,FS,University of Free State,2012,Male,12406
+H06,FS,University of Free State,2012,Other,
+H06,FS,University of Free State,2012,Total,32375
+H06,FS,University of Free State,2013,Female,19698
+H06,FS,University of Free State,2013,Male,12179
+H06,FS,University of Free State,2013,Other,
+H06,FS,University of Free State,2013,Total,31877
+H06,FS,University of Free State,2014,Female,19209
+H06,FS,University of Free State,2014,Male,11823
+H06,FS,University of Free State,2014,Other,
+H06,FS,University of Free State,2014,Total,31032
+H06,FS,University of Free State,2015,Female,18741
+H06,FS,University of Free State,2015,Male,11677
+H06,FS,University of Free State,2015,Other,
+H06,FS,University of Free State,2015,Total,30418
+H06,FS,University of Free State,2016,Female,22364
+H06,FS,University of Free State,2016,Male,13905
+H06,FS,University of Free State,2016,Other,
+H06,FS,University of Free State,2016,Total,36269
+H07,UJ,University of Johannesburg,2009,Female,27013
+H07,UJ,University of Johannesburg,2009,Male,22302
+H07,UJ,University of Johannesburg,2009,Other,
+H07,UJ,University of Johannesburg,2009,Total,49315
+H07,UJ,University of Johannesburg,2010,Female,26841
+H07,UJ,University of Johannesburg,2010,Male,21474
+H07,UJ,University of Johannesburg,2010,Other,
+H07,UJ,University of Johannesburg,2010,Total,48315
+H07,UJ,University of Johannesburg,2011,Female,27942
+H07,UJ,University of Johannesburg,2011,Male,22586
+H07,UJ,University of Johannesburg,2011,Other,
+H07,UJ,University of Johannesburg,2011,Total,50528
+H07,UJ,University of Johannesburg,2012,Female,26427
+H07,UJ,University of Johannesburg,2012,Male,22342
+H07,UJ,University of Johannesburg,2012,Other,
+H07,UJ,University of Johannesburg,2012,Total,48769
+H07,UJ,University of Johannesburg,2013,Female,25998
+H07,UJ,University of Johannesburg,2013,Male,22388
+H07,UJ,University of Johannesburg,2013,Other,
+H07,UJ,University of Johannesburg,2013,Total,48386
+H07,UJ,University of Johannesburg,2014,Female,26583
+H07,UJ,University of Johannesburg,2014,Male,23206
+H07,UJ,University of Johannesburg,2014,Other,
+H07,UJ,University of Johannesburg,2014,Total,49789
+H07,UJ,University of Johannesburg,2015,Female,25797
+H07,UJ,University of Johannesburg,2015,Male,23655
+H07,UJ,University of Johannesburg,2015,Other,
+H07,UJ,University of Johannesburg,2015,Total,49452
+H07,UJ,University of Johannesburg,2016,Female,26820
+H07,UJ,University of Johannesburg,2016,Male,24975
+H07,UJ,University of Johannesburg,2016,Other,
+H07,UJ,University of Johannesburg,2016,Total,51795
+H08,KZN,University of Kwazulu-Natal,2009,Female,22838
+H08,KZN,University of Kwazulu-Natal,2009,Male,16026
+H08,KZN,University of Kwazulu-Natal,2009,Other,
+H08,KZN,University of Kwazulu-Natal,2009,Total,38864
+H08,KZN,University of Kwazulu-Natal,2010,Female,24172
+H08,KZN,University of Kwazulu-Natal,2010,Male,17052
+H08,KZN,University of Kwazulu-Natal,2010,Other,
+H08,KZN,University of Kwazulu-Natal,2010,Total,41224
+H08,KZN,University of Kwazulu-Natal,2011,Female,24560
+H08,KZN,University of Kwazulu-Natal,2011,Male,17202
+H08,KZN,University of Kwazulu-Natal,2011,Other,
+H08,KZN,University of Kwazulu-Natal,2011,Total,41762
+H08,KZN,University of Kwazulu-Natal,2012,Female,24371
+H08,KZN,University of Kwazulu-Natal,2012,Male,17493
+H08,KZN,University of Kwazulu-Natal,2012,Other,
+H08,KZN,University of Kwazulu-Natal,2012,Total,41864
+H08,KZN,University of Kwazulu-Natal,2013,Female,25730
+H08,KZN,University of Kwazulu-Natal,2013,Male,18272
+H08,KZN,University of Kwazulu-Natal,2013,Other,
+H08,KZN,University of Kwazulu-Natal,2013,Total,44002
+H08,KZN,University of Kwazulu-Natal,2014,Female,26523
+H08,KZN,University of Kwazulu-Natal,2014,Male,18942
+H08,KZN,University of Kwazulu-Natal,2014,Other,
+H08,KZN,University of Kwazulu-Natal,2014,Total,45465
+H08,KZN,University of Kwazulu-Natal,2015,Female,26400
+H08,KZN,University of Kwazulu-Natal,2015,Male,19106
+H08,KZN,University of Kwazulu-Natal,2015,Other,
+H08,KZN,University of Kwazulu-Natal,2015,Total,45506
+H08,KZN,University of Kwazulu-Natal,2016,Female,26619
+H08,KZN,University of Kwazulu-Natal,2016,Male,19853
+H08,KZN,University of Kwazulu-Natal,2016,Other,
+H08,KZN,University of Kwazulu-Natal,2016,Total,46472
+H09,UL,University of Limpopo,2009,Female,8662
+H09,UL,University of Limpopo,2009,Male,7637
+H09,UL,University of Limpopo,2009,Other,
+H09,UL,University of Limpopo,2009,Total,16299
+H09,UL,University of Limpopo,2010,Female,9708
+H09,UL,University of Limpopo,2010,Male,8497
+H09,UL,University of Limpopo,2010,Other,
+H09,UL,University of Limpopo,2010,Total,18205
+H09,UL,University of Limpopo,2011,Female,11148
+H09,UL,University of Limpopo,2011,Male,9356
+H09,UL,University of Limpopo,2011,Other,
+H09,UL,University of Limpopo,2011,Total,20504
+H09,UL,University of Limpopo,2012,Female,12042.999999998512
+H09,UL,University of Limpopo,2012,Male,10205.999999998792
+H09,UL,University of Limpopo,2012,Other,
+H09,UL,University of Limpopo,2012,Total,22248.999999997304
+H09,UL,University of Limpopo,2013,Female,12405
+H09,UL,University of Limpopo,2013,Male,10509
+H09,UL,University of Limpopo,2013,Other,
+H09,UL,University of Limpopo,2013,Total,22914
+H09,UL,University of Limpopo,2014,Female,12716
+H09,UL,University of Limpopo,2014,Male,10668
+H09,UL,University of Limpopo,2014,Other,
+H09,UL,University of Limpopo,2014,Total,23384
+H09,UL,University of Limpopo,2015,Female,10025
+H09,UL,University of Limpopo,2015,Male,8882
+H09,UL,University of Limpopo,2015,Other,
+H09,UL,University of Limpopo,2015,Total,18907
+H09,UL,University of Limpopo,2016,Female,10456
+H09,UL,University of Limpopo,2016,Male,9387
+H09,UL,University of Limpopo,2016,Other,
+H09,UL,University of Limpopo,2016,Total,19843
+H10,NMU,Nelson Mandela University,2009,Female,13860
+H10,NMU,Nelson Mandela University,2009,Male,11637
+H10,NMU,Nelson Mandela University,2009,Other,
+H10,NMU,Nelson Mandela University,2009,Total,25497
+H10,NMU,Nelson Mandela University,2010,Female,14104
+H10,NMU,Nelson Mandela University,2010,Male,12015
+H10,NMU,Nelson Mandela University,2010,Other,
+H10,NMU,Nelson Mandela University,2010,Total,26119
+H10,NMU,Nelson Mandela University,2011,Female,14167
+H10,NMU,Nelson Mandela University,2011,Male,12089
+H10,NMU,Nelson Mandela University,2011,Other,
+H10,NMU,Nelson Mandela University,2011,Total,26256
+H10,NMU,Nelson Mandela University,2012,Female,14350
+H10,NMU,Nelson Mandela University,2012,Male,12247
+H10,NMU,Nelson Mandela University,2012,Other,
+H10,NMU,Nelson Mandela University,2012,Total,26597
+H10,NMU,Nelson Mandela University,2013,Female,14163
+H10,NMU,Nelson Mandela University,2013,Male,12198
+H10,NMU,Nelson Mandela University,2013,Other,
+H10,NMU,Nelson Mandela University,2013,Total,26361
+H10,NMU,Nelson Mandela University,2014,Female,14033
+H10,NMU,Nelson Mandela University,2014,Male,12477
+H10,NMU,Nelson Mandela University,2014,Other,
+H10,NMU,Nelson Mandela University,2014,Total,26510
+H10,NMU,Nelson Mandela University,2015,Female,13709
+H10,NMU,Nelson Mandela University,2015,Male,12596
+H10,NMU,Nelson Mandela University,2015,Other,
+H10,NMU,Nelson Mandela University,2015,Total,26305
+H10,NMU,Nelson Mandela University,2016,Female,14542
+H10,NMU,Nelson Mandela University,2016,Male,13238
+H10,NMU,Nelson Mandela University,2016,Other,
+H10,NMU,Nelson Mandela University,2016,Total,27780
+H11,NWU,North West University,2009,Female,33393
+H11,NWU,North West University,2009,Male,17196
+H11,NWU,North West University,2009,Other,
+H11,NWU,North West University,2009,Total,50589
+H11,NWU,North West University,2010,Female,37002
+H11,NWU,North West University,2010,Male,18730
+H11,NWU,North West University,2010,Other,
+H11,NWU,North West University,2010,Total,55732
+H11,NWU,North West University,2011,Female,37512
+H11,NWU,North West University,2011,Male,19128
+H11,NWU,North West University,2011,Other,1
+H11,NWU,North West University,2011,Total,56641
+H11,NWU,North West University,2012,Female,39108
+H11,NWU,North West University,2012,Male,19643.000000000073
+H11,NWU,North West University,2012,Other,1
+H11,NWU,North West University,2012,Total,58752.000000000175
+H11,NWU,North West University,2013,Female,40773
+H11,NWU,North West University,2013,Male,20202
+H11,NWU,North West University,2013,Other,
+H11,NWU,North West University,2013,Total,60975
+H11,NWU,North West University,2014,Female,42619
+H11,NWU,North West University,2014,Male,20516
+H11,NWU,North West University,2014,Other,
+H11,NWU,North West University,2014,Total,63135
+H11,NWU,North West University,2015,Female,43064
+H11,NWU,North West University,2015,Male,21006
+H11,NWU,North West University,2015,Other,
+H11,NWU,North West University,2015,Total,64070
+H11,NWU,North West University,2016,Female,21142
+H11,NWU,North West University,2016,Male,42253
+H11,NWU,North West University,2016,Other,
+H11,NWU,North West University,2016,Total,63395
+H12,UP,University of Pretoria,2009,Female,32639
+H12,UP,University of Pretoria,2009,Male,23095
+H12,UP,University of Pretoria,2009,Other,
+H12,UP,University of Pretoria,2009,Total,55734
+H12,UP,University of Pretoria,2010,Female,33359
+H12,UP,University of Pretoria,2010,Male,23755
+H12,UP,University of Pretoria,2010,Other,
+H12,UP,University of Pretoria,2010,Total,57114
+H12,UP,University of Pretoria,2011,Female,34130
+H12,UP,University of Pretoria,2011,Male,23935
+H12,UP,University of Pretoria,2011,Other,63
+H12,UP,University of Pretoria,2011,Total,58128
+H12,UP,University of Pretoria,2012,Female,33411
+H12,UP,University of Pretoria,2012,Male,23951
+H12,UP,University of Pretoria,2012,Other,146
+H12,UP,University of Pretoria,2012,Total,57508
+H12,UP,University of Pretoria,2013,Female,33338
+H12,UP,University of Pretoria,2013,Male,24215
+H12,UP,University of Pretoria,2013,Other,
+H12,UP,University of Pretoria,2013,Total,57553
+H12,UP,University of Pretoria,2014,Female,32251
+H12,UP,University of Pretoria,2014,Male,24125
+H12,UP,University of Pretoria,2014,Other,
+H12,UP,University of Pretoria,2014,Total,56376
+H12,UP,University of Pretoria,2015,Female,31767
+H12,UP,University of Pretoria,2015,Male,24217
+H12,UP,University of Pretoria,2015,Other,
+H12,UP,University of Pretoria,2015,Total,55984
+H12,UP,University of Pretoria,2016,Female,30056
+H12,UP,University of Pretoria,2016,Male,23176
+H12,UP,University of Pretoria,2016,Other,
+H12,UP,University of Pretoria,2016,Total,53232
+H13,RU,Rhodes University,2009,Female,4116
+H13,RU,Rhodes University,2009,Male,2896
+H13,RU,Rhodes University,2009,Other,
+H13,RU,Rhodes University,2009,Total,7012
+H13,RU,Rhodes University,2010,Female,4219
+H13,RU,Rhodes University,2010,Male,2950
+H13,RU,Rhodes University,2010,Other,
+H13,RU,Rhodes University,2010,Total,7169
+H13,RU,Rhodes University,2011,Female,4284
+H13,RU,Rhodes University,2011,Male,2994
+H13,RU,Rhodes University,2011,Other,
+H13,RU,Rhodes University,2011,Total,7278
+H13,RU,Rhodes University,2012,Female,4306
+H13,RU,Rhodes University,2012,Male,3089
+H13,RU,Rhodes University,2012,Other,
+H13,RU,Rhodes University,2012,Total,7395
+H13,RU,Rhodes University,2013,Female,4356
+H13,RU,Rhodes University,2013,Male,3129
+H13,RU,Rhodes University,2013,Other,
+H13,RU,Rhodes University,2013,Total,7485
+H13,RU,Rhodes University,2014,Female,4473
+H13,RU,Rhodes University,2014,Male,3046
+H13,RU,Rhodes University,2014,Other,
+H13,RU,Rhodes University,2014,Total,7519
+H13,RU,Rhodes University,2015,Female,4753
+H13,RU,Rhodes University,2015,Male,3254
+H13,RU,Rhodes University,2015,Other,
+H13,RU,Rhodes University,2015,Total,8007
+H13,RU,Rhodes University,2016,Female,4798
+H13,RU,Rhodes University,2016,Male,3338
+H13,RU,Rhodes University,2016,Other,
+H13,RU,Rhodes University,2016,Total,8136
+H14,UNISA,University of South Africa,2009,Female,158699
+H14,UNISA,University of South Africa,2009,Male,104860
+H14,UNISA,University of South Africa,2009,Other,
+H14,UNISA,University of South Africa,2009,Total,263559
+H14,UNISA,University of South Africa,2010,Female,177503
+H14,UNISA,University of South Africa,2010,Male,115934
+H14,UNISA,University of South Africa,2010,Other,
+H14,UNISA,University of South Africa,2010,Total,293437
+H14,UNISA,University of South Africa,2011,Female,202002
+H14,UNISA,University of South Africa,2011,Male,126861
+H14,UNISA,University of South Africa,2011,Other,1
+H14,UNISA,University of South Africa,2011,Total,328864
+H14,UNISA,University of South Africa,2012,Female,210313
+H14,UNISA,University of South Africa,2012,Male,125972
+H14,UNISA,University of South Africa,2012,Other,1
+H14,UNISA,University of South Africa,2012,Total,336286
+H14,UNISA,University of South Africa,2013,Female,223603
+H14,UNISA,University of South Africa,2013,Male,131635
+H14,UNISA,University of South Africa,2013,Other,2
+H14,UNISA,University of South Africa,2013,Total,355240
+H14,UNISA,University of South Africa,2014,Female,207949
+H14,UNISA,University of South Africa,2014,Male,120541
+H14,UNISA,University of South Africa,2014,Other,1
+H14,UNISA,University of South Africa,2014,Total,328491
+H14,UNISA,University of South Africa,2015,Female,215876
+H14,UNISA,University of South Africa,2015,Male,122068
+H14,UNISA,University of South Africa,2015,Other,
+H14,UNISA,University of South Africa,2015,Total,337944
+H14,UNISA,University of South Africa,2016,Female,193219
+H14,UNISA,University of South Africa,2016,Male,106103
+H14,UNISA,University of South Africa,2016,Other,2
+H14,UNISA,University of South Africa,2016,Total,299324
+H15,SU,University of Stellenbosch,2009,Female,13287
+H15,SU,University of Stellenbosch,2009,Male,12406
+H15,SU,University of Stellenbosch,2009,Other,
+H15,SU,University of Stellenbosch,2009,Total,25693
+H15,SU,University of Stellenbosch,2010,Female,14087
+H15,SU,University of Stellenbosch,2010,Male,13257
+H15,SU,University of Stellenbosch,2010,Other,
+H15,SU,University of Stellenbosch,2010,Total,27344
+H15,SU,University of Stellenbosch,2011,Female,13863
+H15,SU,University of Stellenbosch,2011,Male,13403
+H15,SU,University of Stellenbosch,2011,Other,
+H15,SU,University of Stellenbosch,2011,Total,27266
+H15,SU,University of Stellenbosch,2012,Female,13958
+H15,SU,University of Stellenbosch,2012,Male,13552
+H15,SU,University of Stellenbosch,2012,Other,
+H15,SU,University of Stellenbosch,2012,Total,27510
+H15,SU,University of Stellenbosch,2013,Female,14142
+H15,SU,University of Stellenbosch,2013,Male,13276
+H15,SU,University of Stellenbosch,2013,Other,
+H15,SU,University of Stellenbosch,2013,Total,27418
+H15,SU,University of Stellenbosch,2014,Female,15096
+H15,SU,University of Stellenbosch,2014,Male,13773
+H15,SU,University of Stellenbosch,2014,Other,
+H15,SU,University of Stellenbosch,2014,Total,28869
+H15,SU,University of Stellenbosch,2015,Female,15755
+H15,SU,University of Stellenbosch,2015,Male,13858
+H15,SU,University of Stellenbosch,2015,Other,
+H15,SU,University of Stellenbosch,2015,Total,29613
+H15,SU,University of Stellenbosch,2016,Female,16156
+H15,SU,University of Stellenbosch,2016,Male,14004
+H15,SU,University of Stellenbosch,2016,Other,1
+H15,SU,University of Stellenbosch,2016,Total,30161
+H16,TUT,Tshwane University of Technology,2009,Female,27674
+H16,TUT,Tshwane University of Technology,2009,Male,25014
+H16,TUT,Tshwane University of Technology,2009,Other,
+H16,TUT,Tshwane University of Technology,2009,Total,52688
+H16,TUT,Tshwane University of Technology,2010,Female,27179
+H16,TUT,Tshwane University of Technology,2010,Male,24606
+H16,TUT,Tshwane University of Technology,2010,Other,
+H16,TUT,Tshwane University of Technology,2010,Total,51785
+H16,TUT,Tshwane University of Technology,2011,Female,26104
+H16,TUT,Tshwane University of Technology,2011,Male,23971
+H16,TUT,Tshwane University of Technology,2011,Other,
+H16,TUT,Tshwane University of Technology,2011,Total,50075
+H16,TUT,Tshwane University of Technology,2012,Female,26586
+H16,TUT,Tshwane University of Technology,2012,Male,25125
+H16,TUT,Tshwane University of Technology,2012,Other,
+H16,TUT,Tshwane University of Technology,2012,Total,51711
+H16,TUT,Tshwane University of Technology,2013,Female,27508
+H16,TUT,Tshwane University of Technology,2013,Male,26651
+H16,TUT,Tshwane University of Technology,2013,Other,
+H16,TUT,Tshwane University of Technology,2013,Total,54159
+H16,TUT,Tshwane University of Technology,2014,Female,28523
+H16,TUT,Tshwane University of Technology,2014,Male,28262
+H16,TUT,Tshwane University of Technology,2014,Other,
+H16,TUT,Tshwane University of Technology,2014,Total,56785
+H16,TUT,Tshwane University of Technology,2015,Female,28569
+H16,TUT,Tshwane University of Technology,2015,Male,28677
+H16,TUT,Tshwane University of Technology,2015,Other,
+H16,TUT,Tshwane University of Technology,2015,Total,57246
+H16,TUT,Tshwane University of Technology,2016,Female,29567
+H16,TUT,Tshwane University of Technology,2016,Male,29334
+H16,TUT,Tshwane University of Technology,2016,Other,
+H16,TUT,Tshwane University of Technology,2016,Total,58901
+H17,UNIVEN,University of Venda,2009,Female,5934
+H17,UNIVEN,University of Venda,2009,Male,5191
+H17,UNIVEN,University of Venda,2009,Other,
+H17,UNIVEN,University of Venda,2009,Total,11125
+H17,UNIVEN,University of Venda,2010,Female,5786
+H17,UNIVEN,University of Venda,2010,Male,4893
+H17,UNIVEN,University of Venda,2010,Other,
+H17,UNIVEN,University of Venda,2010,Total,10679
+H17,UNIVEN,University of Venda,2011,Female,5560
+H17,UNIVEN,University of Venda,2011,Male,4782
+H17,UNIVEN,University of Venda,2011,Other,
+H17,UNIVEN,University of Venda,2011,Total,10342
+H17,UNIVEN,University of Venda,2012,Female,5593
+H17,UNIVEN,University of Venda,2012,Male,4730
+H17,UNIVEN,University of Venda,2012,Other,
+H17,UNIVEN,University of Venda,2012,Total,10323
+H17,UNIVEN,University of Venda,2013,Female,6438
+H17,UNIVEN,University of Venda,2013,Male,5380
+H17,UNIVEN,University of Venda,2013,Other,
+H17,UNIVEN,University of Venda,2013,Total,11818
+H17,UNIVEN,University of Venda,2014,Female,7490
+H17,UNIVEN,University of Venda,2014,Male,6007
+H17,UNIVEN,University of Venda,2014,Other,
+H17,UNIVEN,University of Venda,2014,Total,13497
+H17,UNIVEN,University of Venda,2015,Female,7763
+H17,UNIVEN,University of Venda,2015,Male,6383
+H17,UNIVEN,University of Venda,2015,Other,
+H17,UNIVEN,University of Venda,2015,Total,14146
+H17,UNIVEN,University of Venda,2016,Female,8246
+H17,UNIVEN,University of Venda,2016,Male,6991
+H17,UNIVEN,University of Venda,2016,Other,
+H17,UNIVEN,University of Venda,2016,Total,15237
+H18,VUT,Vaal University of Technology,2009,Female,9054
+H18,VUT,Vaal University of Technology,2009,Male,10353
+H18,VUT,Vaal University of Technology,2009,Other,
+H18,VUT,Vaal University of Technology,2009,Total,19407
+H18,VUT,Vaal University of Technology,2010,Female,9961
+H18,VUT,Vaal University of Technology,2010,Male,11455
+H18,VUT,Vaal University of Technology,2010,Other,
+H18,VUT,Vaal University of Technology,2010,Total,21416
+H18,VUT,Vaal University of Technology,2011,Female,10043
+H18,VUT,Vaal University of Technology,2011,Male,11818
+H18,VUT,Vaal University of Technology,2011,Other,
+H18,VUT,Vaal University of Technology,2011,Total,21861
+H18,VUT,Vaal University of Technology,2012,Female,9655
+H18,VUT,Vaal University of Technology,2012,Male,11546
+H18,VUT,Vaal University of Technology,2012,Other,
+H18,VUT,Vaal University of Technology,2012,Total,21201
+H18,VUT,Vaal University of Technology,2013,Female,9424
+H18,VUT,Vaal University of Technology,2013,Male,11209
+H18,VUT,Vaal University of Technology,2013,Other,
+H18,VUT,Vaal University of Technology,2013,Total,20633
+H18,VUT,Vaal University of Technology,2014,Female,8882
+H18,VUT,Vaal University of Technology,2014,Male,10437
+H18,VUT,Vaal University of Technology,2014,Other,
+H18,VUT,Vaal University of Technology,2014,Total,19319
+H18,VUT,Vaal University of Technology,2015,Female,8086
+H18,VUT,Vaal University of Technology,2015,Male,9592
+H18,VUT,Vaal University of Technology,2015,Other,
+H18,VUT,Vaal University of Technology,2015,Total,17678
+H18,VUT,Vaal University of Technology,2016,Female,8655
+H18,VUT,Vaal University of Technology,2016,Male,10586
+H18,VUT,Vaal University of Technology,2016,Other,
+H18,VUT,Vaal University of Technology,2016,Total,19241
+H19,WSU,Walter Sisulu University,2009,Female,14174
+H19,WSU,Walter Sisulu University,2009,Male,11182
+H19,WSU,Walter Sisulu University,2009,Other,
+H19,WSU,Walter Sisulu University,2009,Total,25356
+H19,WSU,Walter Sisulu University,2010,Female,14999
+H19,WSU,Walter Sisulu University,2010,Male,11735
+H19,WSU,Walter Sisulu University,2010,Other,
+H19,WSU,Walter Sisulu University,2010,Total,26734
+H19,WSU,Walter Sisulu University,2011,Female,15273
+H19,WSU,Walter Sisulu University,2011,Male,11756
+H19,WSU,Walter Sisulu University,2011,Other,
+H19,WSU,Walter Sisulu University,2011,Total,27029
+H19,WSU,Walter Sisulu University,2012,Female,13707.999999999223
+H19,WSU,Walter Sisulu University,2012,Male,10904.999999999427
+H19,WSU,Walter Sisulu University,2012,Other,
+H19,WSU,Walter Sisulu University,2012,Total,24612.99999999865
+H19,WSU,Walter Sisulu University,2013,Female,13157
+H19,WSU,Walter Sisulu University,2013,Male,10965
+H19,WSU,Walter Sisulu University,2013,Other,
+H19,WSU,Walter Sisulu University,2013,Total,24122
+H19,WSU,Walter Sisulu University,2014,Female,13829
+H19,WSU,Walter Sisulu University,2014,Male,10117
+H19,WSU,Walter Sisulu University,2014,Other,
+H19,WSU,Walter Sisulu University,2014,Total,23946
+H19,WSU,Walter Sisulu University,2015,Female,14883
+H19,WSU,Walter Sisulu University,2015,Male,11110
+H19,WSU,Walter Sisulu University,2015,Other,
+H19,WSU,Walter Sisulu University,2015,Total,25993
+H19,WSU,Walter Sisulu University,2016,Female,16216
+H19,WSU,Walter Sisulu University,2016,Male,12365
+H19,WSU,Walter Sisulu University,2016,Other,
+H19,WSU,Walter Sisulu University,2016,Total,28581
+H20,UWC,University of the Western Cape,2009,Female,9801
+H20,UWC,University of the Western Cape,2009,Male,6401
+H20,UWC,University of the Western Cape,2009,Other,1
+H20,UWC,University of the Western Cape,2009,Total,16203
+H20,UWC,University of the Western Cape,2010,Female,10724
+H20,UWC,University of the Western Cape,2010,Male,7334
+H20,UWC,University of the Western Cape,2010,Other,1
+H20,UWC,University of the Western Cape,2010,Total,18059
+H20,UWC,University of the Western Cape,2011,Female,11243
+H20,UWC,University of the Western Cape,2011,Male,7521
+H20,UWC,University of the Western Cape,2011,Other,
+H20,UWC,University of the Western Cape,2011,Total,18764
+H20,UWC,University of the Western Cape,2012,Female,11757
+H20,UWC,University of the Western Cape,2012,Male,7833
+H20,UWC,University of the Western Cape,2012,Other,1
+H20,UWC,University of the Western Cape,2012,Total,19591
+H20,UWC,University of the Western Cape,2013,Female,12171
+H20,UWC,University of the Western Cape,2013,Male,8211
+H20,UWC,University of the Western Cape,2013,Other,1
+H20,UWC,University of the Western Cape,2013,Total,20383
+H20,UWC,University of the Western Cape,2014,Female,12368
+H20,UWC,University of the Western Cape,2014,Male,8214
+H20,UWC,University of the Western Cape,2014,Other,
+H20,UWC,University of the Western Cape,2014,Total,20582
+H20,UWC,University of the Western Cape,2015,Female,12130
+H20,UWC,University of the Western Cape,2015,Male,8252
+H20,UWC,University of the Western Cape,2015,Other,
+H20,UWC,University of the Western Cape,2015,Total,20382
+H20,UWC,University of the Western Cape,2016,Female,13036
+H20,UWC,University of the Western Cape,2016,Male,8760
+H20,UWC,University of the Western Cape,2016,Other,
+H20,UWC,University of the Western Cape,2016,Total,21796
+H21,WITS,University of Witwatersrand,2009,Female,15562
+H21,WITS,University of Witwatersrand,2009,Male,13672
+H21,WITS,University of Witwatersrand,2009,Other,
+H21,WITS,University of Witwatersrand,2009,Total,29234
+H21,WITS,University of Witwatersrand,2010,Female,15795
+H21,WITS,University of Witwatersrand,2010,Male,13703
+H21,WITS,University of Witwatersrand,2010,Other,
+H21,WITS,University of Witwatersrand,2010,Total,29498
+H21,WITS,University of Witwatersrand,2011,Female,15675
+H21,WITS,University of Witwatersrand,2011,Male,13329
+H21,WITS,University of Witwatersrand,2011,Other,
+H21,WITS,University of Witwatersrand,2011,Total,29004
+H21,WITS,University of Witwatersrand,2012,Female,16526
+H21,WITS,University of Witwatersrand,2012,Male,13909.73
+H21,WITS,University of Witwatersrand,2012,Other,
+H21,WITS,University of Witwatersrand,2012,Total,30435.73
+H21,WITS,University of Witwatersrand,2013,Female,17026
+H21,WITS,University of Witwatersrand,2013,Male,14108
+H21,WITS,University of Witwatersrand,2013,Other,
+H21,WITS,University of Witwatersrand,2013,Total,31134
+H21,WITS,University of Witwatersrand,2014,Female,17824
+H21,WITS,University of Witwatersrand,2014,Male,14897
+H21,WITS,University of Witwatersrand,2014,Other,
+H21,WITS,University of Witwatersrand,2014,Total,32721
+H21,WITS,University of Witwatersrand,2015,Female,18555
+H21,WITS,University of Witwatersrand,2015,Male,15222
+H21,WITS,University of Witwatersrand,2015,Other,
+H21,WITS,University of Witwatersrand,2015,Total,33777
+H21,WITS,University of Witwatersrand,2016,Female,20473
+H21,WITS,University of Witwatersrand,2016,Male,16970
+H21,WITS,University of Witwatersrand,2016,Other,5
+H21,WITS,University of Witwatersrand,2016,Total,37448
+H22,UZ,University of Zululand,2009,Female,8721
+H22,UZ,University of Zululand,2009,Male,4570
+H22,UZ,University of Zululand,2009,Other,
+H22,UZ,University of Zululand,2009,Total,13291
+H22,UZ,University of Zululand,2010,Female,9773
+H22,UZ,University of Zululand,2010,Male,4952
+H22,UZ,University of Zululand,2010,Other,
+H22,UZ,University of Zululand,2010,Total,14725
+H22,UZ,University of Zululand,2011,Female,10164
+H22,UZ,University of Zululand,2011,Male,5428
+H22,UZ,University of Zululand,2011,Other,
+H22,UZ,University of Zululand,2011,Total,15592
+H22,UZ,University of Zululand,2012,Female,10624
+H22,UZ,University of Zululand,2012,Male,5810
+H22,UZ,University of Zululand,2012,Other,
+H22,UZ,University of Zululand,2012,Total,16434
+H22,UZ,University of Zululand,2013,Female,10397
+H22,UZ,University of Zululand,2013,Male,6194
+H22,UZ,University of Zululand,2013,Other,
+H22,UZ,University of Zululand,2013,Total,16591
+H22,UZ,University of Zululand,2014,Female,10096
+H22,UZ,University of Zululand,2014,Male,6567
+H22,UZ,University of Zululand,2014,Other,
+H22,UZ,University of Zululand,2014,Total,16663
+H22,UZ,University of Zululand,2015,Female,9978
+H22,UZ,University of Zululand,2015,Male,6913
+H22,UZ,University of Zululand,2015,Other,
+H22,UZ,University of Zululand,2015,Total,16891
+H22,UZ,University of Zululand,2016,Female,10306
+H22,UZ,University of Zululand,2016,Male,7356
+H22,UZ,University of Zululand,2016,Other,
+H22,UZ,University of Zululand,2016,Total,17662
+H23,SPU,Sol Plaatje University,2009,Female,
+H23,SPU,Sol Plaatje University,2009,Male,
+H23,SPU,Sol Plaatje University,2009,Other,
+H23,SPU,Sol Plaatje University,2009,Total,
+H23,SPU,Sol Plaatje University,2010,Female,
+H23,SPU,Sol Plaatje University,2010,Male,
+H23,SPU,Sol Plaatje University,2010,Other,
+H23,SPU,Sol Plaatje University,2010,Total,
+H23,SPU,Sol Plaatje University,2011,Female,
+H23,SPU,Sol Plaatje University,2011,Male,
+H23,SPU,Sol Plaatje University,2011,Other,
+H23,SPU,Sol Plaatje University,2011,Total,
+H23,SPU,Sol Plaatje University,2012,Female,
+H23,SPU,Sol Plaatje University,2012,Male,
+H23,SPU,Sol Plaatje University,2012,Other,
+H23,SPU,Sol Plaatje University,2012,Total,
+H23,SPU,Sol Plaatje University,2013,Female,
+H23,SPU,Sol Plaatje University,2013,Male,
+H23,SPU,Sol Plaatje University,2013,Other,
+H23,SPU,Sol Plaatje University,2013,Total,
+H23,SPU,Sol Plaatje University,2014,Female,64
+H23,SPU,Sol Plaatje University,2014,Male,60
+H23,SPU,Sol Plaatje University,2014,Other,
+H23,SPU,Sol Plaatje University,2014,Total,124
+H23,SPU,Sol Plaatje University,2015,Female,173
+H23,SPU,Sol Plaatje University,2015,Male,155
+H23,SPU,Sol Plaatje University,2015,Other,
+H23,SPU,Sol Plaatje University,2015,Total,328
+H23,SPU,Sol Plaatje University,2016,Female,382
+H23,SPU,Sol Plaatje University,2016,Male,321
+H23,SPU,Sol Plaatje University,2016,Other,
+H23,SPU,Sol Plaatje University,2016,Total,703
+H24,UMP,University of Mpumalanga,2009,Female,
+H24,UMP,University of Mpumalanga,2009,Male,
+H24,UMP,University of Mpumalanga,2009,Other,
+H24,UMP,University of Mpumalanga,2009,Total,
+H24,UMP,University of Mpumalanga,2010,Female,
+H24,UMP,University of Mpumalanga,2010,Male,
+H24,UMP,University of Mpumalanga,2010,Other,
+H24,UMP,University of Mpumalanga,2010,Total,
+H24,UMP,University of Mpumalanga,2011,Female,
+H24,UMP,University of Mpumalanga,2011,Male,
+H24,UMP,University of Mpumalanga,2011,Other,
+H24,UMP,University of Mpumalanga,2011,Total,
+H24,UMP,University of Mpumalanga,2012,Female,
+H24,UMP,University of Mpumalanga,2012,Male,
+H24,UMP,University of Mpumalanga,2012,Other,
+H24,UMP,University of Mpumalanga,2012,Total,
+H24,UMP,University of Mpumalanga,2013,Female,
+H24,UMP,University of Mpumalanga,2013,Male,
+H24,UMP,University of Mpumalanga,2013,Other,
+H24,UMP,University of Mpumalanga,2013,Total,
+H24,UMP,University of Mpumalanga,2014,Female,73
+H24,UMP,University of Mpumalanga,2014,Male,67
+H24,UMP,University of Mpumalanga,2014,Other,
+H24,UMP,University of Mpumalanga,2014,Total,140
+H24,UMP,University of Mpumalanga,2015,Female,423
+H24,UMP,University of Mpumalanga,2015,Male,393
+H24,UMP,University of Mpumalanga,2015,Other,
+H24,UMP,University of Mpumalanga,2015,Total,816
+H24,UMP,University of Mpumalanga,2016,Female,683
+H24,UMP,University of Mpumalanga,2016,Male,585
+H24,UMP,University of Mpumalanga,2016,Other,
+H24,UMP,University of Mpumalanga,2016,Total,1268
+H25,MUT,Mangosuthu University of Technology,2009,Female,5042
+H25,MUT,Mangosuthu University of Technology,2009,Male,4635
+H25,MUT,Mangosuthu University of Technology,2009,Other,
+H25,MUT,Mangosuthu University of Technology,2009,Total,9677
+H25,MUT,Mangosuthu University of Technology,2010,Female,5214
+H25,MUT,Mangosuthu University of Technology,2010,Male,4819
+H25,MUT,Mangosuthu University of Technology,2010,Other,
+H25,MUT,Mangosuthu University of Technology,2010,Total,10033
+H25,MUT,Mangosuthu University of Technology,2011,Female,5266
+H25,MUT,Mangosuthu University of Technology,2011,Male,5020
+H25,MUT,Mangosuthu University of Technology,2011,Other,
+H25,MUT,Mangosuthu University of Technology,2011,Total,10286
+H25,MUT,Mangosuthu University of Technology,2012,Female,5518
+H25,MUT,Mangosuthu University of Technology,2012,Male,5284
+H25,MUT,Mangosuthu University of Technology,2012,Other,
+H25,MUT,Mangosuthu University of Technology,2012,Total,10802
+H25,MUT,Mangosuthu University of Technology,2013,Female,5715
+H25,MUT,Mangosuthu University of Technology,2013,Male,5660
+H25,MUT,Mangosuthu University of Technology,2013,Other,
+H25,MUT,Mangosuthu University of Technology,2013,Total,11375
+H25,MUT,Mangosuthu University of Technology,2014,Female,5541
+H25,MUT,Mangosuthu University of Technology,2014,Male,5836
+H25,MUT,Mangosuthu University of Technology,2014,Other,
+H25,MUT,Mangosuthu University of Technology,2014,Total,11377
+H25,MUT,Mangosuthu University of Technology,2015,Female,5506
+H25,MUT,Mangosuthu University of Technology,2015,Male,6012
+H25,MUT,Mangosuthu University of Technology,2015,Other,
+H25,MUT,Mangosuthu University of Technology,2015,Total,11518
+H25,MUT,Mangosuthu University of Technology,2016,Female,5483
+H25,MUT,Mangosuthu University of Technology,2016,Male,6105
+H25,MUT,Mangosuthu University of Technology,2016,Other,
+H25,MUT,Mangosuthu University of Technology,2016,Total,11588
+H26,SMHSU,Sefako Makgatho Health Science University,2009,Female,
+H26,SMHSU,Sefako Makgatho Health Science University,2009,Male,
+H26,SMHSU,Sefako Makgatho Health Science University,2009,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2009,Total,
+H26,SMHSU,Sefako Makgatho Health Science University,2010,Female,
+H26,SMHSU,Sefako Makgatho Health Science University,2010,Male,
+H26,SMHSU,Sefako Makgatho Health Science University,2010,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2010,Total,
+H26,SMHSU,Sefako Makgatho Health Science University,2011,Female,
+H26,SMHSU,Sefako Makgatho Health Science University,2011,Male,
+H26,SMHSU,Sefako Makgatho Health Science University,2011,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2011,Total,
+H26,SMHSU,Sefako Makgatho Health Science University,2012,Female,
+H26,SMHSU,Sefako Makgatho Health Science University,2012,Male,
+H26,SMHSU,Sefako Makgatho Health Science University,2012,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2012,Total,
+H26,SMHSU,Sefako Makgatho Health Science University,2013,Female,
+H26,SMHSU,Sefako Makgatho Health Science University,2013,Male,
+H26,SMHSU,Sefako Makgatho Health Science University,2013,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2013,Total,
+H26,SMHSU,Sefako Makgatho Health Science University,2014,Female,
+H26,SMHSU,Sefako Makgatho Health Science University,2014,Male,
+H26,SMHSU,Sefako Makgatho Health Science University,2014,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2014,Total,
+H26,SMHSU,Sefako Makgatho Health Science University,2015,Female,3047
+H26,SMHSU,Sefako Makgatho Health Science University,2015,Male,2027
+H26,SMHSU,Sefako Makgatho Health Science University,2015,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2015,Total,5074
+H26,SMHSU,Sefako Makgatho Health Science University,2016,Female,3294
+H26,SMHSU,Sefako Makgatho Health Science University,2016,Male,2108
+H26,SMHSU,Sefako Makgatho Health Science University,2016,Other,
+H26,SMHSU,Sefako Makgatho Health Science University,2016,Total,5402

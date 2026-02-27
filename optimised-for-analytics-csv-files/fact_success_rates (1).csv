@@ -1,0 +1,193 @@
+institution_code,institution_abbreviation,institution_name,year,success_rate
+H01,CPUT,Cape Peninsula University of Technology,2009,0.78559322
+H01,CPUT,Cape Peninsula University of Technology,2010,0.777858398
+H01,CPUT,Cape Peninsula University of Technology,2011,0.789904978
+H01,CPUT,Cape Peninsula University of Technology,2012,0.772080175
+H01,CPUT,Cape Peninsula University of Technology,2013,0.778158342
+H01,CPUT,Cape Peninsula University of Technology,2014,0.791889552
+H01,CPUT,Cape Peninsula University of Technology,2015,0.8098554
+H01,CPUT,Cape Peninsula University of Technology,2016,0.788783
+H02,UCT,University of Cape Town,2009,0.83798125
+H02,UCT,University of Cape Town,2010,0.839773711
+H02,UCT,University of Cape Town,2011,0.832822526
+H02,UCT,University of Cape Town,2012,0.847389567
+H02,UCT,University of Cape Town,2013,0.855935677
+H02,UCT,University of Cape Town,2014,0.858607707
+H02,UCT,University of Cape Town,2015,0.844419813
+H02,UCT,University of Cape Town,2016,0.847816436
+H03,CUT,Central University of Technology,2009,0.724294386
+H03,CUT,Central University of Technology,2010,0.736507472
+H03,CUT,Central University of Technology,2011,0.758024465
+H03,CUT,Central University of Technology,2012,0.769512639
+H03,CUT,Central University of Technology,2013,0.764615924
+H03,CUT,Central University of Technology,2014,0.749462127
+H03,CUT,Central University of Technology,2015,0.771945498
+H03,CUT,Central University of Technology,2016,0.786489535
+H04,DUT,Durban University of Technology,2009,0.756236834
+H04,DUT,Durban University of Technology,2010,0.750719784
+H04,DUT,Durban University of Technology,2011,0.782826622
+H04,DUT,Durban University of Technology,2012,0.794891349
+H04,DUT,Durban University of Technology,2013,0.808958344
+H04,DUT,Durban University of Technology,2014,0.820395593
+H04,DUT,Durban University of Technology,2015,0.835763273
+H04,DUT,Durban University of Technology,2016,0.83674227
+H05,FH,University of Fort Hare,2009,0.772802111
+H05,FH,University of Fort Hare,2010,0.778881041
+H05,FH,University of Fort Hare,2011,0.775562031
+H05,FH,University of Fort Hare,2012,0.762699814
+H05,FH,University of Fort Hare,2013,0.783806642
+H05,FH,University of Fort Hare,2014,0.80108177
+H05,FH,University of Fort Hare,2015,0.803533914
+H05,FH,University of Fort Hare,2016,0.796858079
+H06,FS,University of Free State,2009,0.718028576
+H06,FS,University of Free State,2010,0.718806434
+H06,FS,University of Free State,2011,0.731982389
+H06,FS,University of Free State,2012,0.737561418
+H06,FS,University of Free State,2013,0.771911059
+H06,FS,University of Free State,2014,0.812836426
+H06,FS,University of Free State,2015,0.824616495
+H06,FS,University of Free State,2016,0.805588851
+H07,UJ,University of Johannesburg,2009,0.746629373
+H07,UJ,University of Johannesburg,2010,0.777320852
+H07,UJ,University of Johannesburg,2011,0.791868342
+H07,UJ,University of Johannesburg,2012,0.815218105
+H07,UJ,University of Johannesburg,2013,0.826342839
+H07,UJ,University of Johannesburg,2014,0.835595505
+H07,UJ,University of Johannesburg,2015,0.837614962
+H07,UJ,University of Johannesburg,2016,0.836996895
+H08,KZN,University of Kwazulu-Natal,2009,0.753799843
+H08,KZN,University of Kwazulu-Natal,2010,0.748217852
+H08,KZN,University of Kwazulu-Natal,2011,0.788442845
+H08,KZN,University of Kwazulu-Natal,2012,0.792579506
+H08,KZN,University of Kwazulu-Natal,2013,0.797373507
+H08,KZN,University of Kwazulu-Natal,2014,0.80637922
+H08,KZN,University of Kwazulu-Natal,2015,0.82520283
+H08,KZN,University of Kwazulu-Natal,2016,0.80848766
+H09,UL,University of Limpopo,2009,0.799030919
+H09,UL,University of Limpopo,2010,0.789865081
+H09,UL,University of Limpopo,2011,0.804298124
+H09,UL,University of Limpopo,2012,0.824783234
+H09,UL,University of Limpopo,2013,0.838378516
+H09,UL,University of Limpopo,2014,0.852548177
+H09,UL,University of Limpopo,2015,0.859504056
+H09,UL,University of Limpopo,2016,0.837016448
+H10,NMU,Nelson Mandela University,2009,0.73629135
+H10,NMU,Nelson Mandela University,2010,0.751956314
+H10,NMU,Nelson Mandela University,2011,0.763778759
+H10,NMU,Nelson Mandela University,2012,0.780241551
+H10,NMU,Nelson Mandela University,2013,0.774576123
+H10,NMU,Nelson Mandela University,2014,0.789227862
+H10,NMU,Nelson Mandela University,2015,0.805056965
+H10,NMU,Nelson Mandela University,2016,0.823612656
+H11,NWU,North West University,2009,0.829617222
+H11,NWU,North West University,2010,0.831799899
+H11,NWU,North West University,2011,0.844537282
+H11,NWU,North West University,2012,0.838277069
+H11,NWU,North West University,2013,0.843138367
+H11,NWU,North West University,2014,0.854098698
+H11,NWU,North West University,2015,0.839008616
+H11,NWU,North West University,2016,0.856243095
+H12,UP,University of Pretoria,2009,0.798943275
+H12,UP,University of Pretoria,2010,0.804694331
+H12,UP,University of Pretoria,2011,0.791891697
+H12,UP,University of Pretoria,2012,0.800681998
+H12,UP,University of Pretoria,2013,0.803581349
+H12,UP,University of Pretoria,2014,0.81737909
+H12,UP,University of Pretoria,2015,0.829341016
+H12,UP,University of Pretoria,2016,0.841035718
+H13,RU,Rhodes University,2009,0.815583468
+H13,RU,Rhodes University,2010,0.83869819
+H13,RU,Rhodes University,2011,0.832234887
+H13,RU,Rhodes University,2012,0.848217206
+H13,RU,Rhodes University,2013,0.837933914
+H13,RU,Rhodes University,2014,0.849565731
+H13,RU,Rhodes University,2015,0.862190027
+H13,RU,Rhodes University,2016,0.860841014
+H14,UNISA,University of South Africa,2009,0.59722933
+H14,UNISA,University of South Africa,2010,0.624907521
+H14,UNISA,University of South Africa,2011,0.662215869
+H14,UNISA,University of South Africa,2012,0.662043474
+H14,UNISA,University of South Africa,2013,0.573607201
+H14,UNISA,University of South Africa,2014,0.663395236
+H14,UNISA,University of South Africa,2015,0.660905767
+H14,UNISA,University of South Africa,2016,0.648681386
+H15,SU,University of Stellenbosch,2009,0.837648727
+H15,SU,University of Stellenbosch,2010,0.831947069
+H15,SU,University of Stellenbosch,2011,0.834003706
+H15,SU,University of Stellenbosch,2012,0.848727887
+H15,SU,University of Stellenbosch,2013,0.858633157
+H15,SU,University of Stellenbosch,2014,0.85091732
+H15,SU,University of Stellenbosch,2015,0.866643261
+H15,SU,University of Stellenbosch,2016,0.859849326
+H16,TUT,Tshwane University of Technology,2009,0.70819498
+H16,TUT,Tshwane University of Technology,2010,0.702623411
+H16,TUT,Tshwane University of Technology,2011,0.723967202
+H16,TUT,Tshwane University of Technology,2012,0.743131385
+H16,TUT,Tshwane University of Technology,2013,0.760620428
+H16,TUT,Tshwane University of Technology,2014,0.752003711
+H16,TUT,Tshwane University of Technology,2015,0.752268576
+H16,TUT,Tshwane University of Technology,2016,0.769115383
+H17,UNIVEN,University of Venda,2009,0.778947197
+H17,UNIVEN,University of Venda,2010,0.792469453
+H17,UNIVEN,University of Venda,2011,0.815660215
+H17,UNIVEN,University of Venda,2012,0.83614679
+H17,UNIVEN,University of Venda,2013,0.828921411
+H17,UNIVEN,University of Venda,2014,0.830458921
+H17,UNIVEN,University of Venda,2015,0.8455323
+H17,UNIVEN,University of Venda,2016,0.860487424
+H18,VUT,Vaal University of Technology,2009,0.735304382
+H18,VUT,Vaal University of Technology,2010,0.739119938
+H18,VUT,Vaal University of Technology,2011,0.730456714
+H18,VUT,Vaal University of Technology,2012,0.734753534
+H18,VUT,Vaal University of Technology,2013,0.736950155
+H18,VUT,Vaal University of Technology,2014,0.746631757
+H18,VUT,Vaal University of Technology,2015,0.740867706
+H18,VUT,Vaal University of Technology,2016,0.757231224
+H19,WSU,Walter Sisulu University,2009,0.71952768
+H19,WSU,Walter Sisulu University,2010,0.68182741
+H19,WSU,Walter Sisulu University,2011,0.73406112
+H19,WSU,Walter Sisulu University,2012,0.781433028
+H19,WSU,Walter Sisulu University,2013,0.797703808
+H19,WSU,Walter Sisulu University,2014,0.81116646
+H19,WSU,Walter Sisulu University,2015,0.805377034
+H19,WSU,Walter Sisulu University,2016,0.802585039
+H20,UWC,University of the Western Cape,2009,0.784523473
+H20,UWC,University of the Western Cape,2010,0.782744687
+H20,UWC,University of the Western Cape,2011,0.787412723
+H20,UWC,University of the Western Cape,2012,0.799742864
+H20,UWC,University of the Western Cape,2013,0.801700529
+H20,UWC,University of the Western Cape,2014,0.812504233
+H20,UWC,University of the Western Cape,2015,0.84419185
+H20,UWC,University of the Western Cape,2016,0.808532734
+H21,WITS,University of Witwatersrand,2009,0.773709674
+H21,WITS,University of Witwatersrand,2010,0.79892345
+H21,WITS,University of Witwatersrand,2011,0.828751911
+H21,WITS,University of Witwatersrand,2012,0.823685507
+H21,WITS,University of Witwatersrand,2013,0.814476681
+H21,WITS,University of Witwatersrand,2014,0.836661407
+H21,WITS,University of Witwatersrand,2015,0.836359746
+H21,WITS,University of Witwatersrand,2016,0.8011463
+H22,UZ,University of Zululand,2009,0.753017715
+H22,UZ,University of Zululand,2010,0.78864134
+H22,UZ,University of Zululand,2011,0.774695588
+H22,UZ,University of Zululand,2012,0.812584835
+H22,UZ,University of Zululand,2013,0.82429249
+H22,UZ,University of Zululand,2014,0.842978115
+H22,UZ,University of Zululand,2015,0.848704897
+H22,UZ,University of Zululand,2016,0.838778264
+H23,SPU,Sol Plaatje University,2014,0.888
+H23,SPU,Sol Plaatje University,2015,0.881190185
+H23,SPU,Sol Plaatje University,2016,0.879915185
+H24,UMP,University of Mpumalanga,2014,0.933823529
+H24,UMP,University of Mpumalanga,2015,0.668046346
+H24,UMP,University of Mpumalanga,2016,0.842004939
+H25,MUT,Mangosuthu University of Technology,2009,0.778426644
+H25,MUT,Mangosuthu University of Technology,2010,0.77598277
+H25,MUT,Mangosuthu University of Technology,2011,0.797775333
+H25,MUT,Mangosuthu University of Technology,2012,0.78730331
+H25,MUT,Mangosuthu University of Technology,2013,0.81439654
+H25,MUT,Mangosuthu University of Technology,2014,0.825920589
+H25,MUT,Mangosuthu University of Technology,2015,0.8268802
+H25,MUT,Mangosuthu University of Technology,2016,0.815030833
+H26,SMHSU,Sefako Makgatho Health Science University,2015,0.837360402
+H26,SMHSU,Sefako Makgatho Health Science University,2016,0.800523987
