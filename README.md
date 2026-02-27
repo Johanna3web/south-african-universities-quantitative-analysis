@@ -1,8 +1,3 @@
-# south-african-universities-quantitative-analysis
-A seven year audit
-
-[Slide Deck](https://uni-audit-insights.lovable.app/)
-
 # South African Universities — Quantitative Analysis
 ### A Seven-Year Audit of Enrolments and Graduates (2006-2016)
 
